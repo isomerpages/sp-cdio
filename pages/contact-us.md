@@ -28,6 +28,6 @@ contacts:
   - content:
       - phone: ""
       - email: cdio@sp.edu.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
 ---
