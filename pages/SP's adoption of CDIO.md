@@ -22,4 +22,6 @@ Some of the notable milestones include:
 * 2013 - SP becomes member of the CDIO Council
 * 2015 - Winners of CDIO academy
 * 2015 - TVET CDIO Conference
-* 
+* 2016 - World's first pharmacy automation system
+* 2017 - SkillsFuture Course Review
+* 2017 - World Solar Car Challenge
