@@ -17,3 +17,4 @@ Some of the notable milestones include:
 * 2009 - 5th CDIO International Conference
 * 2010 - Strengthened CDIO Framework with Design Thinking
 * 2013 - CDIO Asian Regional Meeting
+* 2013 - World Engineers Summit (1st Prize, National Level) 
