@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: SP CDIO
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 500 Dover Road
+      - T4A
+      - Singapore 139651
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
