@@ -16,3 +16,4 @@ Since then, there have been several milestones in the development of CDIO as sho
 Some of the notable milestones include:
 * 2009 - 5th CDIO International Conference
 * 2010 - Strengthened CDIO Framework with Design Thinking
+* 2013 - CDIO Asian Regional Meeting
