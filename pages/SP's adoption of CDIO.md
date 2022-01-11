@@ -16,7 +16,10 @@ Since then, there have been several milestones in the development of CDIO as sho
 Some of the notable milestones include:
 * 2009 - 5th CDIO International Conference
 * 2010 - Strengthened CDIO Framework with Design Thinking
+* 2011 - SP becomes one of 20 institutions worldwide with highly regarded programmes of educational change in Engineering
 * 2013 - CDIO Asian Regional Meeting
 * 2013 - World Engineers Summit (1st Prize, National Level)
 * 2013 - SP becomes member of the CDIO Council
-* etc.... to be added
+* 2015 - Winners of CDIO academy
+* 2015 - TVET CDIO Conference
+* 
