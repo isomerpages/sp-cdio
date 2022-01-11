@@ -25,3 +25,5 @@ Some of the notable milestones include:
 * 2016 - World's first pharmacy automation system
 * 2017 - SkillsFuture Course Review
 * 2017 - World Solar Car Challenge
+* 2018 - Co-Director of the CDIO International Council
+* 2018 - SP becomes one of 15 institutions worldwide to be considered as teachers in Engineering Education
