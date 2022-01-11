@@ -12,3 +12,7 @@ Singapore Polytechnic adopted the use of CDIO in 2004 in order to transform engi
 Since then, there have been several milestones in the development of CDIO as shown in the graphic below. Singapore Polytechnic will also be hosting the upcoming **17th International CDIO Conference** in Oct 2022.
 
 ![Alt text for image on Isomer site](/images/sp-cdio-milestones.jpg)
+
+Some of the notable milestones include:
+* 2009 - 5th CDIO International Conference
+* 2010 - Strengthened CDIO Framework with Design Thinking
