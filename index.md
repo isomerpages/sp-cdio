@@ -19,9 +19,9 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Bite Sized Videos
+          description: Learn more about CDIO
+          url: /bite-sized-videos/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
