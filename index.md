@@ -8,8 +8,8 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: SP CDIO
-      subtitle: Hero subtitle
-      background: /images/SP-Solar-Car.jpg
+      subtitle: Conceive, Design, Implement, Operate
+      background: /images/cdio-banner-final.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
