@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: SP CDIO
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
@@ -28,10 +28,4 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
-
-
