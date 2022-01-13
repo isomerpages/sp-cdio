@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SP CDIO
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/SP-Solar-Car.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
