@@ -23,4 +23,9 @@ contacts:
       - email: cdio@sp.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: CHEAH_Sin_Moh@sp.edu.sg
+      - other: ""
+    title: Cheah Sin Moh
 ---
