@@ -1,5 +1,7 @@
 logo: /images/SP-logo.png
 links:
+  - title: About Us
+    collection: about-us
   - title: SP's Adoption of CDIO
     url: /spcdioadoption
   - title: Example Collection
@@ -8,5 +10,3 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: About Us
-    collection: about-us
