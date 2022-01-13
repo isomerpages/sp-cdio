@@ -21,7 +21,7 @@ sections:
           url: https://gmail.com
         - title: Bite Sized Videos
           description: Learn more about CDIO
-          url: /bite-sized-videos/
+          url: /bite-sized-videos/standard-1
   - infobar:
       title: Infobar title
       subtitle: Subtitle
