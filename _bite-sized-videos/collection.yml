@@ -2,6 +2,7 @@ collections:
   bite-sized-videos:
     output: true
     order:
+      - Standard 6.md
       - Standard 7.md
       - Standard 8.md
       - Standard 9 & 10.md
