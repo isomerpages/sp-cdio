@@ -2,8 +2,6 @@ logo: /images/SP-logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: SP's Adoption of CDIO
-    url: /spcdioadoption
   - title: Example Collection
     collection: example-collection
   - title: Resources
