@@ -16,9 +16,9 @@ sections:
         - title: Events
           description: Join us today
           url: /events
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Training Partners
+          description: Be part of us today
+          url: /training-partners
         - title: Bite Sized Videos
           description: Learn more about CDIO
           url: /bite-sized-videos/standard-1
