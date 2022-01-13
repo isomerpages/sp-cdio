@@ -28,4 +28,9 @@ contacts:
       - email: CHEAH_Sin_Moh@sp.edu.sg
       - other: ""
     title: Cheah Sin Moh
+  - content:
+      - phone: ""
+      - email: Helene_LEONG@sp.edu.sg
+      - other: ""
+    title: Helene Leong
 ---
