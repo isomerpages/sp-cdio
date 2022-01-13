@@ -1,4 +1,5 @@
 collections:
   bite-sized-videos:
     output: true
-    order: []
+    order:
+      - Standard 1.md
