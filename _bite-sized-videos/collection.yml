@@ -2,5 +2,5 @@ collections:
   bite-sized-videos:
     output: true
     order:
-      - Standard 2.md
+      - Standard 12.md
       - Syllabus.md
