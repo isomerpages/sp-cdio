@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - The CDIO Approach.md
       - SP's adoption of CDIO.md
