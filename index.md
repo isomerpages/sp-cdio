@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CDIO Teaching and Learning Centre
+      title: CDIO Centre for Teaching and Learning
       background: /images/cdio-banner-final.jpg
       button: Contact Us
       url: /contact-us/
