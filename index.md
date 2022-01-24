@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: SP CDIO
+      title: SP's CDIO Initiative
       subtitle: Conceive, Design, Implement, Operate
       background: /images/cdio-banner-final.jpg
       button: Contact Us
