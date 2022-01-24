@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CDIO Centre for Innovative Teaching and Learning
+      title: CDIO Centre for Innovative Teaching & Learning
       background: /images/cdio-banner-final.jpg
       button: Contact Us
       url: /contact-us/
