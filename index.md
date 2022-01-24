@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: SP's CDIO Initiative
-      subtitle: Conceive, Design, Implement, Operate
+      title: CDIO Teaching and Learning Centre
       background: /images/cdio-banner-final.jpg
       button: Contact Us
       url: /contact-us/
