@@ -1,5 +1,5 @@
 collections:
-  bite-sized-videos:
+  resources:
     output: true
     order:
       - Standard 1.md
