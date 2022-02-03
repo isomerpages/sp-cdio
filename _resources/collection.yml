@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Bite Sized Videos/.keep
-      - Standard 1.md
       - Standard 2.md
       - Standard 3.md
       - Standard 4.md
