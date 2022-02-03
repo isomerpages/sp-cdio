@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Bite Sized Videos/Standard 4.md
       - Bite Sized Videos/Standard 3.md
       - Bite Sized Videos/Standard 2.md
       - Bite Sized Videos/Standard 1.md
