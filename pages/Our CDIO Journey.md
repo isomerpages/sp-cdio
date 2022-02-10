@@ -17,7 +17,7 @@ description: ""
 | 2015     | TVET CDIO Conference    |    |
 | 2016     | World’s first pharmacy automation system    |    |
 | 2017     | SkillsFuture Course Review    |    |
-| 2017     | World Solar Car Challenge    |    |
+| 2017     | World Solar Car Challenge    | ![Alt text for image on Isomer site](/images/solar-car.jpg)   |
 | 2018     | Co-Director of the CDIO International Council   |    |
 | 2018     | SP becomes one of 15 institutions worldwide to be considered as teachers in Engineering Education   |    |
 | 2019     | Joint No. 2 in CDIO Paper Publications since 2005    |    |
