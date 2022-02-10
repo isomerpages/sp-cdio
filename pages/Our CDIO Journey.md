@@ -12,4 +12,5 @@ description: ""
 | 2009     | 5th CDIO International Conference    |    |
 | 2001     | 2011 - SP becomes one of 20 institutions worldwide with highly regarded programmes of educational change in Engineering   |    |
 | 2013     | CDIO Asian Regional Meeting    |    |
-| 2013     | World Engineers Summit (1st Prize, National Level)    |    |
+| 2013     | World Engineers Summit (1st Prize, National Level)    | 
+| 2013     | SP becomes member of the CDIO Council    |    |
