@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - CDIO Projects in Asia.md
       - Temasek Foundation CDIO Forum (2019).md
       - CDIO International Working Meeting (2019).md
       - CDIO Regional Meeting (2013).md
