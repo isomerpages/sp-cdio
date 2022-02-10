@@ -2,6 +2,8 @@ logo: /images/SP-logo.png
 links:
   - title: About Us
     collection: about-us
+  - title: Our Work
+    collection: our-work
   - title: Events
     url: /events
   - title: Resources
@@ -10,5 +12,3 @@ links:
     url: /training-partners
   - title: Contact Us
     url: /contact-us/
-  - title: Our Work
-    collection: our-work
