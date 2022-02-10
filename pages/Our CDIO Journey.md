@@ -15,3 +15,4 @@ description: ""
 | 2013     | World Engineers Summit (1st Prize, National Level)    | 
 | 2015     | Winners of CDIO Academy    |    |
 | 2015     | TVET CDIO Conference    |    |
+| 2016     | World’s first pharmacy automation system    |    |
