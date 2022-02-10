@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Promoting CDIO.md
       - SP Learning Express.md
       - SP Engineering Show.md
       - Coleader Asia.md
