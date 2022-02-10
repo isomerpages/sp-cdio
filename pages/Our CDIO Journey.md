@@ -20,3 +20,4 @@ description: ""
 | 2017     | World Solar Car Challenge    |    |
 | 2018     | Co-Director of the CDIO International Council   |    |
 | 2018     | SP becomes one of 15 institutions worldwide to be considered as teachers in Engineering Education   |    |
+| 2019     | Joint No. 2 in CDIO Paper Publications since 2005    |    |
