@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our CDIO Approach.md
       - Our CDIO Journey.md
       - SP's adoption of CDIO.md
       - The CDIO Approach.md
