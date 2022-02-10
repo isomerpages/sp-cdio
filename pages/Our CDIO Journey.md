@@ -5,3 +5,15 @@ date: 2022-02-10
 layout: post
 description: ""
 ---
+
+
+| Year | Event |  |
+| -------- | -------- | -------- |
+| 2004     | SP becomes a CDIO member     |    |
+| 2006     | Large-scale roll-out of CDIO     |    |
+| 2009     | 5th CDIO International Conference    |    |
+| 2001     | 2011 - SP becomes one of 20 institutions worldwide with highly regarded programmes of educational change in Engineering   |    |
+| 2009     | 5th CDIO International Conference    |    |
+
+
+
