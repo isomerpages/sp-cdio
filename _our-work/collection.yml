@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - CDIO International Working Meeting.md
       - CDIO Regional Meeting (2013).md
       - 5th International CDIO Conference (2009).md
       - Promoting CDIO.md
