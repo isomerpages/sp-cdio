@@ -11,7 +11,7 @@ description: ""
 | 2006     | Large-scale roll-out of CDIO     |    |
 | 2009     | 5th CDIO International Conference    |    |
 | 2001     | 2011 - SP becomes one of 20 institutions worldwide with highly regarded programmes of educational change in Engineering   |    |
-| 2013     | CDIO Asian Regional Meeting    |    |
+| 2013     | CDIO Asian Regional Meeting    | ![Alt text for image on Isomer site](/images/2013-asign-regional-meeting.jpg)    |
 | 2013     | World Engineers Summit (1st Prize, National Level)    | 
 | 2015     | Winners of CDIO Academy    |    |
 | 2015     | TVET CDIO Conference    |    |
