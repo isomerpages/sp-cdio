@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - 5th International CDIO Conference.md
       - Promoting CDIO.md
       - SP Learning Express.md
       - SP Engineering Show.md
