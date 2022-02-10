@@ -17,3 +17,4 @@ description: ""
 | 2015     | TVET CDIO Conference    |    |
 | 2016     | World’s first pharmacy automation system    |    |
 | 2017     | SkillsFuture Course Review    |    |
+| 2017     | World Solar Car Challenge    |    |
