@@ -10,3 +10,8 @@ description: ""
 In the show, you will see a wide mix of projects - real-life industry-related projects, research projects with local universities and research institutes and multidisciplinary model projects, spread across different themes.
 
 These projects demonstrate the ability of SP's engineering students to integrate both knowledge and skills through a Design Thinking process to innovate and develop products and prototypes that solve real-world problems. This is the result of the successful implementation of the CDIO (Conceive, Design, Implement & Operate) curriculum in SP's engineering courses.
+
+**Links**
+
+*  [SP Engineering Show 2022](https://www.sp.edu.sg/cls/sp-engineering-show)
+*  [SP Engineering Show 2021](https://industry.sp.edu.sg/department-tiearchive/sp-engineering-show-2021/)
