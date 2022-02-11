@@ -3,7 +3,9 @@ title: SP Engineering Show
 permalink: /our-work/sp-engineering-show
 description: ""
 ---
-The SP Engineering Show is an annual exhibition that showcases the creations and innovations of SP's final year students from the Engineering courses. This is an important milestone in their education as it gives them an opportunity to stage their product and leave a legacy for their juniors.
+![](/images/engineering-show.jpg)
+
+[The SP Engineering Show](https://industry.sp.edu.sg/department-tiearchive/sp-engineering-show-2021/) is an annual exhibition that showcases the creations and innovations of SP's final year students from the Engineering courses. This is an important milestone in their education as it gives them an opportunity to stage their product and leave a legacy for their juniors.
 
 In the show, you will see a wide mix of projects - real-life industry-related projects, research projects with local universities and research institutes and multidisciplinary model projects, spread across different themes.
 
