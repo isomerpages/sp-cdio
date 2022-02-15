@@ -5,5 +5,4 @@ date: 2022-01-13
 layout: post
 description: ""
 ---
-
-* Chalmers
+SP conducts CDIO training.
