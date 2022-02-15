@@ -9,22 +9,9 @@ sections:
   - hero:
       title: CDIO Centre for Innovative Teaching & Learning
       background: /images/cdio-banner-final.jpg
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Events
-          description: Join us today
-          url: /events
-        - title: Training Partners
-          description: Be part of us today
-          url: /training-partners
-        - title: Bite Sized Videos
-          description: Learn more about CDIO
-          url: /bite-sized-videos/standard-1
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Contact Us Today
+      description: Enquire about our CDIO programmes and/or events
+      button: Please Click Here
+      url: https://www.form.gov.sg/620b57a49ef148001499caf1
 ---
