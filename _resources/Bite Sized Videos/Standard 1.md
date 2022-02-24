@@ -10,11 +10,3 @@ third_nav_title: Bite Sized Videos
 <iframe width="640" height="400" src="https://www.youtube.com/embed/DYHmr1Mnj3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Adopting the principle that product, process and system lifecycle development and deployment - Conceiving, Designing, Implementing and Operating - are the context for engineering education.
-
-
-
-
-Reference
-
-
-[http://www.cdio.org/implementing-cdio/standards/12-cdio-standards#standard1](http://www.cdio.org/implementing-cdio/standards/12-cdio-standards#standard1)
