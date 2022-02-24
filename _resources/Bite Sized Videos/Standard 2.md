@@ -7,9 +7,7 @@ third_nav_title: Bite Sized Videos
 **Standard 2 - Learning Outcomes**
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LvqXDyNQqvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="400" src="https://www.youtube.com/embed/LvqXDyNQqvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Reference
-
-[http://www.cdio.org/implementing-cdio/standards/12-cdio-standards#standard2](http://www.cdio.org/implementing-cdio/standards/12-cdio-standards#standard2)
+Some specific, detailed learning outcomes for personal and interpersonal skills, and product, process and system building skills, as well as disciplinary knowledge - consistent with programme goals and validated by programme stakeholders.
