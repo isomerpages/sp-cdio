@@ -14,4 +14,10 @@ sections:
       description: Enquire about our CDIO programmes and/or events
       button: Please Click Here
       url: https://www.form.gov.sg/620b57a49ef148001499caf1
+  - infopic:
+      title: Worldwide CDIO Initiative
+      button: Visit Website
+      url: http://www.cdio.org/
+      image: /images/CDIO_logo.png
+      alt: Image alt text
 ---
