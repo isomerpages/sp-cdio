@@ -2,4 +2,4 @@ collections:
   events:
     output: true
     order:
-      - Events.md
+      - CDIO2022@SP.md
