@@ -6,3 +6,5 @@ description: ""
 The event will be happening in-person at Singapore Polytechnic in Singapore.
 
 We recommend that participants stay at the [Park Avenue Rochester](https://parkavenuerochester.sg-singapore.com/en/), which is 10 minutes away from Singapore Polytechnic via train.
+
+Bookings can be done using the website link above or via other online booking platforms.
