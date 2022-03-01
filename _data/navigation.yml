@@ -5,12 +5,10 @@ links:
   - title: Our Work
     collection: our-work
   - title: Events
-    url: /events
+    collection: events
   - title: Resources
     collection: resources
   - title: Training Programmes
     url: /training-partners
   - title: Contact Us
     url: /contact-us/
-  - title: Events
-    collection: events
