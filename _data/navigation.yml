@@ -12,3 +12,5 @@ links:
     url: /training-partners
   - title: Contact Us
     url: /contact-us/
+  - title: Events
+    collection: events
