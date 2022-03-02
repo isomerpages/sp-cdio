@@ -2,6 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Travelling to Singapore.md
       - CDIO2022@SP.md
       - Accommodations.md
+      - Travelling to Singapore.md
