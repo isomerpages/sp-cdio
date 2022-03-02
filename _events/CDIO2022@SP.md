@@ -9,3 +9,7 @@ description: ""
 
 THEME for CDIO Asian Regional Meeting:  (TENTATIVE)
 **CDIO and Education for Sustainable Development in the Digital Age**
+
+Dates: 10 to 14 Oct 2022
+
+[Registration Link](https://www.form.gov.sg/#!/621d87480ea7c300125d6a7e)
