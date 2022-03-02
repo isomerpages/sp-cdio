@@ -13,7 +13,7 @@ sections:
       title: Worldwide CDIO Initiative
       button: Visit Website
       url: http://www.cdio.org/
-      image: /images/CDIO_logo.png
+      image: /images/CDIO_logo_2.png
       alt: Image alt text
   - infobar:
       title: Contact Us Today
