@@ -6,6 +6,7 @@ third_nav_title: Bite Sized Videos
 ---
 **Standard 1 - The Context**
 
+![](/images/Asset%202.png)
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/DYHmr1Mnj3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
