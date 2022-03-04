@@ -4,7 +4,7 @@ permalink: /bite-sized-videos/standard-5
 description: ""
 third_nav_title: Bite Sized Videos
 ---
-**Standard 5 - Design-Implement Experiences**
+![](/images/cdio5.png)
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/dY-XjCreEqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
