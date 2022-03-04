@@ -4,7 +4,7 @@ permalink: /bite-sized-videos/standard-3
 description: ""
 third_nav_title: Bite Sized Videos
 ---
-**Standard 3 - Integrated Curriculum**
+![](/images/cdio3.png)
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/RnJ7J23BFrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
