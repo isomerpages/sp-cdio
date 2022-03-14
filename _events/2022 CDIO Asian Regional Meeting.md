@@ -12,4 +12,5 @@ THEME for CDIO Asian Regional Meeting:  (TENTATIVE)
 
 Dates: 10 to 14 Oct 2022
 
-[Registration Link](https://www.form.gov.sg/#!/621d87480ea7c300125d6a7e)
+![](/images/cdio2022-poster.png)
+
