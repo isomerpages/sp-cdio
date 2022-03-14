@@ -50,6 +50,9 @@ CDIO and Education for Sustainable Development in the Digital Age
 |      | Group A: i4.0 Technologies for supporting Sustainable Development (focus on Student Projects) |
 |      | Group B: Teaching & Learning Practices for Transformative Learning for Sustainable Development |
 | 3:15 to 3:45pm     | WORKING Tea Break |
+| 3:45 to 5:00pm     | Group A: Continued |
+|      | Group B: Continued |
+| 5:00pm     | End of Day 2. Free and Easy. |
 
 
 
