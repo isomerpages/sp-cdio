@@ -66,8 +66,10 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 10:50 to 11:20am     | Report Back on Hackathon Group A (i4.0 Technologies for Sustainable Development) |
 | 11:20 to 11:40am     | Report Back on Hackathon Group B (T&L Practices for Transformative Learning for Sustainable Development) |
 | 11:40am to 12:30pm     | CDIO Asian Leaders Meeting III    |
-|      | CDIO Asian Leaders Meeting III    |
-|      | CDIO Asian Leaders Meeting III    |
+|      | •	CDIO Application(s)    |
+|      | •	Hosting of 2023 CDIO Asian Regional Meeting
+Decision by Members
+    |
 
 
 
