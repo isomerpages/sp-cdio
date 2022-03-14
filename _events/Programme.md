@@ -72,6 +72,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 2:00 to 3:00pm     | Election for Co-Chairs of CDIO Asian Region |
 | 3:00 to 3:45pm     | Discussion by CDIO Asian Leaders on Possible Areas of Collaboration among CDIO Collaborators  |
 | 3:45 to 4:15pm     | WORKING Tea Break |
+| 4:15 to 5:00pm     | Discussion by CDIO Asian Leaders (cont’d) |
 
 
 
