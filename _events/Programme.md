@@ -70,6 +70,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 |      | •	Hosting of 2023 CDIO Asian Regional Meeting Decision by Members   |
 | 12:30 to 2:00pm     | Lunch Break |
 | 2:00 to 3:00pm     | Election for Co-Chairs of CDIO Asian Region |
+| 3:00 to 3:45pm     | Discussion by CDIO Asian Leaders on Possible Areas of Collaboration among CDIO Collaborators,  |
 
 
 
