@@ -5,4 +5,4 @@ description: ""
 ---
 Click on the logo below to visit the official website of the Worldwide CDIO Initiative:
 
-[![Worldwide CDIO Initiative website](/images/CDIO_logo.png)](www.cdio.org)
+[![Worldwide CDIO Initiative website](/images/CDIO_logo.png)](http://www.cdio.org/)
