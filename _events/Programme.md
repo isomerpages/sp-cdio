@@ -56,7 +56,9 @@ CDIO and Education for Sustainable Development in the Digital Age
 
 **Day 3 (October 12, 2022: Wednesday)**
 
-
+| Time | Item |
+| -------- | -------- |
+| 9:00 to 9:15am     | Arrival of Participants    |
 
 
 
