@@ -62,6 +62,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 9:30 to 10:30am     | CDIO Asian Leaders Meeting II    |
 |      | Presentation by Applicants to join CDIO   |
 |      | Presentation for hosting 2022 CDIO Asian Regional Meeting |
+| 10:30 to 11:00am     | Tea Break |
 
 
 
