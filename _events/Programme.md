@@ -30,6 +30,13 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 3:45 to 5:00pm     | CDIO Asian Leaders Meeting I – cont’d |
 | 5:00pm     | End of Day 1. Free and Easy. |
 
+**Day 2 (October 11, 2022: Tuesday)**
+
+| Time | Item |
+| -------- | -------- |
+| 9:00 to 9:15am     | Arrival of Participants    |
+
+
 
 
 
