@@ -68,6 +68,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 11:40am to 12:30pm     | CDIO Asian Leaders Meeting III    |
 |      | •	CDIO Application(s)    |
 |      | •	Hosting of 2023 CDIO Asian Regional Meeting Decision by Members   |
+| 12:30 to 2:00pm     | Lunch Break |
 
 
 
