@@ -59,7 +59,9 @@ CDIO and Education for Sustainable Development in the Digital Age
 | Time | Item |
 | -------- | -------- |
 | 9:15 to 9:30am     | Arrival of Participants    |
-
+| 9:30 to 10:30am     | CDIO Asian Leaders Meeting II    |
+|      | Presentation by Applicants to join CDIO   |
+|      | Presentation for hosting 2023 CDIO Asian Regional Meeting |
 
 
 
