@@ -58,7 +58,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 
 | Time | Item |
 | -------- | -------- |
-| 9:00 to 9:15am     | Arrival of Participants    |
+| 9:15 to 9:30am     | Arrival of Participants    |
 
 
 
