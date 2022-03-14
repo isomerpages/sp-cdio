@@ -27,6 +27,10 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 12:30 to 2:00pm     | Lunch Break |
 | 2:00 to 3:15pm     | CDIO Asian Leaders Meeting I. Agenda: will be made available later |
 | 3:!5 to 3:45pm     | Tea Break |
+| 3:45 to 5:00pm     | CDIO Asian Leaders Meeting I – cont’d |
+| 5:00pm     | End of Day 1. Free and Easy. |
+
+
 
 
 
