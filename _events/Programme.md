@@ -37,7 +37,14 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 9:00 to 9:15am     | Arrival of Participants    |
 | 9:15 to 10:00am     | Keynote Speech 3:  (Tentative) Sustainability and the Little Red Dot:  The Singapore Green Plan 2030 TBC    |
 | 10:00 to 10:45am     | Keynote Speech 4:  (Tentative) Beyond i4.0: Digital Transformation and the Future of Work TBC    |
-
+| 10:45 to 11:15am     | Tea Break |
+| 11:15 to 11:50am     | 3 parallel Sharing Sessions – Participants to Choose ONE.  |
+|      | Sharing Session 1A: Topic 1A-1  |
+|      | Sharing Session 1B: Topic 1B-1  |
+|      | Sharing Session 1C: Topic 1C-1  |
+| 11:55am to 12:30pm     | Sharing Session 1A: Topic 1A-2   |
+|      | Sharing Session 1B: Topic 1B-2  |
+|      | Sharing Session 1C: Topic 1C-3  |
 
 
 
