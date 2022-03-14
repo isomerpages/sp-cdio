@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - Registration.md
       - 2022 CDIO Asian Regional Meeting.md
       - Programme.md
+      - Registration.md
       - Accommodations.md
       - Travelling to Singapore.md
