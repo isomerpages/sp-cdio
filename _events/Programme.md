@@ -45,6 +45,11 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 11:55am to 12:30pm     | Sharing Session 1A: Topic 1A-2   |
 |      | Sharing Session 1B: Topic 1B-2  |
 |      | Sharing Session 1C: Topic 1C-3  |
+| 12:30 to 2:00pm     | Lunch Break |
+| 2:00 to 3:15pm     | Hackathon – 2 Parallel Events |
+|      | Group A: i4.0 Technologies for supporting Sustainable Development (focus on Student Projects) |
+|      | Group B: Teaching & Learning Practices for Transformative Learning for Sustainable Development
+ |
 
 
 
