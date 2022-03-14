@@ -36,6 +36,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 | -------- | -------- |
 | 9:00 to 9:15am     | Arrival of Participants    |
 | 9:15 to 10:00am     | Keynote Speech 3:  (Tentative) Sustainability and the Little Red Dot:  The Singapore Green Plan 2030 TBC    |
+| 10:00 to 10:45am     | Keynote Speech 4:  (Tentative) Beyond i4.0: Digital Transformation and the Future of Work TBC    |
 
 
 
