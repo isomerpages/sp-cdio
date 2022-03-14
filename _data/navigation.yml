@@ -8,7 +8,7 @@ links:
     collection: events
   - title: Resources
     collection: resources
-  - title: Contact Us
-    url: /contact-us/
   - title: CDIO Training Programmes
     collection: cdio-training-programmes
+  - title: Contact Us
+    url: /contact-us/
