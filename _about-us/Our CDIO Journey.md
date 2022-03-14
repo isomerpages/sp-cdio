@@ -5,7 +5,7 @@ date: 2022-02-10
 layout: post
 description: ""
 ---
-Since adopting CDIO in 2004, there have been several milestones in the development of CDIO as shown in the graphic below. Singapore Polytechnic will also be hosting the upcoming **17th International CDIO Conference in Oct 2022**.
+Since adopting CDIO in 2004, there have been several milestones in the development of CDIO as shown in the graphic below. Singapore Polytechnic will also be hosting the upcoming **18th International CDIO Conference in Oct 2022**.
 
 ![](/images/sp-cdio-milestones.jpg)
 
