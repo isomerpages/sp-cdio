@@ -13,4 +13,6 @@ Workshop WL2 (18 days) provides a comprehensive faculty professional development
 
 Workshop WL3 (5 days) are meant to provide participants with short and concise knowledge and skills to kick start a program for adopting the CDIO Framework. It is recommended for all who will be involved in the curriculum redesign process to acquire working know-how in using the CDIO Framework. The main emphasis is on carrying out a Self-Evaluation of one’s program. It can be conducted fully online or preferably on-site at the host institution.
 
-A consultancy fee will be charged for these workshops, which for on-site sessions, will also include air and land travel, meals and accommodation. For sessions to be conducted in SP, all expenses associated with travel, meals and accommodation will be borne by your institution. 
+A consultancy fee will be charged for these workshops, which for on-site sessions, will also include air and land travel, meals and accommodation. For sessions to be conducted in SP, all expenses associated with travel, meals and accommodation will be borne by your institution.
+
+Use the [CONTACT FORM](https://www.form.gov.sg/#!/621d82477ef19c001210bd7a) to reach us, if you like one to be arranged for your institution. Other topics not listed here can be arranged. Again, use the [CONTACT FORM](https://www.form.gov.sg/#!/621d82477ef19c001210bd7a) to submit your enquiry.
