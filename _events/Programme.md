@@ -19,6 +19,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 | -------- | -------- |
 | 9:00 to 9:30am     | Arrival and Registration of Participants    |
 | 9:30 to 9:45am     | Welcome Speech by Ms. Helene Leong, Director, Department of Educational Development, Singapore Polytechnic; Co-Director, CDIO Council; Co-chair, CDIO Asian Region  |
+| 9:30 to 9:45am     | Welcome Address by Mr. Soh Wai Wah, Principal & CEO, Singapore Polytechnic |
 
 
 
