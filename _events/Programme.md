@@ -26,6 +26,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 11:15am to 12:30pm     | Keynote Speech 2: (Tentative) Driving Sustainable Development via International Collaboration |
 | 12:30 to 2:00pm     | Lunch Break |
 | 2:00 to 3:15pm     | CDIO Asian Leaders Meeting I. Agenda: will be made available later |
+| 3:!5 to 3:45pm     | Tea Break |
 
 
 
