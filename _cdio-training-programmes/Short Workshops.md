@@ -9,3 +9,4 @@ Participants are expected to already acquire basic understanding of the CDIO Fra
 
 All workshops can also be delivered on-site at the request of the host institution, as part of larger events such as part of a conference that the host institution is organizing. A small fee will be charged on these workshops when offered online. For on-site delivery, the host institution is expected to also cover all expenses related to air and land travel, meals and accommodation for the facilitator(s).
 
+Use the [CONTACT FORM](https://www.form.gov.sg/#!/621d82477ef19c001210bd7a) to reach us, if you like one to be arranged for your institution. Other topics not listed here can be arranged. Again, use the [CONTACT FORM](https://www.form.gov.sg/#!/621d82477ef19c001210bd7a) to submit your enquiry.
