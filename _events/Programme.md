@@ -48,8 +48,8 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 12:30 to 2:00pm     | Lunch Break |
 | 2:00 to 3:15pm     | Hackathon – 2 Parallel Events |
 |      | Group A: i4.0 Technologies for supporting Sustainable Development (focus on Student Projects) |
-|      | Group B: Teaching & Learning Practices for Transformative Learning for Sustainable Development
- |
+|      | Group B: Teaching & Learning Practices for Transformative Learning for Sustainable Development |
+| 3:!5 to 3:45pm     | WORKING Tea Break |
 
 
 
