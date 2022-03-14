@@ -1,0 +1,4 @@
+collections:
+  cdio-training-programmes:
+    output: true
+    order: []
