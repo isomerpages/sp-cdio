@@ -3,4 +3,4 @@ title: Programme
 permalink: /events/cdio2022-programme
 description: ""
 ---
-Programme
+The programme will be available soon.
