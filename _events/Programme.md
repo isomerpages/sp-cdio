@@ -54,6 +54,8 @@ CDIO and Education for Sustainable Development in the Digital Age
 |      | Group B: Continued |
 | 5:00pm     | End of Day 2. Free and Easy. |
 
+**Day 3 (October 12, 2022: Wednesday)**
+
 
 
 
