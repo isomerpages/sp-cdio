@@ -21,6 +21,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 9:30 to 9:45am     | Welcome Speech by Ms. Helene Leong, Director, Department of Educational Development, Singapore Polytechnic; Co-Director, CDIO Council; Co-chair, CDIO Asian Region  |
 | 9:30 to 9:45am     | Welcome Address by Mr. Soh Wai Wah, Principal & CEO, Singapore Polytechnic |
 | 9:45 to 10:45am     | Keynote Speech 1: (Tentative) Transformative Learning for Developing Sustainability Mindset |
+| 10:45 to 11:15am     | Tea Break |
 
 
 
