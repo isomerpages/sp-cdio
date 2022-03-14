@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Programme.md
       - 2022 CDIO Asian Regional Meeting.md
       - Accommodations.md
       - Travelling to Singapore.md
