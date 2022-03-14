@@ -1,4 +1,5 @@
 collections:
   cdio-training-programmes:
     output: true
-    order: []
+    order:
+      - Webinar.md
