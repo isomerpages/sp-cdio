@@ -63,7 +63,8 @@ CDIO and Education for Sustainable Development in the Digital Age
 |      | Presentation by Applicants to join CDIO   |
 |      | Presentation for hosting 2022 CDIO Asian Regional Meeting |
 | 10:30 to 10:50am     | Tea Break |
-
+| 10:50 to 11:20am     | Report Back on Hackathon Group A (i4.0 Technologies for Sustainable Development) |
+| 11:20 to 11:40am     | Report Back on Hackathon Group B (T&L Practices for Transformative Learning for Sustainable Development) |
 
 
 
