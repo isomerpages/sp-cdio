@@ -2,6 +2,6 @@ collections:
   cdio-training-programmes:
     output: true
     order:
-      - Webinar.md
+      - Webinars.md
       - Short Workshops.md
       - Long Workshops.md
