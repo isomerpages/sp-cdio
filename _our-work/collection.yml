@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CDIO Worldwide/5th International CDIO Conference (2009).md
-      - CDIO Worldwide/CDIO International Working Meeting (2019).md
+      - CDIO Worldwide/CDIO International Working Meeting.md
       - CDIO Worldwide/.keep
       - CDIO in Asia/.keep
       - CDIO in Asia/CDIO Regional Meeting (2013).md
