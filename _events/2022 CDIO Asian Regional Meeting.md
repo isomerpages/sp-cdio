@@ -7,10 +7,6 @@ description: ""
 ---
 # 2022 CDIO Asian Regional Meeting
 
-THEME for CDIO Asian Regional Meeting:  (TENTATIVE)
-**CDIO and Education for Sustainable Development in the Digital Age**
+## **Dates: 10 to 12 Oct 2022**
 
-Dates: 10 to 14 Oct 2022
-
-![](/images/cdio2022-poster.png)
-
+This meeting is held in conjunction with the Temasek Foundation – Singapore Polytechnic CDIO Forum on Education for Sustainability (ESD) 2022 which will be held from 10 to 14 Oct 2022.
