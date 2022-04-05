@@ -2,13 +2,13 @@ collections:
   our-work:
     output: true
     order:
-      - CDIO in SP/SP Learning Express.md
-      - CDIO in SP/SP Engineering Show.md
-      - CDIO in SP/.keep
+      - CDIO Worldwide/.keep
+      - CDIO in Asia/.keep
       - CDIO in Asia/CDIO Regional Meeting (2013).md
       - CDIO in Asia/Coleader Asia.md
-      - CDIO in Asia/.keep
-      - CDIO Worldwide/.keep
+      - CDIO in SP/.keep
+      - CDIO in SP/SP Learning Express.md
+      - CDIO in SP/SP Engineering Show.md
       - CDIO Council.md
       - 5th International CDIO Conference (2009).md
       - CDIO International Working Meeting (2019).md
