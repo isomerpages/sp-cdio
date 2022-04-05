@@ -74,8 +74,7 @@ CDIO and Education for Sustainable Development in the Digital Age
 | 3:45 to 4:15pm     | WORKING Tea Break |
 | 4:15 to 5:00pm     | Discussion by CDIO Asian Leaders (cont’d) |
 | 5:00pm     | End of Day 3 and End of 2022 CDIO Asian Regional Meeting |
-| 6:00 to 9:00pm     | DINNER for CDIO Asian Leaders (by Invitation Only from PCEO)
- |
+
 
 
 
