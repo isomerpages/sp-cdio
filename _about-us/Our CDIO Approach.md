@@ -7,4 +7,3 @@ Singapore Polytechnic adopted the use of CDIO in 2004 in order to transform engi
 
 ![Alt text for image on Isomer site](/images/engineering-transformation.jpg)
 
-For more on SP's adoption of CDIO and Design Thinking, please visit [https://www.sp.edu.sg/engineering/space/teaching-methods](https://www.sp.edu.sg/engineering/space/teaching-methods)
