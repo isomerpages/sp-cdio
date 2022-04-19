@@ -16,6 +16,10 @@ These projects demonstrate the ability of SP's engineering students to integrate
 
 [SP Engineering Show 2014](/files/SPES2014.pdf)
 
+[SP Engineering Show 2015](/files/SPES2015.pdf)
+
+[SP Engineering Show 2016](/files/SPES2016.pdf)
+
 
 
 **Links**
