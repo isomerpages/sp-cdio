@@ -6,7 +6,7 @@ third_nav_title: CDIO in Asia
 ---
 # TFI CDIO Workshops
 
-These are workshops organized by SP International (SPI) over the years, jointly conducted by SP CDIO Experts and SPI Consultants. These workshops were conducted at-site at partner universities, with multiple components spread over a duration of several months. During the Covid-19 pandemic, the workshops were delivered online. For more information on such workshops, please visit the SPI website at https://spi.edu.sg/.
+These are workshops organized by SP International (SPI) over the years, jointly conducted by SP CDIO Experts and SPI Consultants. These workshops were conducted at-site at partner universities, with multiple components spread over a duration of several months. During the Covid-19 pandemic, the workshops were delivered online. For more information on such workshops, please visit the SPI website at [https://spi.edu.sg/](https://spi.edu.sg/).
 
 
 
@@ -25,4 +25,3 @@ These are workshops organized by SP International (SPI) over the years, jointly 
 | 2012-2014     | TF-SP-Chulalongkorn Thailand CDIO Project   |
 | 2012-2014     | TF-SP-VNU HCMC Vietnam CDIO Project   |
 | 2011    | TF-SP-UTM UiTM Malaysia CDIO Project     |
-
