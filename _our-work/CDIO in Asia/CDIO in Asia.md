@@ -22,3 +22,5 @@ SP is very active in the CDIO Asian Region. The SP CDIO Centre shared knowledge 
 | April 2019     | Shared CDIO with delegates from Myanmar TVET on Quality Assurance in Teaching and Learning   |
 | March 2019     | Shared a Case Study “Curriculum Transformation using CDIO to Fulfill Singapore SkillsFuture Initiative” during the Asian Regional Meeting hosted by Dalian Neusoft University of Information, China    |
 | March 2019     | Conducted “Introduction to CDIO for Beginners” during the Asian Regional Meeting hosted by Dalian Neusoft University of Information, China   |
+| February 2019     | 10-day ROK-ASEAN CDIO Workshop for 14 Universities from 9 ASEAN countries, with follow-ups to respective countries of participants   |
+| March 2018     | Delivered an presentation on “Pedagogy for Evidence-based Flipped Classroom” at the Asian Regional Meeting hosted by Duy Tan University in Vietnam   |
