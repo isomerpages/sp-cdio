@@ -11,4 +11,5 @@ SP is very active in the CDIO Asian Region. The SP CDIO Centre shared knowledge 
 | Period | Program Name |
 | -------- | -------- |
 | February 2022     | Speaker on the Education Webinar, on the topic “Using CDIO to Address Challenges of Education 4.0 in the Era of Industry 4.0 Revolution”, organized by University of Southern Philippines     |
-
+| November 2021     | Speakers at the online International Conference on Innovations in Engineering Education, organized by the Batangas State University of The Philippines on the following topics: “Teaching and Learning in the New Normal: Best Practices in Southeast Asia” and “Advances in Integrated Learning Experiences using Core Principles of Learning”    |
+| October 2021     | Conducted Workshop “Introduction to CDIO for Beginners” at the Asian Regional Meeting hosted online by Australian College Kuwait of Kuwait   |
