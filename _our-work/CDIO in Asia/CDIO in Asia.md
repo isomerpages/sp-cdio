@@ -15,3 +15,4 @@ SP is very active in the CDIO Asian Region. The SP CDIO Centre shared knowledge 
 | October 2021     | Conducted Workshop “Introduction to CDIO for Beginners” at the Asian Regional Meeting hosted online by Australian College Kuwait of Kuwait   |
 | September 2021     | Speaker at the online International Conference for Curriculum Development and Instructional Innovation, organized by the Rajamangala University of Technology Thanyaburi of Thailand, on the topic “Developing 21st Century Competence using CDIO”   |
 | September 2020     | Conducted CDIO Roundtable Discussion “Innovating T&L” at the Asian Regional Meeting hosted online by Mongolian University of Science & Technology from Mongolia   |
+| September 2020     | 2-Day Online CDIO Familiarization Workshop Universities from Taiwan   |
