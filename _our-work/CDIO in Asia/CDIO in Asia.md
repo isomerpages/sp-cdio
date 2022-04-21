@@ -17,3 +17,6 @@ SP is very active in the CDIO Asian Region. The SP CDIO Centre shared knowledge 
 | September 2020     | Conducted CDIO Roundtable Discussion “Innovating T&L” at the Asian Regional Meeting hosted online by Mongolian University of Science & Technology from Mongolia   |
 | September 2020     | 2-Day Online CDIO Familiarization Workshop Universities from Taiwan   |
 | October 2019     | 2-Day CDIO Workshop on Integrated Curriculum for a University in Vietnam   |
+| June 2019     | 2.5-Day CDIO Workshop on Active Learning for a university in Thailand   |
+| April 2019     | 2-day Workshop for Taiwanese Universities on the CDIO Framework and how to Integrated Creativity in Engineering Education, in Taiwan   |
+| April 2019     | Shared CDIO with delegates from Myanmar TVET on Quality Assurance in Teaching and Learning   |
