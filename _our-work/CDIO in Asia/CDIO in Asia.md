@@ -24,3 +24,4 @@ SP is very active in the CDIO Asian Region. The SP CDIO Centre shared knowledge 
 | March 2019     | Conducted “Introduction to CDIO for Beginners” during the Asian Regional Meeting hosted by Dalian Neusoft University of Information, China   |
 | February 2019     | 10-day ROK-ASEAN CDIO Workshop for 14 Universities from 9 ASEAN countries, with follow-ups to respective countries of participants   |
 | March 2018     | Delivered an presentation on “Pedagogy for Evidence-based Flipped Classroom” at the Asian Regional Meeting hosted by Duy Tan University in Vietnam   |
+| February 2017     | 2-Day CDIO Workshop for Universities in Taiwan   |
