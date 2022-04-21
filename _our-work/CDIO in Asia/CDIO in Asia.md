@@ -20,3 +20,5 @@ SP is very active in the CDIO Asian Region. The SP CDIO Centre shared knowledge 
 | June 2019     | 2.5-Day CDIO Workshop on Active Learning for a university in Thailand   |
 | April 2019     | 2-day Workshop for Taiwanese Universities on the CDIO Framework and how to Integrated Creativity in Engineering Education, in Taiwan   |
 | April 2019     | Shared CDIO with delegates from Myanmar TVET on Quality Assurance in Teaching and Learning   |
+| March 2019     | Shared a Case Study “Curriculum Transformation using CDIO to Fulfill Singapore SkillsFuture Initiative” during the Asian Regional Meeting hosted by Dalian Neusoft University of Information, China    |
+| March 2019     | Conducted “Introduction to CDIO for Beginners” during the Asian Regional Meeting hosted by Dalian Neusoft University of Information, China   |
