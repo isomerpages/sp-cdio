@@ -10,3 +10,8 @@ We are also actively involved in the International Working Meetings. The list be
 
 
 
+| Period | Program Name |
+| -------- | -------- |
+| November 2021     | Participated in the CDIO International Fall Meeting in “Follow-the-Sun” Discussion of Peer-to-Peer Review, Future of CDIO and Revised CDIO Syllabus V3.0; and coordinated with Australia-Asia segment of the event (the 2 other segments being: Europe, UK & Africa; and the Americas      |
+| June 2021     | Conducted CDIO Roundtable Discussion “Innovating T&L” at the International CDIO Conference jointly hosted online by Chulalongkorn University & Rajamangala University of Technology Thanyaburi of Thailand      |
+
