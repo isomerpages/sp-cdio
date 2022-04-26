@@ -1,0 +1,20 @@
+collections:
+  our-work:
+    output: true
+    order:
+      - CDIO Worldwide/CDIO Worldwide.md
+      - CDIO Worldwide/Co Director CDIO Council.md
+      - CDIO Worldwide/International CDIO Conference.md
+      - CDIO Worldwide/CDIO International Working Meeting.md
+      - CDIO Worldwide/.keep
+      - CDIO in Asia/CDIO in Asia.md
+      - CDIO in Asia/.keep
+      - CDIO in Asia/Co Leader Asia Region.md
+      - CDIO in Asia/CDIO Regional Meeting.md
+      - CDIO in Asia/TFI CDIO Forum.md
+      - CDIO in Asia/TFI CDIO Workshops.md
+      - CDIO in Asia/Visitations.md
+      - CDIO in SP/.keep
+      - CDIO in SP/SP Engineering Show.md
+      - CDIO in SP/SP Design Thinking.md
+      - CDIO in SP/SP Learning Express.md

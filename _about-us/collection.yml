@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our CDIO Approach.md
+      - Our CDIO Journey.md
+      - Worldwide CDIO Initiative.md
