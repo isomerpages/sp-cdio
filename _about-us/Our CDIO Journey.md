@@ -15,7 +15,7 @@ Since adopting CDIO in 2004, there have been several milestones in the developme
 | 2004     | SP becomes a CDIO member     |
 | 2006     | Large-scale roll-out of CDIO     |
 | 2009     | 5th CDIO International Conference    |
-| 2001     | 2011 - SP becomes one of 20 institutions worldwide with highly regarded programmes of educational change in Engineering   |
+| 2011     | SP becomes one of 20 institutions worldwide with highly regarded programmes of educational change in Engineering   |
 | 2013     | CDIO Asian Regional Meeting    |
 | 2013     | World Engineers Summit (1st Prize, National Level)    | 
 | 2015     | Winners of CDIO Academy    |
