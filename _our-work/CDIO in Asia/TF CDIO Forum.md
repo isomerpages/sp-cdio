@@ -11,3 +11,4 @@ Temasek Foundation (TF) and Singapore Polytechnic (SP) have partnered with insti
 Past CDIO Forums in Singapore include:
 
 * CDIO Forum 2017
+* Twin Events: CDIO International Working Meeting & TF-CDIO Forum 2019
