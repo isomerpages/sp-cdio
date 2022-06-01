@@ -22,6 +22,10 @@ These projects demonstrate the ability of SP's engineering students to integrate
 
 [SP Engineering Show 2017](/files/SPES%202017.pdf)
 
+[SP Engineering Show 2018 - Part a](/files/SPES2018a.pdf)
+
+[SP Engineering Show 2018 - Part b](/files/SPES2018b.pdf)
+
 
 
 **Links**
