@@ -5,6 +5,6 @@ description: ""
 ---
 Please register for the event using the link below:
 
-[Registration Link](https://www.form.gov.sg/#!/621d87480ea7c300125d6a7e)
+[https://spi.edu.sg/upcoming-events/](https://spi.edu.sg/upcoming-events/)
 
 More details will be made available soon.
