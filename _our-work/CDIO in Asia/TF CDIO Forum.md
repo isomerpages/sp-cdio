@@ -16,7 +16,7 @@ CDIO Forums in Singapore include:
 
 **Twin Events: CDIO International Working Meeting & TF-CDIO Forum 2019**
 
-This event took place at Singapore Polytechnic from 13 to 14 Nov 2019.
+This event took place at Singapore Polytechnic in 2019.
 
 Small group conversations and working sessions were held. The following were discussed:
 
@@ -30,3 +30,6 @@ Small group conversations and working sessions were held. The following were dis
 **CDIO Forum 2017**
 ![](/images/cdio2017%20-%20small.jpg)
 
+This event took place at Singapore Polytechnic in 2017.
+
+Policy-makers, officials and educators came together to share their experiences and perspectives in using the CDIO and Design Thinking frameworks, and learn from one another. The insights were then brought back to their respective communities and shared with their peers and colleagues.
