@@ -27,6 +27,6 @@ Small group conversations and working sessions were held. The following were dis
 * Faculty Professional Development
 
 
-CDIO Forum 2017
-
+**CDIO Forum 2017**
 ![](/images/cdio2017%20-%20small.jpg)
+
