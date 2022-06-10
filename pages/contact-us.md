@@ -6,7 +6,7 @@ agency_name: SP CDIO
 contacts:
   - content:
       - phone: ""
-      - email: cdio@sp.edu.sg
+      - email: SP_CDIO_Centre_for_Teaching@sp.edu.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:

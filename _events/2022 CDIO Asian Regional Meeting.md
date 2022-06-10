@@ -1,8 +1,6 @@
 ---
 title: 2022 CDIO Asian Regional Meeting
-permalink: /cdio2022
-date: 2022-01-13
-layout: post
+permalink: /events/cdio2022
 description: ""
 ---
 # 2022 CDIO Asian Regional Meeting
