@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - 2022 CDIO Asian Regional Meeting.md
       - Venue.md
       - Registration.md
       - Accommodations.md
