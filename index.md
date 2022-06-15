@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Polytechnic
-description: Singapore Polytechnic CDIO initiative
+description: Singapore Polytechnic CDIO Centre for Teaching
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -21,4 +21,5 @@ sections:
       button: Please Click Here
       url: https://www.form.gov.sg/621d82477ef19c001210bd7a
 ---
+
 
