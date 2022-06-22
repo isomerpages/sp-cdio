@@ -3,7 +3,7 @@ title: Programme
 permalink: /events/programme
 description: ""
 ---
-# Proposed Agenda for 2022 CDIO Asian Regional Meeting# 
+# Proposed Agenda for 2022 CDIO Asian Regional Meeting
 **Day 1**
 
 * Welcome to Singapore & Singapore Polytechnic!
@@ -37,6 +37,3 @@ Speakers and topics to be confirmed
 * Sustainability and the Little Red Dot:  The Singapore Green Plan 2030
 * Beyond i4.0: Digital Transformation and the Future of Work
 * SP’s Journey to Digitalization
-
-
-
