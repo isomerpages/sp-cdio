@@ -1,4 +1,4 @@
-title: SP CDIO
+title: Singapore Polytechnic
 url: ""
 favicon: /images/SP-logo-ico-square.png
 colors:
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resources
-description: Singapore Polytechnic CDIO initiative
+description: Singapore Polytechnic CDIO Centre for Teaching
 permalink: none
 baseurl: ""
 exclude:

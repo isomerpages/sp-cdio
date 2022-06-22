@@ -1,14 +1,20 @@
 ---
 layout: homepage
-title: SP CDIO
-description: Singapore Polytechnic CDIO initiative
+title: Singapore Polytechnic
+description: Singapore Polytechnic CDIO Centre for Teaching
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
+      title: 2022 CDIO Asian Regional Meeting
+      background: /images/welcometosg.jpg
+      subtitle: 10 to 12 Oct 2022
+      button: DETAILS AND REGISTRATION
+      url: https://sp-cdio-centreforteaching.sp.edu.sg/events/cdio2022
+  - infobar:
       title: CDIO Centre for Innovative Teaching & Learning
-      background: /images/cdio-banner-final.jpg
+      subtitle: Singapore Polytechnic
   - infopic:
       title: Worldwide CDIO Initiative
       button: Visit Website
