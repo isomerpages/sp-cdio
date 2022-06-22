@@ -8,8 +8,10 @@ notification: ""
 sections:
   - hero:
       title: 2022 CDIO Asian Regional Meeting
-      background: /images/cdio-banner-final.jpg
+      background: /images/welcometosg.jpg
       subtitle: 10 to 12 Oct 2022
+      button: DETAILS AND REGISTRATION
+      url: https://sp-cdio-centreforteaching.sp.edu.sg/events/cdio2022
   - infobar:
       title: CDIO Centre for Innovative Teaching & Learning
       subtitle: Welcome to the
