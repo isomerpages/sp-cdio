@@ -36,3 +36,9 @@ The 2022 CDIO Asian Regional Meeting will be held at Singapore Polytechnic, 500 
 **SP Interactive Campus Map**
 
 [https://www.sp.edu.sg/map](https://www.sp.edu.sg/map)
+
+**SP is Close to Amenities**
+
+Participants can enjoy a relaxing evening nearby SP without traveling to town.
+
+![](/images/sp-amenities.jpg)
