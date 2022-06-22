@@ -13,3 +13,8 @@ We recommend that participants stay at the [Park Avenue Rochester](https://parka
 Bookings can be done using the website link above or via other online booking platforms.
 
 ![](/images/park-avenue-rochester-sg-clean_15997068666.jpg)
+
+**Other Possible Accommodations**
+
+* Genting Hotel Jurong
+*  
