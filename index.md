@@ -7,8 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CDIO Centre for Innovative Teaching & Learning
+      title: 2022 CDIO Asian Regional Meeting
       background: /images/cdio-banner-final.jpg
+      subtitle: 10 to 12 Oct 2022
+  - infobar:
+      title: CDIO Centre for Innovative Teaching & Learning
+      subtitle: Welcome to the
   - infopic:
       title: Worldwide CDIO Initiative
       button: Visit Website
@@ -20,7 +24,4 @@ sections:
       description: Enquire about Singapore Polytechnic's CDIO programmes and/or events
       button: Please Click Here
       url: https://www.form.gov.sg/621d82477ef19c001210bd7a
-  - infobar:
-      title: CDIO Centre for Innovative Teaching & Learning
-      subtitle: Welcome to the
 ---
