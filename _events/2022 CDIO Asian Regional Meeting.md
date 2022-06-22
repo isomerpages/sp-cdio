@@ -17,6 +17,12 @@ description: ""
 3. Acceleration
 4. Experiences
 
+**State of the Art Facilities**
+
+Arrangements will be made for visiting selected facilities at Singapore Polytechnic.
+
+![](/images/sp-facilities.jpg)
+
 ![](/images/2022-cdio-splash.png)
 
 **Temasek Foundation-Singapore Polytechnic CDIO Forum on Education and Sustainable Development (ESD)**
