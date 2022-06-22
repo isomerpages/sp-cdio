@@ -14,7 +14,7 @@ Bookings can be done using the website link above or via other online booking pl
 
 ![](/images/park-avenue-rochester-sg-clean_15997068666.jpg)
 
-**Other Possible Accommodations**
+**Other Possible Accommodations near to Singapore Polytechnic**
 
 * Genting Hotel Jurong
-*  
+* lyf one-north Singapore
