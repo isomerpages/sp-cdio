@@ -19,3 +19,4 @@ Bookings can be done using the website link above or via other online booking pl
 * Genting Hotel Jurong
 * lyf one-north Singapore
 * Park Hotel Alexandra
+* The Quay Hotel West Coast
