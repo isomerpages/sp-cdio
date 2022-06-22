@@ -14,7 +14,7 @@ sections:
       url: https://sp-cdio-centreforteaching.sp.edu.sg/events/cdio2022
   - infobar:
       title: CDIO Centre for Innovative Teaching & Learning
-      subtitle: Welcome to the website of the
+      subtitle: Singapore Polytechnic
   - infopic:
       title: Worldwide CDIO Initiative
       button: Visit Website
