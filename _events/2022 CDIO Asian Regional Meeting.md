@@ -22,5 +22,3 @@ description: ""
 **Temasek Foundation-Singapore Polytechnic CDIO Forum on Education and Sustainable Development (ESD)**
 
 This meeting will be held in conjunction with the Temasek Foundation-Singapore Polytechnic CDIO Forum on ESD, organised by Singapore Polytechnic International, with support from Temasek Foundation which will be held from 10 to 14 Oct 2022. This is a by invitation only event and invites will be sent by our partners Singapore Polytechnic International (SPI).
-
-
