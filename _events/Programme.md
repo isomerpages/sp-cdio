@@ -14,8 +14,9 @@ description: ""
 
 **Day 2**
 
-* Sharing sessions
-* Workshops - CDIO for Beginners & New Collaborators: Brief Introduction to CDIO, and Integrating Teamwork & Communication into Engineering Curriculum
+* Sharing sessions by selected CDIO Collaborators at their respective institutions
+* Hackathons of Education for Sustainable Development
+* Workshop for beginners of CDIO 1
 * CDIO Networking Dinner
 
 
