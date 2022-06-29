@@ -30,13 +30,3 @@ description: ""
 * Scope work joint-project(s)
 * Roundtable/ Workshop in CDIO International Conference 2023 @ Norway
 
-
-**Keynotes**
-
-Speakers and topics to be confirmed
-
-* Transformative Learning for Developing Sustainability Mindset
-* Driving Sustainable Development via International Collaboration
-* Sustainability and the Little Red Dot:  The Singapore Green Plan 2030
-* Beyond i4.0: Digital Transformation and the Future of Work
-* SP’s Journey to Digitalization
