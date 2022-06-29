@@ -22,11 +22,9 @@ description: ""
 
 **Day 3**
 
-* Election for Co-Chairs of CDIO Asian Region
-* Discussion by CDIO Asian Leaders on Possible Areas of Collaboration
-* Contributions from Hackathons
-* P2PRI, Asian Edition
-* Technician T&L Framework
-* Scope work joint-project(s)
-* Roundtable/ Workshop in CDIO International Conference 2023 @ Norway
-
+* Sharing session on SP CDIO and ESD implementation
+* Workshop for Beginners of CDIO 2
+* Presentation by Asian applicant(s) to join CDIO
+* Election of Co-Chairs of CDIO Asian Region
+* Hosting of 2023 CDIO Asian Regional Meeting
+* Discussion on possible areas of collaboration (peer-to-peer review, technician T&L framework, education for sustainable development)
