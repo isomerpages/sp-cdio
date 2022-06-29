@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Rubrics for SP CDIO Standards.md
       - Bite Sized Videos/.keep
       - Bite Sized Videos/Standard 1.md
       - Bite Sized Videos/Standard 2.md
@@ -19,3 +18,4 @@ collections:
       - CDIO Papers.md
       - CDIO@SPLibrary.md
       - SP CDIO Syllabus.md
+      - Rubrics for SP CDIO Standards.md
