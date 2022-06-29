@@ -9,19 +9,6 @@ description: ""
 
 ![](/images/cdio2022-info.jpg)
 
-* CDIO Syllabus 3.0 – newly updated reference on desirable competencies of graduating engineers
-* Key changes - New Section: Leading Engineering Endeavours, Engineering Entrepreneurship, Research
-* Changes to other sections:
-1. Sustainability
-2. Digitalisation
-3. Acceleration
-4. Experiences
-
-**State of the Art Facilities**
-
-Arrangements will be made for visiting selected facilities at Singapore Polytechnic.
-
-![](/images/sp-facilities.jpg)
 
 ![](/images/2022-cdio-splash.png)
 
