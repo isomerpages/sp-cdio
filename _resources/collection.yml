@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - SP CDIO Syllabus.md
       - Bite Sized Videos/.keep
       - Bite Sized Videos/Standard 1.md
       - Bite Sized Videos/Standard 2.md
@@ -18,3 +17,4 @@ collections:
       - Bite Sized Videos/Syllabus.md
       - CDIO Papers.md
       - CDIO@SPLibrary.md
+      - SP CDIO Syllabus.md
