@@ -8,7 +8,9 @@ description: ""
 
 * Welcome to Singapore & Singapore Polytechnic!
 * Various Keynotes on CDIO and Education for Sustainable Development in a Digital Age
-* Sharing on key highlights from  CDIO 2022 @ Iceland, including Peer-to-Peer Review Initiative (P2PRI)
+* CDIO Syllabus 3.0 
+* Sharing on key highlights from CDIO 2022 @ Iceland, including Peer-to-Peer Review Initiative (P2PRI)
+* Technician T&L Framework
 
 **Day 2**
 
