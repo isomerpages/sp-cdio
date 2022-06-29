@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - CDIO@SPLibrary.md
       - Bite Sized Videos/.keep
       - Bite Sized Videos/Standard 1.md
       - Bite Sized Videos/Standard 2.md
