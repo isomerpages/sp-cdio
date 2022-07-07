@@ -4,6 +4,9 @@ permalink: /events/programme
 description: ""
 ---
 # Proposed Agenda for 2022 CDIO Asian Regional Meeting
+
+The programme below is subject to changes:
+
 **Day 1**
 
 * Welcome to Singapore & Singapore Polytechnic!
