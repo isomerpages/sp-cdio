@@ -5,7 +5,7 @@ description: ""
 ---
 # Theme: CDIO and Education for Sustainable Development in the Digital Age
 
-**Dates: 10 to 12 Oct 2022**
+**Dates: 11 to 13 Oct 2022 (Tuesday to Thursday)**
 
 ![](/images/cdio2022-info.jpg)
 
