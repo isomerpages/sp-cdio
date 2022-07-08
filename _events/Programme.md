@@ -5,7 +5,7 @@ description: ""
 ---
 # Proposed Agenda for 2022 CDIO Asian Regional Meeting
 
-The programme below is subject to changes:
+**The programme is currently being finalised, please check back often for the final programme.**
 
 **Day 1**
 
