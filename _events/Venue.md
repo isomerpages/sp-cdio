@@ -9,6 +9,8 @@ description: ""
 
 The 2022 CDIO Asian Regional Meeting will be held at Singapore Polytechnic, 500 Dover Road, Singapore 139651.
 
+**Brief Statistics for Singapore Polytechnic for 2022:**
+
 * 1st Polytechnic in Singapore (Est. in 1954)
 * 10 Academic Schools
 * 30 Full-Time Diploma Programmes

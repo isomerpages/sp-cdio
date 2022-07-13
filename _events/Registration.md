@@ -9,7 +9,8 @@ description: ""
 
 Registration fees of 300 Singapore Dollars (SGD) include:
 
-* Lunch and refreshments during the 3-day event, and welcome and networking dinner Day 1;
+* Lunch and refreshments during the 3-day event.
+* Networking dinner.
 * All plenary sessions and workshops during the 3 days of the event.
 
 **CDIO Dinner for ALL Participants to Network**
@@ -22,4 +23,4 @@ A list of recommended hotels at corporate rates between SGD110 to SGD200 will be
 
 Please find the CDIO Asian Regional Meeting Payer Guide below:
 
-[CDIO Asian Regional Meeting Payer Guide](/files/CDIO%20Asian%20Regional%20Meeting%20Payer%20Guide.pdf)
+[CDIO Asian Regional Meeting Payer Guide](/files/Flywire%20Payer%20Guide.pdf)
