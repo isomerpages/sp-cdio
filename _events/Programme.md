@@ -19,8 +19,7 @@ description: ""
 
 * Sharing sessions by selected CDIO Collaborators at their respective institutions
 * Hackathons of Education for Sustainable Development
-* Workshop for beginners of CDIO 1
-* CDIO Networking Dinner
+* Workshop for Beginners of CDIO 1
 
 
 **Day 3**
@@ -31,3 +30,4 @@ description: ""
 * Election of Co-Chairs of CDIO Asian Region
 * Hosting of 2023 CDIO Asian Regional Meeting
 * Discussion on possible areas of collaboration (peer-to-peer review, technician T&L framework, education for sustainable development)
+* CDIO Networking Dinner
