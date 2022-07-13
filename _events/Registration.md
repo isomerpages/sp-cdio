@@ -24,4 +24,3 @@ A list of recommended hotels at corporate rates between SGD110 to SGD200 will be
 Please find the CDIO Asian Regional Meeting Payer Guide below:
 
 [CDIO Asian Regional Meeting Payer Guide](/files/Flywire%20Payer%20Guide.pdf)
-
