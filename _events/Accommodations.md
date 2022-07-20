@@ -5,7 +5,9 @@ description: ""
 ---
 The event will be happening in-person at Singapore Polytechnic in Singapore.
 
-A list of recommended hotels at corporate rates is in the table below. These hotels will serve as the designated pick-up and drop-off points to and from event venue daily. You may choose to stay in other hotel of your preference, and take the arranged transport from and to these hotels, or proceed to the event venue on your own. A detailed advisory note on the programme, directions to event venue etc will be sent nearer to the date of event.
+A list of recommended hotels at corporate rates is in the table below. These hotels will serve as the designated pick-up and drop-off points to and from event venue daily. There are also included transport arrangements between the airport and these hotels on arrival and departure day.
+
+You may choose to stay in other hotel of your preference, and take the arranged transport from and to these hotels, or proceed to the event venue on your own. A detailed advisory note on the programme, directions to event venue etc will be sent nearer to the date of event.
 
 
 
