@@ -13,7 +13,7 @@ A list of recommended hotels at corporate rates is in the table below. These hot
 | -------- | -------- | -------- |
 | [Grand Pacific Hotel](http://bookings.ihotelier.com/bookings.jsp?groupID=3539226&hotelID=10798)     | Premier Room Double Occupancy (1 double bed)     | 150++​ inclusive of breakfast |
 | [Grand Pacific Hotel](http://bookings.ihotelier.com/bookings.jsp?groupID=3539226&hotelID=10798)     | Premier Room Double Occupancy (2 single beds)     | 150++​ inclusive of breakfast |
-| [Park Avenue Hotel](https://parkavenuegroup.com/property/rochester/)     | Superior Room Double Occupancy     | 195++​ inclusive of breakfast. Other rooms are also offered at different rates. |
+| [Park Avenue Rochester Hotel](https://parkavenuegroup.com/property/rochester/)     | Superior Room Double Occupancy     | 195++​ inclusive of breakfast. Other rooms are also offered at different rates. |
 
 To book a room at Grand Pacific Hotel [please click here](http://bookings.ihotelier.com/bookings.jsp?groupID=3539226&hotelID=10798).
 
