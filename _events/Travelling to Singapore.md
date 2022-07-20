@@ -9,5 +9,3 @@ To manage travel during the COVID-19 pandemic, travellers entering Singapore wil
 
 Please visit [https://safetravel.ica.gov.sg/arriving/overview](https://safetravel.ica.gov.sg/arriving/overview) for the latest entry options and corresponding health protocols.
 
-You can also visit [https://www.visitsingapore.com/travel-requirements/](https://www.visitsingapore.com/travel-requirements/) to learn about travel requirements and if your country has a Vaccinated Travel Lane with Singapore.
-
