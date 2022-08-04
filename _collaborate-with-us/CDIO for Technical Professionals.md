@@ -16,4 +16,3 @@ Please email us at SP_CDIO_Centre_for_Teaching@sp.edu.sg if you are interested. 
 * University/Institution
 * Designation
 
-We will grant you access to SP's CDIO Repository within 3 working days.
