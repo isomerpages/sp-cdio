@@ -14,4 +14,3 @@ In your email please indicate the following:
 * University/Institution
 * Designation
 
-We will grant you access to SP's CDIO Repository within 3 working days.
