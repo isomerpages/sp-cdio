@@ -13,4 +13,3 @@ In your email please indicate the following:
 * Email Address (registered as a Microsoft Account)
 * University/Institution
 * Designation
-
