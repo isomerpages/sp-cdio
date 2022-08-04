@@ -3,6 +3,15 @@ title: CDIO Papers
 permalink: /resources/cdio-papers
 description: ""
 ---
-Work in progress.
+Please email us at sp-cdio-centreforteaching@sp.edu.sg to get access to SP's CDIO Repository.
 
-Please visit this page in the near future to access our CDIO Papers Repository.
+You will need a registered Microsoft Account which can be obtained at https://account.microsoft.com/account. Instructions on how to create a Microsoft Account can be [found here](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf).
+
+In your email please indicate the following:
+
+* Full Name
+* Email Address (registered as a Microsoft Account)
+* University/Institution
+* Designation
+
+We will grant you access to SP's CDIO Repository within 3 working days.
