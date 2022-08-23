@@ -21,4 +21,17 @@ SP has a wide range of teaching facilities to cater to the needs of a wide varie
 
 The key highlight is the customizability: depending on one’s needs, participants can mix and match areas of interest relevant one’s discipline. For example, participants from background in civil engineering are interested in how digital technologies are introduced into the civil engineering curriculum. They will first understand how SP implement digital transformation in education, followed by targeted sharing by SP in areas of civil engineering, especially in using CDIO to drive the integration of digital technologies in the curriculum; topped with visitations to laboratories in civil engineering. Depending on participants’ needs, specific hands-on sessions can be arranged.
 
-The suggested group size is a **maximum of 20 participants**. 
+The suggested group size is a **maximum of 20 participants**.
+
+For the latest entry options to Singapore and corresponding health protocols, please visit [https://www.ica.gov.sg/enter-transit-depart/entering-singapore](https://www.ica.gov.sg/enter-transit-depart/entering-singapore)
+
+The agenda below serves to provide an indication of what the 4-day Learning Journey entails. Customization can be made on a case-by-case basis based on the needs of participants. Also, do note that the actual sequences of activities will be subjected to availability of facilities, which are heavily utilized during term-time. SP may rearrange these activities to meet SP’s own internal timeline.
+
+For planning purposes, it may be useful that one take note of SP’s Academic Calendar, which is available at [https://www.sp.edu.sg/sp/student-services/academic-calendar](https://www.sp.edu.sg/sp/student-services/academic-calendar).
+
+
+
+
+
+
+
