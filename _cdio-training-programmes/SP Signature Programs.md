@@ -18,3 +18,7 @@ It aims to complement other CDIO core standards derived from various other train
 SP has a wide range of teaching facilities to cater to the needs of a wide variety of programs, from mathematics, sciences and engineering, and design and humanities. To see a list of teaching facilities in SP, kindly use the link below:
 
 [https://www.sp.edu.sg/sp/about-sp/facilities/teaching](https://www.sp.edu.sg/sp/about-sp/facilities/teaching)
+
+The key highlight is the customizability: depending on one’s needs, participants can mix and match areas of interest relevant one’s discipline. For example, participants from background in civil engineering are interested in how digital technologies are introduced into the civil engineering curriculum. They will first understand how SP implement digital transformation in education, followed by targeted sharing by SP in areas of civil engineering, especially in using CDIO to drive the integration of digital technologies in the curriculum; topped with visitations to laboratories in civil engineering. Depending on participants’ needs, specific hands-on sessions can be arranged.
+
+The suggested group size is a **maximum of 20 participants**. 
