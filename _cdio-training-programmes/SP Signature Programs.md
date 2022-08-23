@@ -15,3 +15,4 @@ A **Certificate of Attendance** will be issued to all participants.
 
 It aims to complement other CDIO core standards derived from various other training programs offered by SP. The Learning Journey comprises a mix of activities ranging from sharing sessions, workshops and facility visits.
 
+SP has a wide range of teaching facilities to cater to the needs of a wide variety of programs, from mathematics, sciences and engineering, and design and humanities. To see a list of teaching [https://www.sp.edu.sg/sp/about-sp/facilities/teaching](https://www.sp.edu.sg/sp/about-sp/facilities/teaching)
