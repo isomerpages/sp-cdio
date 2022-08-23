@@ -28,3 +28,5 @@ For the latest entry options to Singapore and corresponding health protocols, pl
 The agenda below serves to provide an indication of what the 4-day Learning Journey entails. Customization can be made on a case-by-case basis based on the needs of participants. Also, do note that the actual sequences of activities will be subjected to availability of facilities, which are heavily utilized during term-time. SP may rearrange these activities to meet SP’s own internal timeline.
 
 For planning purposes, it may be useful that one take note of SP’s Academic Calendar, which is available at [https://www.sp.edu.sg/sp/student-services/academic-calendar](https://www.sp.edu.sg/sp/student-services/academic-calendar).
+
+![](/images/sp-signature-programmes.png)
