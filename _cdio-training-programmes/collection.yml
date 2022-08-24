@@ -2,6 +2,7 @@ collections:
   cdio-training-programmes:
     output: true
     order:
+      - SP Signature Programs/Others.md
       - SP Signature Programs/SP Signature Programs.md
       - SP Signature Programs/.keep
       - Webinars.md
