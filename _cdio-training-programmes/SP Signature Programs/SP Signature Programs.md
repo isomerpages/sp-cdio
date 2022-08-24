@@ -2,8 +2,11 @@
 title: SP Signature Programs
 permalink: /cdio-training-programmes/sp-signature-programs
 description: ""
+third_nav_title: SP Signature Programs
 ---
-**Typical Program for CDIO Learning Journey to SP (BETA only) **
+**Typical Program for CDIO Learning Journey to SP**
+
+![](/images/beta-version.jpg)
 
 The SP-CDIO Learning Journey is an experiential learning program to Singapore Polytechnic for faculty professional development.  It specifically focused on the following 3 core standards from the CDIO Framework:
 
