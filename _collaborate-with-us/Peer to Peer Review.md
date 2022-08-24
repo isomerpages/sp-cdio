@@ -3,6 +3,8 @@ title: Peer to Peer Review
 permalink: /collaborate-with-us/peer-to-peer
 description: ""
 ---
+![](/images/beta-version.jpg)
+
 If you are interested in collaborating with us,  please get in touch by emailing us at SP_CDIO_Centre_for_Teaching@sp.edu.sg
 
 We are also currently developing a system on CDIO for Peer to Peer Review.
@@ -15,4 +17,3 @@ Please email us at SP_CDIO_Centre_for_Teaching@sp.edu.sg if you are interested. 
 * Email Address (registered as a Microsoft Account)
 * University/Institution
 * Designation
-

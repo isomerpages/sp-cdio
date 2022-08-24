@@ -1,10 +1,12 @@
 ---
-title: SP Signature Programs
-permalink: /cdio-training-programmes/sp-signature-programs
+title: SP CDIO Learning Journey
+permalink: /cdio-training-programmes/SP-CDIO-Learning-Journey
 description: ""
-third_nav_title: SP Signature Programs
+third_nav_title: SP CDIO Signature Programs
 ---
-**Typical Program for CDIO Learning Journey to SP**
+
+
+# SP-CDIO Learning Journey
 
 ![](/images/beta-version.jpg)
 
@@ -27,6 +29,8 @@ The key highlight is the customizability: depending on one’s needs, participan
 The suggested group size is a **maximum of 20 participants**.
 
 For the latest entry options to Singapore and corresponding health protocols, please visit [https://www.ica.gov.sg/enter-transit-depart/entering-singapore](https://www.ica.gov.sg/enter-transit-depart/entering-singapore)
+
+**Typical Program**
 
 The agenda below serves to provide an indication of what the 4-day Learning Journey entails. Customization can be made on a case-by-case basis based on the needs of participants. Also, do note that the actual sequences of activities will be subjected to availability of facilities, which are heavily utilized during term-time. SP may rearrange these activities to meet SP’s own internal timeline.
 
