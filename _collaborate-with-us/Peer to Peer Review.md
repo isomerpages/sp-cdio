@@ -1,9 +1,16 @@
 ---
 title: Peer to Peer Review
-permalink: /collaborate-with-us/peer-to-peer
+permalink: /collaborate-with-us/peer-to-peer/
 description: ""
 ---
 ![](/images/beta-version.jpg)
+
+The Peer-to-Peer Review (P2PR) is an initiative from the CDIO Council to support CDIO Collaborators in improving and enhancing the members’ CDIO implementation effort.
+
+It works by matching up 2 mutually-consenting collaborators, so that they can share with one another how each member implement selected aspects of CDIO in the curriculum.
+
+The 2 members shall agree on the scope of sharing and enter into a Gentlemen’s Agreement to respect the intellectual properties of each other, and to use the information so acquired strictly to the sole intended purpose of curriculum improvement using the CDIO Framework.
+
 
 If you are interested in collaborating with us,  please get in touch by emailing us at SP_CDIO_Centre_for_Teaching@sp.edu.sg
 
