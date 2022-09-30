@@ -11,4 +11,3 @@ There are 3 co-leader positions open. If you are interested, please complete the
 
 Prof Tan Tran Nhat, Duy Tan University (trannhattan@duytan.edu.vn). 
 Prof Angkee Sripakagorn, Chulalongkorn University (angkee.s@gmail.com)
-
