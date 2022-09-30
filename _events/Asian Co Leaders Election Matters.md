@@ -9,11 +9,14 @@ We are inviting nominees for the CDIO Asian Co-leader election that will be held
 
 There are 3 co-leader positions open. If you are interested, please complete the **nomination form** attached and return it with your CV, by **6 Oct 2022** to: 
 
-Prof Tan Tran Nhat, Duy Tan University (trannhattan@duytan.edu.vn). 
+Prof Tan Tran Nhat, Duy Tan University (trannhattan@duytan.edu.vn)
+
 Prof Angkee Sripakagorn, Chulalongkorn University (angkee.s@gmail.com)
 
 **Attachments**
 
-[CDIO Asia Region Election Process (Oct2022).pdf](/files/CDIO%20Asia%20Region%20Election%20Process%20(Oct2022).pdf)
 
-[Nomination form.docx](https://docs.google.com/document/d/1K8NiB1R5CyPvqQJBtWndRKWsX767sEwl/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+[CDIO Asia Region Election Process (Oct2022).pdf](https://for.edu.sg/cdio-asia-co-leadership-2022)
+
+
+[CDIO Nomination Form 2022.docx](https://for.edu.sg/cdio-nomination-form-2022)
