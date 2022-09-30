@@ -9,7 +9,8 @@ We are inviting nominees for the CDIO Asian Co-leader election that will be held
 
 There are 3 co-leader positions open. If you are interested, please complete the **nomination form** attached and return it with your CV, by **6 Oct 2022** to: 
 
-Prof Tan Tran Nhat, Duy Tan University (trannhattan@duytan.edu.vn). 
+Prof Tan Tran Nhat, Duy Tan University (trannhattan@duytan.edu.vn)
+
 Prof Angkee Sripakagorn, Chulalongkorn University (angkee.s@gmail.com)
 
 **Attachments**
