@@ -11,3 +11,8 @@ There are 3 co-leader positions open. If you are interested, please complete the
 
 Prof Tan Tran Nhat, Duy Tan University (trannhattan@duytan.edu.vn). 
 Prof Angkee Sripakagorn, Chulalongkorn University (angkee.s@gmail.com)
+
+**Attachments**
+
+[CDIO Asia Region Election Process (Oct2022).pdf](/files/CDIO%20Asia%20Region%20Election%20Process%20(Oct2022).pdf)
+
