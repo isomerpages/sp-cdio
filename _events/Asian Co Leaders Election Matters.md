@@ -16,3 +16,4 @@ Prof Angkee Sripakagorn, Chulalongkorn University (angkee.s@gmail.com)
 
 [CDIO Asia Region Election Process (Oct2022).pdf](/files/CDIO%20Asia%20Region%20Election%20Process%20(Oct2022).pdf)
 
+[Nomination form.docx](https://docs.google.com/document/d/1K8NiB1R5CyPvqQJBtWndRKWsX767sEwl/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
