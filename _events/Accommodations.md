@@ -16,6 +16,8 @@ You may choose to stay in other hotel of your preference, and take the arranged 
 | [Grand Pacific Hotel](http://bookings.ihotelier.com/bookings.jsp?groupID=3539226&hotelID=10798)     | Premier Room Double Occupancy (1 double bed)     | 150++​ inclusive of breakfast |
 | [Grand Pacific Hotel](http://bookings.ihotelier.com/bookings.jsp?groupID=3539226&hotelID=10798)     | Premier Room Double Occupancy (2 single beds)     | 150++​ inclusive of breakfast |
 | [Park Avenue Rochester Hotel](https://parkavenuegroup.com/property/rochester/)     | Superior Room Double Occupancy     | 195++​ inclusive of breakfast. Other rooms are also offered at different rates. |
+| [Oxford Hotel](/files/ReservationFormCDIO2022.pdf) | Double Room (1 queen-sized bed)  | 110 nett, no breakfast |
+| [Oxford Hotel](/files/ReservationFormCDIO2022.pdf) | Twin Sharing Room  | 110 nett, no breakfast |
 
 To book a room at Grand Pacific Hotel [please click here](http://bookings.ihotelier.com/bookings.jsp?groupID=3539226&hotelID=10798).
 
