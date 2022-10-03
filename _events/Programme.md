@@ -6,6 +6,8 @@ description: ""
 # Proposed Agenda for 2022 CDIO Asian Regional Meeting
 
 
+![](/images/cdio-arm-banner-3-oct-2022.png)
+
 
 **Programme correct as of 3rd October 2022. May be subject to some changes. Please check back often.**
 
