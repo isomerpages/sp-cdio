@@ -24,6 +24,8 @@ To book a room at Grand Pacific Hotel [please click here](http://bookings.ihotel
 [Park Avenue Rochester Hotel Booking Form](/files/Park%20Avenue%20booking%20form.pdf)
 To book a room at Park Avenue Hotel, please email the completed form to jane.tan@uel.sg and joyce.law@uel.sg 
 
+[Oxford Hotel Booking Form](/files/ReservationFormCDIO2022.pdf) To book a room at Oxford Hotel, please email the completed form to sales@oxfordhotel.com.sg
+
 
 
 
