@@ -1,6 +1,6 @@
 ---
 title: Accommodations
-permalink: /events/accommodations
+permalink: /events/accommodations/
 description: ""
 ---
 The event will be happening in-person at Singapore Polytechnic in Singapore.
@@ -30,7 +30,7 @@ To book a room at Park Avenue Hotel, please email the completed form to jane.tan
 
 
 
-**Other Possible Accommodations near to Singapore Polytechnic include:**
+**Other Possible Accommodations (Transport not provided) near to Singapore Polytechnic include:**
 
 * [lyf one-north Singapore by Ascott](https://www.booking.com/hotel/sg/lyf-one-north-singapore.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaMkBiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuALIqd-WBsACAdICJGEzNzljMTExLWQ4MjQtNDlmNi05NWQ1LTgzZGQzZDZjOTc1YtgCBeACAQ&sid=3071163c5b7eb4792d96755aaf6236da&dest_id=-73635;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;nflt=di%3D8077;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1658311937;srpvid=f08147aede4201b9;type=total;ucfs=1&#hotelTmpl)
 * [The Quay Hotel West Coast](https://www.booking.com/hotel/sg/santa-grand-west-coast.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaMkBiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuALIqd-WBsACAdICJGEzNzljMTExLWQ4MjQtNDlmNi05NWQ1LTgzZGQzZDZjOTc1YtgCBeACAQ&sid=3071163c5b7eb4792d96755aaf6236da&dest_id=-73635;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=2;hpos=2;nflt=di%3D8077;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1658311937;srpvid=f08147aede4201b9;type=total;ucfs=1&#hotelTmpl)
