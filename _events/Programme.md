@@ -13,4 +13,4 @@ description: ""
 
 [2022 CDIO Asian Regional Meeting Programme - updated 4 Oct 2022](/files/2022%20CDIO%20Asian%20Regional%20Meeting%20Programme%20for%20Website%20-%20updated%204%20Oct%202022.pdf)
 
-[CDIO 2022 - Biographies of speakers](/files/CDIO2022-bio.pdf)
+[2022 CDIO Asian Regional Meeting - Biographies of speakers](/files/CDIO2022-bio.pdf)
