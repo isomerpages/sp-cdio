@@ -11,7 +11,7 @@ sections:
       background: /images/welcometosg.jpg
       subtitle: The 2022 CDIO Asian Regional Meeting has concluded successfully. Thank
         you everyone!
-      button: DETAILS AND REGISTRATION
+      button: DOWNLOADS
       url: https://sp-cdio-centreforteaching.sp.edu.sg/events/cdio2022
   - infobar:
       title: CDIO Centre for Innovative Teaching & Learning
