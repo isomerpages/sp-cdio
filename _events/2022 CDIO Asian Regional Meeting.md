@@ -1,18 +1,17 @@
 ---
 title: 2022 CDIO Asian Regional Meeting
-permalink: /events/cdio2022
+permalink: /events/cdio2022/
 description: ""
 ---
 # Theme: CDIO and Education for Sustainable Development in the Digital Age
 
-**Dates: 11 to 13 Oct 2022 (Tuesday to Thursday)**
+The 2022 CDIO Asian Regional Meeting has concluded successfully. We thank all participants and invited speakers for making this event a huge success and we looking forward to working with you again in the near future.
 
-You are cordially invited to register for the upcoming 2022 CDIO Asian Regional Meeting which will be held at Singapore Polytechnic from 11 to 13 October, 2022.
+**Available Downloads**
 
-![](/images/cdio2022-info.jpg)
+[2022 Asian Regional Meeting Participant Materials](https://spisg.sharepoint.com/sites/SPIStaff/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSPIStaff%2FShared%20Documents%2FGeneral%2FConsultancy%2F1%2E3%20Projects%2F2%2E47%20TF%2DSP%2DCDIO%20Forum%202022%2F4%29%20Trainings%20Workshops%20and%20Contents%2FParticipant%20Materials&p=true&ga=1)
 
-**Temasek Foundation-Singapore Polytechnic CDIO Forum on Education and Sustainable Development (ESD)**
 
-This meeting will be held in conjunction with the Temasek Foundation-Singapore Polytechnic CDIO Forum on ESD, organised by Singapore Polytechnic International, with support from Temasek Foundation which will be held from 10 to 14 Oct 2022. This is a by invitation only event and invites will be sent by our partners Singapore Polytechnic International (SPI).
+
 
 ![](/images/new-footer-14-july-2022.jpg)
