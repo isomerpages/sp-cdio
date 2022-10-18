@@ -1,10 +1,10 @@
 ---
 title: Rubrics for SP CDIO Standards
-permalink: /resources/rubrics
+permalink: /resources/rubrics/
 description: ""
 ---
 ![](/images/beta-version.jpg)
 
-We are currently developing a system on Rubrics for SP CDIO Standards.
+We are currently developing a system on SP CDIO ESD Self-Evaluation.
 
-Access to the Rubrics for SP CDIO Standards will be for SP Staff only.
+Access to the SP CDIO ESD Self-Evaluation will be for SP Staff only.
