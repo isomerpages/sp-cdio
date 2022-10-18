@@ -12,6 +12,11 @@ The 2022 CDIO Asian Regional Meeting has concluded successfully. We thank all pa
 [2022 Asian Regional Meeting Participant Materials](https://spisg.sharepoint.com/:f:/s/SPIStaff/EoWM9ynXGQ1CjeaqgkuawsEBwkwOrdPcAIIbeMFvUovmmw?e=POWCS1)
 
 
+[Advancing CDIO Competencies for Technicians](https://drive.google.com/file/d/1VPDccJWFuH9cGxUrWjSmQ3ILoaNRQmAs/view?usp=sharing)
+
+
+
+
 
 
 
