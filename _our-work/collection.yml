@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - CDIO Self Evaluation.md
       - CDIO Worldwide/CDIO Worldwide.md
       - CDIO Worldwide/Co Director CDIO Council.md
       - CDIO Worldwide/International CDIO Conference.md
