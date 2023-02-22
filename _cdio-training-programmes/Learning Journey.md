@@ -1,12 +1,9 @@
 ---
-title: SP CDIO Learning Journey
-permalink: /cdio-training-programmes/SP-CDIO-Learning-Journey
+title: Learning Journey
+permalink: /cdio-training-programmes/learning-journey/
 description: ""
-third_nav_title: SP CDIO Signature Programs
 ---
-
-
-# SP-CDIO Learning Journey
+# Learning Journey
 
 ![](/images/beta-version.jpg)
 
