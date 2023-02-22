@@ -3,9 +3,6 @@ title: Peer to Peer Support
 permalink: /collaborate-with-us/peer-to-peer-support/
 description: ""
 ---
-
-![](/images/beta-version.jpg)
-
 The Peer-to-Peer Support (P2PS) is an initiative from the CDIO Council to support CDIO Collaborators in improving and enhancing the members’ CDIO implementation effort.
 
 It works by matching up 2 mutually-consenting collaborators, so that they can share with one another how each member implement selected aspects of CDIO in the curriculum.
