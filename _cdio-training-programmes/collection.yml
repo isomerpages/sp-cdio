@@ -2,6 +2,7 @@ collections:
   cdio-training-programmes:
     output: true
     order:
+      - Learning Journey.md
       - Webinars.md
       - Short Workshops.md
       - Long Workshops.md
