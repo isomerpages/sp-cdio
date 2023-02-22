@@ -2,10 +2,10 @@ collections:
   cdio-training-programmes:
     output: true
     order:
-      - Learning Journey.md
       - Webinars.md
       - Short Workshops.md
       - Long Workshops.md
+      - Learning Journey.md
       - SP CDIO Signature Programs/.keep
       - SP CDIO Signature Programs/SP CDIO Learning Journey.md
       - SP CDIO Signature Programs/Others.md
