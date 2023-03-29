@@ -1,4 +1,5 @@
 collections:
   projects-from-learning-express:
     output: true
-    order: []
+    order:
+      - Project List.md
