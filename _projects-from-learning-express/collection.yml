@@ -2,4 +2,5 @@ collections:
   projects-from-learning-express:
     output: true
     order:
+      - Types of Solutions.md
       - Project List for Collaboration.md
