@@ -1,6 +1,6 @@
 ---
 title: TF CDIO Forum
-permalink: /our-work/CDIO-in-Asia/tf-cdio-forum
+permalink: /our-work/cdio-in-asia/tf-cdio-forum/
 description: ""
 third_nav_title: CDIO in Asia
 ---

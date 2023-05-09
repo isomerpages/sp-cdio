@@ -1,6 +1,6 @@
 ---
 title: Standard 1
-permalink: /bite-sized-videos/standard-1
+permalink: /bite-sized-videos/standard-1/
 description: ""
 third_nav_title: Bite Sized Videos
 ---

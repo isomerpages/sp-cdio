@@ -1,6 +1,6 @@
 ---
 title: SP Learning Express
-permalink: /our-work/sp-learning-express
+permalink: /our-work/sp-learning-express/
 description: ""
 third_nav_title: CDIO in SP
 ---

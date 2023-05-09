@@ -1,6 +1,6 @@
 ---
 title: SP Engineering Show
-permalink: /our-work/sp-engineering-show
+permalink: /our-work/sp-engineering-show/
 description: ""
 third_nav_title: CDIO in SP
 ---

@@ -1,6 +1,6 @@
 ---
 title: Venue
-permalink: /events/venue
+permalink: /events/venue/
 description: ""
 ---
 # Singapore Polytechnic

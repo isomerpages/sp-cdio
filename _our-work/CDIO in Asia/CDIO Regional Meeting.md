@@ -1,6 +1,6 @@
 ---
 title: CDIO Regional Meeting
-permalink: /our-work/cdio-regional-meeting
+permalink: /our-work/cdio-regional-meeting/
 description: ""
 third_nav_title: CDIO in Asia
 ---

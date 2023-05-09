@@ -1,6 +1,6 @@
 ---
 title: CDIO International Working Meeting
-permalink: /our-work/cdio-international-working-meeting
+permalink: /our-work/cdio-international-working-meeting/
 description: ""
 third_nav_title: CDIO Worldwide
 ---

@@ -1,6 +1,6 @@
 ---
 title: CDIO in Asia
-permalink: /our-work/CDIO-in-Asia/CDIO-in-Asia
+permalink: /our-work/cdio-in-asia/cdio-in-asia/
 description: ""
 third_nav_title: CDIO in Asia
 ---

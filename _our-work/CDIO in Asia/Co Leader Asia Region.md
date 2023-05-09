@@ -1,6 +1,6 @@
 ---
 title: Co Leader Asia Region
-permalink: /our-work/coleader-asia
+permalink: /our-work/coleader-asia/
 description: ""
 third_nav_title: CDIO in Asia
 ---
