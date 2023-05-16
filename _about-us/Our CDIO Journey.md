@@ -3,7 +3,9 @@ title: Our CDIO Journey
 permalink: /about-us/our-cdio-journey/
 description: ""
 ---
-Since adopting CDIO in 2004, there have been several milestones in the development of CDIO as shown in the graphic below. Singapore Polytechnic will also be hosting the upcoming **2022 Asian Regional Meeting** which will be held in Oct 2022 at Singapore Polytechnic.
+Since adopting CDIO in 2004, there have been several milestones in the development of CDIO as shown in the graphic below.
+
+Singapore Polytechnic will be taking part in the 19th International CDIO Conference which will be held in Norway. For more details visit [https://www.ntnu.edu/cdio](https://www.ntnu.edu/cdio)
 
 ![](/images/SP-CDIO%201-slide%20journey.jpg)
 
