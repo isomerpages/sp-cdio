@@ -7,7 +7,7 @@ Since adopting CDIO in 2004, there have been several milestones in the developme
 
 Singapore Polytechnic will be taking part in the 19th International CDIO Conference which will be held in Norway. For more details visit [https://www.ntnu.edu/cdio](https://www.ntnu.edu/cdio)
 
-![](/images/SP-CDIO%201-slide%20journey.jpg)
+![](/images/sp-cdio%201-slide%20journey%20(may%2016%202023).jpg)
 
 
 
