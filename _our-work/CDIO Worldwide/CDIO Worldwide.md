@@ -1,6 +1,6 @@
 ---
 title: CDIO Worldwide
-permalink: /our-work/CDIO-Worldwide/CDIO-Worldwide
+permalink: /our-work/cdio-worldwide/cdio-worldwide/
 description: ""
 third_nav_title: CDIO Worldwide
 ---

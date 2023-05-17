@@ -1,6 +1,6 @@
 ---
 title: Long Workshops
-permalink: /cdio-training-programmes/long-workshops
+permalink: /cdio-training-programmes/long-workshops/
 description: ""
 ---
 **WORKSHOPS – LONG (ONLINE or HYBRID or ON-SITE)**

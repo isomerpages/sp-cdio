@@ -1,6 +1,6 @@
 ---
 title: Registration
-permalink: /events/cdio2022-registration
+permalink: /events/cdio2022-registration/
 description: ""
 ---
 **Please register for the event using the link below:**

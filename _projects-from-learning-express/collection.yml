@@ -1,0 +1,8 @@
+collections:
+  projects-from-learning-express:
+    output: true
+    order:
+      - Project List for International Collaboration.md
+      - Types of Solutions.md
+      - Past Projects.md
+      - CDIO Journals on transnational collaboration.md

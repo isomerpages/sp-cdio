@@ -1,6 +1,6 @@
 ---
 title: Worldwide CDIO Initiative
-permalink: /about-us/worldwide-cdio
+permalink: /about-us/worldwide-cdio/
 description: ""
 ---
 Click on the logo below to visit the official website of the Worldwide CDIO Initiative:

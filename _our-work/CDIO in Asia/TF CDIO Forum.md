@@ -1,6 +1,6 @@
 ---
 title: TF CDIO Forum
-permalink: /our-work/CDIO-in-Asia/tf-cdio-forum
+permalink: /our-work/cdio-in-asia/tf-cdio-forum/
 description: ""
 third_nav_title: CDIO in Asia
 ---
@@ -10,9 +10,7 @@ Temasek Foundation (TF) and Singapore Polytechnic (SP) have partnered with insti
 
 CDIO Forums in Singapore include:
 
-**2022 CDIO Asian Regional Meeting** from 10 to 12 Oct 2022. Please register using the link below:
-[2022 CDIO Asian Regional Meeting Registration Link](https://spi.edu.sg/upcoming-events/)
-
+**The 2022 CDIO Asian Regional Meeting** which was held from 10 to 12 Oct 2022.
 
 **Twin Events: CDIO International Working Meeting & TF-CDIO Forum 2019**
 

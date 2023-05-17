@@ -1,6 +1,6 @@
 ---
 title: CDIO Papers
-permalink: /resources/cdio-papers
+permalink: /resources/cdio-papers/
 description: ""
 ---
 Please email us at SP_CDIO_Centre_for_Teaching@sp.edu.sg to get access to SP's CDIO Repository.

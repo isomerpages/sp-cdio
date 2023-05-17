@@ -1,6 +1,6 @@
 ---
 title: Travelling to Singapore
-permalink: /events/travellingtosingapore
+permalink: /events/travellingtosingapore/
 description: ""
 ---
 ![](/images/merlion_park.jpg)

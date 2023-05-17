@@ -1,6 +1,6 @@
 ---
 title: Visitations
-permalink: /our-work/CDIO-in-Asia/visitations
+permalink: /our-work/cdio-in-asia/visitations/
 description: ""
 third_nav_title: CDIO in Asia
 ---
