@@ -11,9 +11,10 @@ sections:
       background: /images/SP-Solar-Car.jpg
   - infobar:
       title: Welcome
-      description: Since adopting CDIO in 2004, SP is now a CDIO Centre for Innovative
-        Teaching & Learning. We offer CDIO training programmes and collaboration
-        opportunities.
+      description: Welcome to the Singapore Polytechnic CDIO Centre for Innovative
+        Teaching and Learning, or SP-CDIO Centre in short.
+      button: Our CDIO Journey
+      url: https://sp-cdio-centreforteaching.sp.edu.sg/about-us/our-cdio-journey/
   - infobar:
       title: Contact Us Today
       description: Enquire about Singapore Polytechnic's CDIO programmes and/or events
