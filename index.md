@@ -9,12 +9,12 @@ sections:
   - hero:
       title: CDIO Centre for Innovative Teaching & Learning
       background: /images/SP-Solar-Car.jpg
-  - infopic:
-      title: Worldwide CDIO Initiative
-      button: Visit Website
-      url: http://www.cdio.org/
-      image: /images/CDIO_logo_2.png
-      alt: Image alt text
+  - infobar:
+      title: Welcome
+      description: Welcome to the Singapore Polytechnic CDIO Centre for Innovative
+        Teaching and Learning, or SP-CDIO Centre in short.
+      button: Our CDIO Journey
+      url: https://sp-cdio-centreforteaching.sp.edu.sg/about-us/our-cdio-journey/
   - infobar:
       title: Contact Us Today
       description: Enquire about Singapore Polytechnic's CDIO programmes and/or events
