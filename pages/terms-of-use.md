@@ -6,7 +6,7 @@ permalink: /terms-of-use/
 
 Singapore Polytechnic maintains this website as a service to its students, staff and members of the public. We invite you to visit our site often and to browse through our pages. You can also download and copy materials for your personal or educational use, but please note the restrictions stated below.
 
-**Copyright © Singapore Polytechnic, 2009 - 2022. All rights reserved.**
+**Copyright © Singapore Polytechnic, 2009 - 2023. All rights reserved.**
 
 This website and its contents are subject to copyright protection under the laws of Singapore and, through international treaties, other countries. The copyright in the contents and materials available on this website as a whole is owned by the Polytechnic. However, the copyright in some contents and materials incorporated within this Website may be owned by third parties where so indicated.
 
