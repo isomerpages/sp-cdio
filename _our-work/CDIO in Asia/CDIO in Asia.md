@@ -10,6 +10,13 @@ SP is very active in the CDIO Asian Region. The SP CDIO Centre shared knowledge 
 
 | Period | Program Name |
 | -------- | -------- |
+| Oct 2023 | Attended the CDIO Asia Regional Meeting hosted by Bulacan State University in the Philippines |
+| Oct 2023 | Visited Batangas State University in the Philippines to pilot the Peer-to-Peer Support on Education in Sustainable Development |
+| Sep 2023 | Conducted an online seminar on CDIO and sustainable development for a university in Taiwan |
+| Aug 2023 | Conducted a CDIO self-evaluation workshop (online) for a university in Cambodia |
+| July 2023 | Conducted an On-site Workshop on CDIO for a University in Taiwan |
+| June 2023 | Conducted an online CDIO Seminar for a university in India |
+| June 2023 | Shared CDIO in an online seminar for selected universities in Cambodia |
 | May 2023 | Conducted a CDIO Workshop on Learning Assessment for a university in Asia |
 | Apr 2023 | Hosting a university from ASEAN for a “CDIO Learning Journey” to Singapore Polytechnic |
 | Apr 2023 | Conducted an online seminar on “Designing a CDIO Integrated Curriculum” for a university in Turkmenistan |
