@@ -4,7 +4,7 @@ permalink: /our-work/cdio-international-working-meeting/
 description: ""
 third_nav_title: CDIO Worldwide
 ---
-> **Singapore Polytechnic will host the 2024 International Meeting**
+**Singapore Polytechnic will host the 2024 International Meeting.**
 
 In 2019, the CDIO International Working Meeting was held at Singapore Polytechnic.
 
