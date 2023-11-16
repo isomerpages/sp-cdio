@@ -2,6 +2,7 @@
 title: Our CDIO Journey
 permalink: /about-us/our-cdio-journey/
 description: ""
+variant: markdown
 ---
 SP was the first Polytechnic established in Singapore in 1954. SP piloted the CDIO Framework in 2004 when the framework was first introduced by the initial founding institutions (MIT in US with KTH, Chalmers and Linkoping in Sweden).
 
@@ -24,6 +25,7 @@ Singapore Polytechnic will be taking part in the 19th International CDIO Confere
 | 2004     | SP becomes a CDIO member     |
 | 2008     | Large-scale roll-out of CDIO     |
 | 2009     |  SP hosted the 5th CDIO International Conference, the first institution outside North America and Europe   |
+| 2011     | **SP elected as Co-Leader for CDIO Asia Region**   |
 | 2012     | SP becomes one of 20 institutions worldwide with highly regarded programmes of educational change in Engineering   |
 | 2013     | CDIO Asian Regional Meeting    |
 | 2013     | World Engineers Summit (1st Prize, National Level)    | 
@@ -32,7 +34,7 @@ Singapore Polytechnic will be taking part in the 19th International CDIO Confere
 | 2016     | World’s first pharmacy automation system    |
 | 2017     | SkillsFuture Course Review    |
 | 2017     | World Solar Car Challenge    |
-| 2018     | Co-Director of the CDIO International Council   |
+| 2018     | **SP elected as Co-Director for CDIO International Council**   |
 | 2018     | SP becomes one of 15 institutions worldwide to be considered as leaders in Engineering Education   |
 | 2019     | Joint No. 2 in CDIO Paper Publications since 2005    |
 | 2019     | Twin Events: CDIO International Working Meeting & TF-CDIO Forum    |
@@ -40,7 +42,7 @@ Singapore Polytechnic will be taking part in the 19th International CDIO Confere
 | 2021     | Created a series of bite-sized videos for CDIO Syllabus and Core Standards |
 | 2021     | Introduced CDIO for Education for Sustainable Development (ESD) for Diplomas adopting SP Common Core Curriculum   |
 | 2021     | Twin Events: CDIO Asian Regional Meeting and TF-CDIO Forum on ESD |
-| 2022   | SP retained the Role of Co-Leader, Asia Region |
+| 2022   | **SP retained the Role of Co-Leader, Asia Region** |
 | 2022   | Completed Peer-to-Peer Support Initiative along with other Collaborators |
 | 2022   | Introduced CDIO for Technicians Framework |
 | 2023   | Pilot Run for Peer-to-Peer Support, focusing on Education for Sustainable Development |
