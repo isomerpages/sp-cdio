@@ -2,6 +2,7 @@
 title: Our CDIO Journey
 permalink: /about-us/our-cdio-journey/
 description: ""
+variant: markdown
 ---
 SP was the first Polytechnic established in Singapore in 1954. SP piloted the CDIO Framework in 2004 when the framework was first introduced by the initial founding institutions (MIT in US with KTH, Chalmers and Linkoping in Sweden).
 
@@ -24,6 +25,7 @@ Singapore Polytechnic will be taking part in the 19th International CDIO Confere
 | 2004     | SP becomes a CDIO member     |
 | 2008     | Large-scale roll-out of CDIO     |
 | 2009     |  SP hosted the 5th CDIO International Conference, the first institution outside North America and Europe   |
+| 2011     | SP elected as Co-Leader for CDIO Asia Region   |
 | 2012     | SP becomes one of 20 institutions worldwide with highly regarded programmes of educational change in Engineering   |
 | 2013     | CDIO Asian Regional Meeting    |
 | 2013     | World Engineers Summit (1st Prize, National Level)    | 
