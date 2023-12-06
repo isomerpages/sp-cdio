@@ -32,6 +32,17 @@ Details
 
 Details
 
+# Getting to Singapore Polytechnic
+
+The International Working Meeting will be held in person at Singapore Polytechnic, Singapore. The address is: 500 Dover Road, Singapore 139651.
+
+Transportation The most convenient way to reach Singapore Polytechnic is to use the Mass Rapid Transit (MRT) system. The nearest station is EW22 Dover Station which is on the Green Line.
+
+Bus services include numbers 14, 74, 105, 106, 147, 166, 185
+
+![](/images/sp_campus_map.jpg)
+
+
 
 # Price and Payment
 The price for attending is $XX.XX SGD. That covers lunch for both days, dinner on Thursday, coffee/tea for two days and snacks.
