@@ -45,9 +45,7 @@ Bus services include numbers 14, 74, 105, 106, 147, 166, 185
 
 
 # Price and Payment
-The price for attending is $XX.XX SGD. That covers lunch for both days, dinner on Thursday, coffee/tea for two days and snacks.
-
-Link to Payment Gateway.
+Once confirmed, the details will be published here.
 
 # Contact
 
