@@ -50,5 +50,4 @@ Once confirmed, the details will be published here.
 # Contact
 
 For inquiries, please contact:
-
-CONTACT DETAILS GO HERE
+[SP\_CDIO\_Centre\_for\_Teaching@sp.edu.sg](mailto:SP_CDIO_Centre_for_Teaching@sp.edu.sg)
