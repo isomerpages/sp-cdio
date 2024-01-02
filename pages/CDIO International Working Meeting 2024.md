@@ -9,7 +9,7 @@ description: ""
 The CDIO Initiative and Singapore Polytechnic welcome you to the 2024 International Working Meeting.
 
 The meeting takes place from:  
-**September 24- 27, 2024**
+**September 24 - 27, 2024**
 
 The venue is at:  
 **Singapore Polytechnic**  
