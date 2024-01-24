@@ -1,0 +1,6 @@
+collections:
+  collaborate-with-us:
+    output: true
+    order:
+      - CDIO for Technical Professionals.md
+      - Peer to Peer Support.md

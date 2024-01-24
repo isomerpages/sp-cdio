@@ -1,0 +1,14 @@
+logo: /images/sp-cdio-logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Work
+    collection: our-work
+  - title: Resources
+    collection: resources
+  - title: CDIO Training Programmes
+    collection: cdio-training-programmes
+  - title: Collaborate with Us
+    collection: collaborate-with-us
+  - title: Contact Us
+    url: /contact-us
