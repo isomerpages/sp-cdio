@@ -28,7 +28,7 @@ Normal:
 - Registration Fee = SGD $450 
 - Registration Period is between 24 August 2024 to 15 September 2024.
 
-Fee is inclusive of 9% Goods & Services Tax, and covers attendance at **all** IWM events (including the IWM Dinner, 2 tea breaks & lunches for both days, as well as ILF events). 
+Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all** IWM events (including the IWM Dinner, 2 tea breaks &amp; lunches for both days, as well as ILF events). 
 
 **Registration Link and payment methods will be made available soon.**
 
@@ -39,7 +39,9 @@ The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP Interna
 
 **ILF Day 0: September 24, 2024 (Tuesday)**
 
-![](/images/day0.png)
+![](/images/schedule01.png)
+
+Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
 
 **ILF Day 2 (IWM Day 1): September 25, 2024 (Wednesday)**
 
