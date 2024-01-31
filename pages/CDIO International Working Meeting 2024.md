@@ -16,7 +16,7 @@ The venue is at:
 **500 Dover Road**  
 **Singapore 139651**
 
-The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes. 
+
 
 ## Price and Payment
 
@@ -32,6 +32,7 @@ Fee is inclusive of 9% Goods & Services Tax, and covers attendance at **all** IW
 
 **Registration Link and payment methods will be made available soon.**
 
+The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
 ## Programme
 
