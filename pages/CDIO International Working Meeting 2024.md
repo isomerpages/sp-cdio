@@ -42,7 +42,9 @@ The focus of the International Working Meeting is the development of the CDIO or
 
 The International Working Meeting will be held in person at Singapore Polytechnic, Singapore. The address is: 500 Dover Road, Singapore 139651.
 
-Transportation The most convenient way to reach Singapore Polytechnic is to use the Mass Rapid Transit (MRT) system. The nearest station is EW22 Dover Station which is on the Green Line.
+**Transportation**
+
+The most convenient way to reach Singapore Polytechnic is to use the Mass Rapid Transit (MRT) system. The nearest station is EW22 Dover Station which is on the Green Line.
 
 Bus services include numbers 14, 74, 105, 106, 147, 166, 185
 
