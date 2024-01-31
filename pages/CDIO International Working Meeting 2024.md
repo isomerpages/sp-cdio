@@ -6,7 +6,7 @@ description: ""
 ---
 # Introduction
 
-The CDIO Initiative and Singapore Polytechnic welcome you to the 2024 International Working Meeting (IWM). The focus of the International Working Meeting is the development of the CDIO organization.
+The CDIO Initiative and Singapore Polytechnic welcome you to the 2024 International Working Meeting (IWM). The focus of the International Working Meeting is the development of the CDIO organization. It is an active meeting, where different current CDIO tasks and activities are worked on. Typically, the topics are related to the CDIO activity plan, but other important themes can be worked on as well.
 
 The 2024 IWM takes place from:  
 **September 25 to 26, 2024**
