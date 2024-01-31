@@ -45,15 +45,18 @@ Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="h
 
 **ILF Day 2 (IWM Day 1): September 25, 2024 (Wednesday)**
 
-![](/images/day1.png)
+![](/images/schedule02.png)
 
 **ILF Day 3 (IWM Day 2): September 26, 2024 (Thursday)**
 
-![](/images/day2.png)
+![](/images/schedule03.png)
 
 **ILF Day 4: September 27, 2024 (Friday)**
 
-![](/images/day3.png)
+![](/images/schedule04.png)
+
+Parallel Tracks: see program at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
+
 
 ## Getting to Singapore Polytechnic
 
