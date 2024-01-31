@@ -6,10 +6,10 @@ description: ""
 ---
 # Introduction
 
-The CDIO Initiative and Singapore Polytechnic welcome you to the 2024 International Working Meeting.
+The CDIO Initiative and Singapore Polytechnic welcome you to the 2024 International Working Meeting (IWM).
 
-The meeting takes place from:  
-**September 25 - 26, 2024**
+The 2024 IWM takes place from:  
+**September 25 to 26, 2024**
 
 The venue is at:  
 **Singapore Polytechnic**  
