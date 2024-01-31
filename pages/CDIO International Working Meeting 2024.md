@@ -55,7 +55,7 @@ Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="h
 
 ![](/images/schedule04.png)
 
-Parallel Tracks: see program at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
+For more information on Learning Journeys, see program at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
 
 
 ## Getting to Singapore Polytechnic
