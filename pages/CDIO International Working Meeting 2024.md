@@ -20,7 +20,7 @@ The focus of the International Working Meeting is the development of the CDIO or
 
 # Programme
 
-(DRAFT as of January 4, 2024)
+(DRAFT as of January 31, 2024)
 
 **CDIO IWM Day 0: September 24, 2024 (Tuesday)**
 
