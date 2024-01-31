@@ -6,7 +6,7 @@ description: ""
 ---
 # Introduction
 
-The CDIO Initiative and Singapore Polytechnic welcome you to the 2024 International Working Meeting (IWM).
+The CDIO Initiative and Singapore Polytechnic welcome you to the 2024 International Working Meeting (IWM). The focus of the International Working Meeting is the development of the CDIO organization.
 
 The 2024 IWM takes place from:  
 **September 25 to 26, 2024**
@@ -15,8 +15,6 @@ The venue is at:
 **Singapore Polytechnic**  
 **500 Dover Road**  
 **Singapore 139651**
-
-The focus of the International Working Meeting is the development of the CDIO organization. The detailed programme includes activities from the activity plan, working groups and other activities initiated to further develop the CDIO Initiative.
 
 The 2024 IWM is held in conjunction with the Singapore Polytechnic International Learning Festival (ILF) from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes. 
 
