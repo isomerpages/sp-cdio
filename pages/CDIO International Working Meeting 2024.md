@@ -69,5 +69,5 @@ Fee is inclusive of 9% Goods & Services Tax, and covers attendance at **all** IW
 
 # Contact
 
-For inquiries, please contact:
-[SP\_CDIO\_Centre\_for\_Teaching@sp.edu.sg](mailto:SP_CDIO_Centre_for_Teaching@sp.edu.sg)
+For inquiries, 
+[please click here](mailto:SP_CDIO_Centre_for_Teaching@sp.edu.sg).
