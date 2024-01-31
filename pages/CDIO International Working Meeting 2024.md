@@ -37,19 +37,19 @@ Fee is inclusive of 9% Goods & Services Tax, and covers attendance at **all** IW
 
 The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
-**CDIO IWM Day 0: September 24, 2024 (Tuesday)**
+**ILF Day 0: September 24, 2024 (Tuesday)**
 
 ![](/images/day0.png)
 
-**CDIO IWM Day 1: September 25, 2024 (Wednesday)**
+**ILF Day 2 (IWM Day 1): September 25, 2024 (Wednesday)**
 
 ![](/images/day1.png)
 
-**CDIO IWM Day 2: September 26, 2024 (Thursday)**
+**ILF Day 3 (IWM Day 2): September 26, 2024 (Thursday)**
 
 ![](/images/day2.png)
 
-**CDIO IWM Day 3: September 27, 2024 (Friday)**
+**ILF Day 4: September 27, 2024 (Friday)**
 
 ![](/images/day3.png)
 
