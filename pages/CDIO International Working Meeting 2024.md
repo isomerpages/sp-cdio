@@ -33,23 +33,23 @@ Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all*
 **Registration Link and payment methods will be made available soon.**
 
 
-## Programme (DRAFT as of January 31, 2024)
+## Programme (DRAFT as of Feb 5, 2024)
 
 The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
-**ILF Day 0: September 24, 2024 (Tuesday)**
+**ILF Day 1: September 24, 2024 (Tuesday)**
 
-![](/images/schedule01.png)
+![](/images/1.png)
 
 Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
 
 **ILF Day 2 (IWM Day 1): September 25, 2024 (Wednesday)**
 
-![](/images/schedule02.png)
+![](/images/2.png)
 
 **ILF Day 3 (IWM Day 2): September 26, 2024 (Thursday)**
 
-![](/images/schedule03.png)
+![](/images/3.png)
 
 **ILF Day 4: September 27, 2024 (Friday)**
 
