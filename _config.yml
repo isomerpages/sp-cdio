@@ -1,6 +1,6 @@
 title: Singapore Polytechnic CDIO Centre for Innovative Teaching & Learning
 url: https://sp-cdio-centreforteaching.sp.edu.sg
-favicon: /images/SP-logo-ico-square.png
+favicon: /images/sp_cdio_logo.png
 colors:
   primary-color: "#2d2363"
   secondary-color: "#4372d6"
@@ -57,3 +57,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
