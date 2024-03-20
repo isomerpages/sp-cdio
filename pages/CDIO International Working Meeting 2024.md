@@ -58,7 +58,7 @@ Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="h
 For more information on Learning Journeys, see program at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
 
 
-## Accomodation
+## Accommodation
 
 
 The recommended hotel is Park Avenue Rochester.
@@ -71,7 +71,7 @@ The recommended hotel is Park Avenue Rochester.
 
 Transportation to SP
 * Take the MRT from Buona Vista Station to Dover Station (Green Line)
-* You can also take a leisury walk (approx 15 minutes) along Commonwealth Ave West towards Clementi.
+* You can also take a leisurely walk (approx 15 minutes) along Commonwealth Ave West towards Clementi.
 
 ![](/images/walk_to_spcc.png)
 
