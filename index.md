@@ -8,7 +8,8 @@ notification: ""
 sections:
   - hero:
       title: CDIO Centre for Innovative Teaching & Learning
-      background: /images/SP-Solar-Car.jpg
+      background: /images/cdio_banner_2024_final.png
+      variant: image
   - infobar:
       title: Welcome
       description: Welcome to the Singapore Polytechnic CDIO Centre for Innovative
