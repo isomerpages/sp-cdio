@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: CDIO Centre for Innovative Teaching & Learning
-      background: /images/cdio_banner_2024_final.png
+      background: /images/cdio_banner2024.png
       variant: image
   - infobar:
       title: Welcome
