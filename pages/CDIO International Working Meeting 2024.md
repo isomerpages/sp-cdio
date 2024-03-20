@@ -58,6 +58,12 @@ Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="h
 For more information on Learning Journeys, see program at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
 
 
+## Accomodation
+
+
+
+
+
 ## Getting to Singapore Polytechnic
 
 The International Working Meeting will be held in person at Singapore Polytechnic, Singapore. The address is: 500 Dover Road, Singapore 139651.
