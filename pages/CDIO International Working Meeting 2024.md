@@ -16,7 +16,7 @@ The venue is at:
 **500 Dover Road**  
 **Singapore 139651**
 
-
+For the latest entry options to Singapore and corresponding health protocols, please visit <a target="_blank" href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">https://www.ica.gov.sg/enter-transit-depart/entering-singapore</a>
 
 ## Price and Payment
 
