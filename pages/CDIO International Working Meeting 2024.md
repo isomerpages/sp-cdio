@@ -111,7 +111,6 @@ Transportation to SP
 
 ## Getting to Singapore Polytechnic
 
-The International Working Meeting will be held in person at Singapore Polytechnic, Singapore. The address is: 500 Dover Road, Singapore 139651.
 
 **Transportation**
 
