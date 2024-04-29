@@ -21,11 +21,11 @@ sections:
       id: infobar
       description: SP is proud to host the 2024 CDIO International Working Meeting
         from September 25 to 26, 2024.
-      button: More Information
+      button: More Info on CDIO IWM 2024
       url: /cdio-iwm-2024/
   - infobar:
       title: Contact Us Today
       description: Enquire about Singapore Polytechnic's CDIO programmes and/or events
-      button: Please Click Here
+      button: Click Here to Contact Us
       url: https://www.form.gov.sg/621d82477ef19c001210bd7a
 ---
