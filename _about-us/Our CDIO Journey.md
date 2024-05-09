@@ -1,7 +1,10 @@
 ---
 title: Our CDIO Journey
 permalink: /about-us/our-cdio-journey/
-description: ""
+description: SP was the first Polytechnic established in Singapore in 1954. SP
+  piloted the CDIO Framework in 2004 when the framework was first introduced by
+  the initial founding institutions (MIT in US with KTH, Chalmers and Linkoping
+  in Sweden).
 variant: markdown
 ---
 SP was the first Polytechnic established in Singapore in 1954. SP piloted the CDIO Framework in 2004 when the framework was first introduced by the initial founding institutions (MIT in US with KTH, Chalmers and Linkoping in Sweden).
