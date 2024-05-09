@@ -3,11 +3,12 @@ title: SP Engineering Show
 permalink: /our-work/sp-engineering-show/
 description: ""
 third_nav_title: CDIO in SP
+variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jBpeYxWC3c8" height="315" width="560"></iframe>
 
 
-[The SP Engineering Show](https://www.sp.edu.sg/cls/sp-engineering-show) is an annual exhibition that showcases the creations and innovations of SP's final year students from the Engineering courses. This is an important milestone in their education as it gives them an opportunity to stage their product and leave a legacy for their juniors.
+The SP Engineering Show is an annual exhibition that showcases the creations and innovations of SP's final year students from the Engineering courses. This is an important milestone in their education as it gives them an opportunity to stage their product and leave a legacy for their juniors.
 
 In this show, you will see a wide mix of projects - real-life industry-related projects, research projects with local universities and research institutes and multidisciplinary model projects, spread across different themes.
 
