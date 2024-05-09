@@ -3,8 +3,8 @@ title: SP Learning Express
 permalink: /our-work/sp-learning-express/
 description: ""
 third_nav_title: CDIO in SP
+variant: markdown
 ---
-
 ![](/images/learning-express.jpg)
 
 Learning Express (LeX) is a 12-day programme that uses Design Thinking to uncover insights and identify unmet needs of overseas grassroots communities.
