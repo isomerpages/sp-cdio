@@ -8,6 +8,8 @@ description: The SP Engineering Show is an annual exhibition that showcases the
 third_nav_title: CDIO in SP
 variant: markdown
 ---
+# SP Engineering Show
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jBpeYxWC3c8" height="315" width="560"></iframe>
 
 
