@@ -57,6 +57,11 @@ Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="h
 
 ![](/images/Image_5_LJ_and_Workshop.png)
 
+**IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 6)**
+
+[IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 6)](/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_6_.pdf)
+
+
 For more information on Learning Journeys, see program at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
 
 
