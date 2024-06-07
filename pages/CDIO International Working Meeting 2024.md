@@ -30,10 +30,12 @@ Normal:
 
 Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all** IWM events (including the IWM Dinner, 2 tea breaks &amp; lunches for both days, as well as ILF events as shown in the programme below).
 
-**Registration Link and payment methods will be made available soon.**
+Please be informed that at the Registration page, you are required to pre-select if you wanted to go on a Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration. Places aer limited; allocation is on a first-come-first served basis.
+
+A list of the Learning Journeys and Workshops is available from this link.
 
 
-## Programme (DRAFT as of Mar 20, 2024)
+## Programme (DRAFT as of June 7, 2024)
 
 The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
