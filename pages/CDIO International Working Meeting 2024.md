@@ -99,6 +99,9 @@ Transportation to SP
 
 ![](/images/genting_hotel_jurong.jpg)
 
+Please use the PDF file below to apply for accommodation at Genting Hotel Jurong:
+
+[HRF_GHJ - SP International Learning Festival 2024 - V3](/files/HRF_GHJ___SP_International_Learning_Festival_2024___V3.pdf)
 
 <a target="_blank" href="https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7612688-Reviews-Genting_Hotel_Jurong-Singapore.html">More Information on Genting Hotel Jurong</a>
 
