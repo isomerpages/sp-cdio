@@ -37,6 +37,9 @@ Please be informed that at the Registration page, you are required to pre-select
 A list of the Learning Journeys and Workshops is available from this link:
 <a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
 
+Click below for the Registration Link:
+(Will be made available by June 15, 2024).
+
 
 ## Programme (DRAFT as of June 7, 2024)
 
