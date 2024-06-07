@@ -91,6 +91,10 @@ There are 3 others hotels nearby for your consideration.
 
 <a target="_blank" href="https://www.discoverasr.com/en/lyf/singapore/lyf-one-north-singapore">More Information on One-North Singapore</a>
 
+Please use the Corporate Code 'ILF24'. 
+
+![](/images/ilf24.png)
+
 Transportation to SP
 * Take the MRT from One-North Station (Orange Line) to Buona Vista Station (switch from Orange to Green Line) and then to Dover Station (Green Line)
 
