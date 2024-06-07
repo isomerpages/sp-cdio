@@ -30,10 +30,18 @@ Normal:
 
 Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all** IWM events (including the IWM Dinner, 2 tea breaks &amp; lunches for both days, as well as ILF events as shown in the programme below).
 
-**Registration Link and payment methods will be made available soon.**
+## Registration
+
+Please be informed that at the Registration page, you are required to pre-select if you wanted to go on a Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration. Places aer limited; allocation is on a first-come-first served basis.
+
+A list of the Learning Journeys and Workshops is available from this link:
+<a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
+
+Click below for the Registration Link:
+(Will be made available by June 15, 2024).
 
 
-## Programme (DRAFT as of Mar 20, 2024)
+## Programme (DRAFT as of June 7, 2024)
 
 The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
@@ -57,13 +65,9 @@ Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="h
 
 ![](/images/ILF___Day_4.png)
 
-**IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 6)**
+**IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)**
 
-[IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 6)](/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_6_.pdf)
-
-
-For more information on Learning Journeys, see program at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
-
+<a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
 
 ## Accommodation
 
@@ -91,6 +95,10 @@ There are 3 others hotels nearby for your consideration.
 
 <a target="_blank" href="https://www.discoverasr.com/en/lyf/singapore/lyf-one-north-singapore">More Information on One-North Singapore</a>
 
+Please use the Corporate Code 'ILF24'. 
+
+![](/images/ilf24.png)
+
 Transportation to SP
 * Take the MRT from One-North Station (Orange Line) to Buona Vista Station (switch from Orange to Green Line) and then to Dover Station (Green Line)
 
@@ -99,6 +107,9 @@ Transportation to SP
 
 ![](/images/genting_hotel_jurong.jpg)
 
+Please use the PDF file below to apply for accommodation at Genting Hotel Jurong:
+
+[HRF_GHJ - SP International Learning Festival 2024 - V3](/files/HRF_GHJ___SP_International_Learning_Festival_2024___V3.pdf)
 
 <a target="_blank" href="https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7612688-Reviews-Genting_Hotel_Jurong-Singapore.html">More Information on Genting Hotel Jurong</a>
 
