@@ -32,7 +32,7 @@ Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all*
 
 ## Registration
 
-Please be informed that at the Registration page, you are required to pre-select if you wanted to go on a Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration. Places aer limited; allocation is on a first-come-first served basis.
+Please be informed that at the Registration page, you are required to pre-select if you wanted to go on a Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration. Places are limited; allocation is on a first-come-first served basis.
 
 A list of the Learning Journeys and Workshops is available from this link:
 <a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
