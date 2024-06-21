@@ -56,6 +56,5 @@ These projects demonstrate the ability of SP's engineering students to integrate
 
 **Links**
 
-*  [SP Engineering Show 2021](https://industry.sp.edu.sg/department-tiearchive/sp-engineering-show-2021/)
 *  [SP Engineering Show 2022](https://www.sp.edu.sg/cls/sp-engineering-show)
 *  [SP Engineering Show 2023](https://www.sp.edu.sg/engineering-cluster/mae/sp-engineering-show/engineering-show-2023)

@@ -6,7 +6,9 @@ description: ""
 ---
 ## Introduction
 
-The CDIO Initiative and Singapore Polytechnic welcome you to the 2024 International Working Meeting (IWM). The focus of the International Working Meeting is the development of the CDIO organization. It is an active meeting, where different current CDIO tasks and activities are worked on. Typically, the topics are related to the CDIO activity plan, but other important themes can be worked on as well.
+SP is part of the CDIO (Conceive, Design, Implement and Operate) worldwide initiative comprising of more than 200 universities/institutions from all over the world as collaborators. The purpose of the CDIO Initiative is to promote collaboration in innovative curriculum design and teaching and learning practices.
+
+The CDIO council is led by 2 co-directors, of which one is currently an SP staff. SP is also the CDIO regional co-lead for Asia since 2011. As part of the International Learning Festival 2024 (ILF) and SP’s 70th Anniversary celebrations, SP will be hosting the 2024 CDIO International Working Meeting (IWM). 
 
 The 2024 IWM takes place from:  
 **September 25 to 26, 2024**
