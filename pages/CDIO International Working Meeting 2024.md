@@ -6,7 +6,7 @@ description: ""
 ---
 ## Introduction
 
-SP is part of the CDIO (Conceive, Design, Implement and Operate) worldwide initiative comprising of more than 200 universities/institutions from all over the world as collaborators. The purpose of the CDIO Initiative is to promote collaboration in innovative curriculum design and teaching and learning practices. The CDIO Council is led by 2 co-directors, of which one is currently an SP staff. SP is also the CDIO regional co-lead for Asia since 2011. As part of the International Learning Festival 2024 (ILF), SP will be hosting the 2024 CDIO International Working Meeting (IWM). 
+SP is part of the CDIO (Conceive, Design, Implement and Operate) worldwide initiative comprising of more than 200 universities/institutions from all over the world as collaborators. The purpose of the CDIO Initiative is to promote collaboration in innovative curriculum design and teaching and learning practices. The CDIO council is led by 2 co-directors, of which one is currently an SP staff. SP is also the CDIO regional co-lead for Asia since 2011. As part of the International Learning Festival 2024 (ILF) and SP’s 70th Anniversary celebrations, SP will be hosting the 2024 CDIO International Working Meeting (IWM). 
 
 The 2024 IWM takes place from:  
 **September 25 to 26, 2024**
