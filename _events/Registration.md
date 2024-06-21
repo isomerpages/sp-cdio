@@ -2,10 +2,9 @@
 title: Registration
 permalink: /events/cdio2022-registration/
 description: ""
+variant: markdown
 ---
-**Please register for the event using the link below:**
-
-[https://spi.edu.sg/upcoming-events/](https://spi.edu.sg/upcoming-events/)
+**Registration has closed**
 
 Registration fees of 300 Singapore Dollars (SGD) include:
 
