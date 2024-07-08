@@ -57,4 +57,4 @@ The Singapore Botanic Gardens is a verdant oasis in the heart of the city, renow
 *   **Description**: A large, picturesque lake home to swans and other wildlife.
 *   **Highlights**: The lake is surrounded by lush greenery and offers a peaceful setting for visitors to relax. A statue of swans in flight adds to the charm of the area.
 
-
+Nearest MRT Station: Botanic Gardens MRT Station (CC19/DT9)
