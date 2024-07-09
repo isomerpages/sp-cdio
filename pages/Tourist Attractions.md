@@ -58,3 +58,21 @@ The Singapore Botanic Gardens is a verdant oasis in the heart of the city, renow
 *   **Highlights**: The lake is surrounded by lush greenery and offers a peaceful setting for visitors to relax. A statue of swans in flight adds to the charm of the area.
 
 Nearest MRT Station: Botanic Gardens MRT Station (CC19/DT9)
+
+
+# Singapore Zoo and Night Safari
+
+The Singapore Zoo and Night Safari are two of Singapore's premier wildlife attractions, each offering unique and immersive experiences with a wide variety of animals in naturalistic settings.
+
+### Singapore Zoo
+
+*   **Description**: Known for its "open concept" design, the Singapore Zoo allows visitors to view animals in environments that closely resemble their natural habitats.
+
+### Night Safari
+
+*   **Description**: The world's first nocturnal zoo, offering a unique experience to observe animals in their natural nighttime behavior.
+
+#### Transportation
+
+*   **Grab/Private Hire**: Booking a private hire car or Grab is a convenient option. Simply set your destination to "Singapore Zoo" in the app.
+
