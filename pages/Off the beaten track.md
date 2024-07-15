@@ -21,7 +21,7 @@ green spaces and ample recreational options, making it a dynamic and desirable
 location in the city. Visitors can enjoy a perfect balance of excitement
 and relaxation, immersing themselves in the unique charm and energy of
 this remarkable district.</p>
-<p></p>
+<p>Nearest MRT station: Fort Canning MRT station on the Downtown Line</p>
 <h2>Haji Lane</h2>
 <p>&lt;a href="<a href="https://www.mysingaporepass.com/haji-lane" rel="noopener noreferrer nofollow" target="_blank">https://www.mysingaporepass.com/haji-lane</a>"target="_blank"&gt;Haji
 Lane&lt;/a&gt; is a vibrant and eclectic destination that captivates tourists
