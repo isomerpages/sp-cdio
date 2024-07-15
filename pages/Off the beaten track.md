@@ -22,6 +22,7 @@ location in the city. Visitors can enjoy a perfect balance of excitement
 and relaxation, immersing themselves in the unique charm and energy of
 this remarkable district.</p>
 <p>Nearest MRT station: Fort Canning MRT station on the Downtown Line</p>
+<p></p>
 <h2>Haji Lane</h2>
 <p>&lt;a href="<a href="https://www.mysingaporepass.com/haji-lane" rel="noopener noreferrer nofollow" target="_blank">https://www.mysingaporepass.com/haji-lane</a>"target="_blank"&gt;Haji
 Lane&lt;/a&gt; is a vibrant and eclectic destination that captivates tourists
@@ -35,6 +36,7 @@ street art, providing perfect backdrops for Instagram-worthy photos. Situated
 in the historic Malay-Muslim quarter, Haji Lane is close to iconic landmarks
 such as the majestic Sultan Mosque and bustling Arab Street, beautifully
 merging cultural heritage with modern creativity.</p>
+<p>Nearest MRT station: Bugis station on the East-West Line / Downtown Line</p>
 <p></p>
 <h2>Bukit Timah Nature Reserve</h2>
 <p>&lt;a href="<a href="https://beta.nparks.gov.sg/visit/parks/park-detail/bukit-timah-nature-reserve" rel="noopener noreferrer nofollow" target="_blank">https://beta.nparks.gov.sg/visit/parks/park-detail/bukit-timah-nature-reserve</a>"
@@ -49,6 +51,7 @@ lovers can explore several well-marked hiking trails, catering to all fitness
 levels, or try their hand at rock climbing and bird watching. Bukit Timah
 Nature Reserve is the perfect spot for recreation, discovery, and a breath
 of fresh air in the heart of Singapore.</p>
+<p>Nearest MRT station: Beauty World station on the Downtown Line</p>
 <p></p>
 <h2>Sungei Buloh Wetland Reserve</h2>
 <p>&lt;a href="<a href="https://beta.nparks.gov.sg/visit/parks/park-detail/sungei-buloh-wetland-reserve" rel="noopener noreferrer nofollow" target="_blank">https://beta.nparks.gov.sg/visit/parks/park-detail/sungei-buloh-wetland-reserve</a>"
@@ -62,6 +65,7 @@ perfect for bird watching and wildlife spotting. Educational displays scattered
 throughout the reserve provide fascinating insights into wetland ecosystems.
 Sungei Buloh plays a crucial role in conservation, habitat restoration,
 and research, making it a beacon of environmental efforts in Singapore.</p>
+<p>Nearest MRT station: Kranji Sation on the North-South Line</p>
 <p></p>
 <h2>Sembawang Hot Spring Park</h2>
 <p>&lt;a href="<a href="https://beta.nparks.gov.sg/visit/parks/park-detail/sembawang-hot-spring-park" rel="noopener noreferrer nofollow" target="_blank">https://beta.nparks.gov.sg/visit/parks/park-detail/sembawang-hot-spring-park</a>"
@@ -78,6 +82,7 @@ fascinating geological origins and cultural significance of the hot spring.
 Sembawang Hot Spring Park is the perfect destination for those seeking
 a serene escape, offering a blend of relaxation and learning about local
 traditions.</p>
+<p>Nearest MRT station: Yishun Station on the North-South Line</p>
 <p></p>
 <p></p>
 <p></p>
