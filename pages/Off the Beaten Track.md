@@ -37,7 +37,7 @@ Nearest MRT station: Beauty World station on the Downtown Line
 
 Visitors can stroll along scenic boardwalks and stop at observation points perfect for bird watching and wildlife spotting. Educational displays scattered throughout the reserve provide fascinating insights into wetland ecosystems. Sungei Buloh plays a crucial role in conservation, habitat restoration, and research, making it a beacon of environmental efforts in Singapore.
 
-Nearest MRT station: Kranji Sation on the North-South Line&lt;
+Nearest MRT station: Kranji Sation on the North-South Line
 
 
 ## Sembawang Hot Spring Park
