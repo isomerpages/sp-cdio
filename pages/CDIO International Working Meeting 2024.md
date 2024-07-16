@@ -142,6 +142,11 @@ Bus services include numbers 14, 74, 105, 106, 147, 166, 185
 ![](/images/sp_campus_map.jpg)
 
 
+## Tourist Attractions
+
+
+
+<a target="_blank" href="/off-the-beaten-track/">Off the Beaten Track Tourist Attractions</a>
 
 
 
