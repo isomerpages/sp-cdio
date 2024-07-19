@@ -4,7 +4,7 @@ permalink: /off-the-beaten-track/
 variant: markdown
 description: ""
 ---
-# Discover Singapore's hidden gems and explore sights off the beaten track.
+# Discover Singapore's hidden gems and explore sights off the beaten track
 
 ## New Bahru
 <a target="_blank" href="https://www.newbahru.com/">New Bahru</a> on Kim Yam Road is a culturally rich and historically significant area, captivating visitors with its colonial-era architecture and heritage buildings. This vibrant district gathers a delightful array of Singaporean brands, spanning F&amp;B, retail, wellness, and education, all under one roof.
