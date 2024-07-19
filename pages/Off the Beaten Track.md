@@ -33,7 +33,7 @@ Nearest MRT station: Little India station on the North-East Line / Downtown Line
 ## MINT Museum of Toys
 <a target="_blank" href="https://emint.com/">The MINT Museum of Toys</a> in Singapore is a captivating destination for both young and old. Located in the heart of the city, this unique museum houses one of the world’s most extensive collections of vintage toys and collectibles. With over 8,000 pieces from around the globe, visitors can explore a nostalgic journey through the history of play, discovering rare and iconic toys from different eras. The museum’s vibrant exhibits offer a delightful experience that showcases the evolution of toys and their cultural impact, making it a must-visit attraction for toy enthusiasts and curious travellers alike.
 
-Nearest MRT station: Dhoby Ghaut station on the Circle Line, North-East Line and North-South Line
+Nearest MRT station: Dhoby Ghaut station on the Circle Line / North-East Line / North-South Line
 
 
 ## Bollywood Farms
