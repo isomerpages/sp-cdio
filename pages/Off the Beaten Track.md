@@ -13,7 +13,7 @@ As a hub for arts and culture, New Bahru boasts numerous art galleries and creat
 
 Complementing its bustling urban environment, New Bahru features serene green spaces and ample recreational options, making it a dynamic and desirable location in the city. Visitors can enjoy a perfect balance of excitement and relaxation, immersing themselves in the unique charm and energy of this remarkable district.
 
-Nearest MRT station: Fort Canning MRT station on the Downtown Line
+Nearest MRT station: Fort Canning station on the Downtown Line
 
 
 ## Haji Lane
