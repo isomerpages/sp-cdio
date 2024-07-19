@@ -24,6 +24,30 @@ Best experienced in the evening, the area is also renowned for its colourful str
 Nearest MRT station: Bugis station on the East-West Line / Downtown Line
 
 
+## Little India
+<a target="_blank" href="https://www.mysingaporepass.com/little-india">Little India</a> is a vibrant and culturally rich neighborhood in the heart of Singapore. Visitors exploring its colorful streets will encounter a lively blend of traditional shops, aromatic spice markets, and stunning temples, including the iconic Sri Veeramakaliamman Temple. This bustling enclave offers a sensory feast of sights, sounds, and smells, reflecting its deep-rooted Indian heritage. Tourists can enjoy authentic Indian cuisine at local restaurants, shop for unique souvenirs, and immerse themselves in the lively atmosphere. Little India promises an unforgettable experience that showcases the rich cultural tapestry of Singapore.
+
+Nearest MRT station: Little India station on the North-East Line / Downtown Line
+
+
+## MINT Museum of Toys
+<a target="_blank" href="https://emint.com/">The MINT Museum of Toys</a> in Singapore is a captivating destination for both young and old. Located in the heart of the city, this unique museum houses one of the world’s most extensive collections of vintage toys and collectibles. With over 8,000 pieces from around the globe, visitors can explore a nostalgic journey through the history of play, discovering rare and iconic toys from different eras. The museum’s vibrant exhibits offer a delightful experience that showcases the evolution of toys and their cultural impact, making it a must-visit attraction for toy enthusiasts and curious travellers alike.
+
+Nearest MRT station: Dhoby Ghaut station on the Circle Line, North-East Line and North-South Line
+
+
+## Bollywood Farms
+<a target="_blank" href="https://bollywoodfarms.com/">Bollywood Farms</a> is a charming and unique attraction in Singapore that offers visitors a delightful escape from the city’s hustle and bustle. Nestled in the lush Kranji countryside, this organic farm provides a tranquil setting where visitors can explore sustainable farming practices, enjoy fresh farm-to-table meals, and learn about local agriculture. With its scenic landscape and educational tours, Bollywood Farms offers a refreshing and enriching experience that showcases the natural beauty and agricultural heritage of Singapore.
+
+Nearest MRT station: Khatib MRT Station on the North-South Line
+
+
+## Henderson Waves
+<a target="_blank" href="https://beta.nparks.gov.sg/visit/parks/telok-blangah-hill-park/special-features/henderson-waves">Henderson Waves</a> is a striking architectural marvel in Singapore, renowned for its undulating, wave-like design. This unique pedestrian bridge, perched 36 meters above ground, connects Mount Faber Park to Telok Blangah Hill Park, offering panoramic views of the city and lush greenery. Visitors can enjoy a scenic stroll along the bridge, which is beautifully illuminated at night, creating a captivating visual experience. Henderson Waves is not only a functional walkway but also an iconic landmark that showcases Singapore's innovative approach to urban design and public spaces.
+
+Nearest MRT station: Telok Blangah station on the Circle Line
+
+
 ## Bukit Timah Nature Reserve
 <a target="_blank" href="https://beta.nparks.gov.sg/visit/parks/park-detail/bukit-timah-nature-reserve">Bukit Timah Nature Reserve</a> is a paradise for nature enthusiasts, offering an escape into one of the largest remaining tracts of primary rainforest in the country. Just 12 kilometers from the bustling city center, this lush reserve is home to Bukit Timah Hill, the highest natural point in Singapore at 163 meters.
 
