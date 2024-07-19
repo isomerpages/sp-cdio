@@ -4,7 +4,9 @@ permalink: /tourist-attractions-2/
 variant: markdown
 description: ""
 ---
-# Gardens by the Bay
+# Discover the magic of Singapore's iconic attractions and experience the city's vibrant spirit
+
+## Gardens by the Bay
 
 <a target="_blank" href="https://www.gardensbythebay.com.sg">Gardens by the Bay</a> is a premier horticultural attraction in Singapore, showcasing innovative design and sustainability. It covers 101 hectares of reclaimed land in central Singapore and is divided into three waterfront gardens: Bay South, Bay East, and Bay Central. Two key features of Gardens by the Bay are:
 
@@ -17,7 +19,7 @@ Cloud Forest is a cooled conservatory designed to replicate the cool-moist condi
 Nearest MRT station: Bayfront MRT Station on the Circle Line / Downtown Line
 
 
-# Sentosa Island
+## Sentosa Island
 
 <a target="_blank" href="https://www.sentosa.com.sg">Sentosa Island</a> is a popular resort destination in Singapore, offering a diverse range of attractions and activities. It is known for its sandy beaches, luxurious resorts, and a wide array of entertainment options, making it a favorite spot for both locals and tourists. Two key attractions are:
 
@@ -30,7 +32,7 @@ The S.E.A. Aquarium, one of the largest aquariums in the world, is home to over 
 Nearest MRT station: Harbourfront Station on the North-East Line / Circle Line
 
 
-# Singapore Botanic Gardens
+## Singapore Botanic Gardens
 
 <a target="_blank" href="https://www.nparks.gov.sg/SBG">The Singapore Botanic Gardens</a> is a verdant oasis in the heart of the city, renowned for its rich history, beautiful landscapes, and diverse plant collections. Established in 1859, it is the only tropical garden to be honored as a UNESCO World Heritage Site. Some attractions are:
 
@@ -46,7 +48,7 @@ Swan Lake is a large, picturesque body of water that serves as a home to swans a
 Nearest MRT station: Botanic Gardens Station on the Circle Line / Downtown Line
 
 
-# Singapore Zoo and Night Safari
+## Singapore Zoo and Night Safari
 
 <a target="_blank" href="https://www.mandai.com/en/singapore-zoo.html">The Singapore Zoo</a> and <a target="_blank" href="https://www.mandai.com/en/night-safari.html">Night Safari</a> are two of Singapore's premier wildlife attractions, each offering unique and immersive experiences with a wide variety of animals in naturalistic settings.
 
