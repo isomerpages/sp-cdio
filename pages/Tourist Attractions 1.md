@@ -46,7 +46,7 @@ Nearest MRT Station: Harbourfront MRT Station (NE1/CC29)
 
 <a target="_blank" href="https://www.nparks.gov.sg/SBG">The Singapore Botanic Gardens</a> is a verdant oasis in the heart of the city, renowned for its rich history, beautiful landscapes, and diverse plant collections. Established in 1859, it is the only tropical garden to be honored as a UNESCO World Heritage Site. Some attractions are:
 
-![](/images/singapore_1131849_1280.jpg)
+![](/images/orchids_2137678_1280.jpg)
 
 ### National Orchid Garden
 
