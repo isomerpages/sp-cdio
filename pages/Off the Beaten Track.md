@@ -17,6 +17,9 @@ Nearest MRT station: Fort Canning station on the Downtown Line
 
 
 ## Haji Lane
+
+![](/images/WhatsApp_Image_2024_07_22_at_9_24_18_AM.jpg)
+
 <a target="_blank" href="https://www.mysingaporepass.com/haji-lane">Haji Lane</a> is a vibrant and eclectic destination that captivates tourists with its unique blend of modernity and tradition. Visitors can indulge in a treasure trove of shopping experiences, exploring quirky independent boutiques and charming vintage shops. For food enthusiasts, the lane offers a diverse dining scene with trendy cafes and international restaurants serving mouth-watering dishes.
 
 Best experienced in the evening, the area is also renowned for its colourful street art, providing perfect backdrops for Instagram-worthy photos. Situated in the historic Malay-Muslim quarter, Haji Lane is close to iconic landmarks such as the majestic Sultan Mosque and bustling Arab Street, beautifully merging cultural heritage with modern creativity.
@@ -25,6 +28,9 @@ Nearest MRT station: Bugis station on the East-West Line / Downtown Line
 
 
 ## Little India
+
+![](/images/singapore_stock_photos_usOURgpEYPI_unsplash.jpg)
+
 <a target="_blank" href="https://www.mysingaporepass.com/little-india">Little India</a> is a vibrant and culturally rich neighborhood in the heart of Singapore. Visitors exploring its colorful streets will encounter a lively blend of traditional shops, aromatic spice markets, and stunning temples, including the iconic Sri Veeramakaliamman Temple. This bustling enclave offers a sensory feast of sights, sounds, and smells, reflecting its deep-rooted Indian heritage. Tourists can enjoy authentic Indian cuisine at local restaurants, shop for unique souvenirs, and immerse themselves in the lively atmosphere. Little India promises an unforgettable experience that showcases the rich cultural tapestry of Singapore.
 
 Nearest MRT station: Little India station on the North-East Line / Downtown Line
@@ -37,18 +43,27 @@ Nearest MRT station: Dhoby Ghaut station on the Circle Line / North-East Line / 
 
 
 ## Bollywood Farms
+
+![](/images/gigi_hmxvFf7eN0U_unsplash.jpg)
+
 <a target="_blank" href="https://bollywoodfarms.com/">Bollywood Farms</a> is a charming and unique attraction in Singapore that offers visitors a delightful escape from the city’s hustle and bustle. Nestled in the lush Kranji countryside, this organic farm provides a tranquil setting where visitors can explore sustainable farming practices, enjoy fresh farm-to-table meals, and learn about local agriculture. With its scenic landscape and educational tours, Bollywood Farms offers a refreshing and enriching experience that showcases the natural beauty and agricultural heritage of Singapore.
 
 Nearest MRT station: Khatib MRT Station on the North-South Line
 
 
 ## Henderson Waves
+
+![](/images/airlangga_jati_L3V84XdD9H8_unsplash.jpg)
+
 <a target="_blank" href="https://beta.nparks.gov.sg/visit/parks/telok-blangah-hill-park/special-features/henderson-waves">Henderson Waves</a> is a striking architectural marvel in Singapore, renowned for its undulating, wave-like design. This unique pedestrian bridge, perched 36 meters above ground, connects Mount Faber Park to Telok Blangah Hill Park, offering panoramic views of the city and lush greenery. Visitors can enjoy a scenic stroll along the bridge, which is beautifully illuminated at night, creating a captivating visual experience. Henderson Waves is not only a functional walkway but also an iconic landmark that showcases Singapore's innovative approach to urban design and public spaces.
 
 Nearest MRT station: Telok Blangah station on the Circle Line
 
 
 ## Bukit Timah Nature Reserve
+
+![](/images/jeremy_kwok_ZZfA6EAX_44_unsplash.jpg)
+
 <a target="_blank" href="https://beta.nparks.gov.sg/visit/parks/park-detail/bukit-timah-nature-reserve">Bukit Timah Nature Reserve</a> is a paradise for nature enthusiasts, offering an escape into one of the largest remaining tracts of primary rainforest in the country. Just 12 kilometers from the bustling city center, this lush reserve is home to Bukit Timah Hill, the highest natural point in Singapore at 163 meters.
 
 Rich in biodiversity, the reserve is teeming with a wide variety of plant, animal, and insect species, making every visit a true adventure. Nature lovers can explore several well-marked hiking trails, catering to all fitness levels, or try their hand at rock climbing and bird watching. Bukit Timah Nature Reserve is the perfect spot for recreation, discovery, and a breath of fresh air in the heart of Singapore.
@@ -57,6 +72,9 @@ Nearest MRT station: Beauty World station on the Downtown Line
 
 
 ## Sungei Buloh Wetland Reserve
+
+![](/images/jeremy_kwok_mZzRiBWlVqs_unsplash.jpg)
+
 <a target="_blank" href="https://beta.nparks.gov.sg/visit/parks/park-detail/sungei-buloh-wetland-reserve">Sungei Buloh Wetland Reserve</a> 	is a must-visit for nature enthusiasts, offering a rich and diverse ecological haven. This stunning reserve boasts mangroves, mudflats, and forests that support an incredible variety of flora and fauna, including migratory birds and endangered species.
 
 Visitors can stroll along scenic boardwalks and stop at observation points perfect for bird watching and wildlife spotting. Educational displays scattered throughout the reserve provide fascinating insights into wetland ecosystems. Sungei Buloh plays a crucial role in conservation, habitat restoration, and research, making it a beacon of environmental efforts in Singapore.
