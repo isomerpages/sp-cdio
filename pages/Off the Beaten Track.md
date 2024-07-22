@@ -8,7 +8,7 @@ description: ""
 
 ## New Bahru
 
-![](/images/WhatsApp_Image_2024_07_22_at_11_53_22_AM1.jpg)
+![](/images/WhatsApp_Image_2024_07_22_at_12_01_03_PM.jpg)
 
 <a target="_blank" href="https://www.newbahru.com/">New Bahru</a> on Kim Yam Road is a culturally rich and historically significant area, captivating visitors with its colonial-era architecture and heritage buildings. This vibrant district gathers a delightful array of Singaporean brands, spanning F&amp;B, retail, wellness, and education, all under one roof.
 
