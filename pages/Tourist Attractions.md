@@ -10,6 +10,8 @@ description: ""
 
 <a target="_blank" href="https://www.gardensbythebay.com.sg">Gardens by the Bay</a> is a premier horticultural attraction in Singapore, showcasing innovative design and sustainability. It covers 101 hectares of reclaimed land in central Singapore and is divided into three waterfront gardens: Bay South, Bay East, and Bay Central. Two key features of Gardens by the Bay are:
 
+![](/images/singapore_1896764_1280.jpg)
+
 #### Flower Dome
 The Flower Dome, recognized as the largest glass greenhouse in the world by the 2015 Guinness World Records, is a stunning feat of engineering. It replicates a cool-dry climate, hosting an impressive array of plants from Mediterranean and semi-arid tropical regions. Visitors are treated to a dynamic experience with seasonal floral displays that transform throughout the year, showcasing a constantly evolving array of blooms and greenery.
 
@@ -23,6 +25,8 @@ Nearest MRT station: Bayfront MRT Station on the Circle Line / Downtown Line
 
 <a target="_blank" href="https://www.sentosa.com.sg">Sentosa Island</a> is a popular resort destination in Singapore, offering a diverse range of attractions and activities. It is known for its sandy beaches, luxurious resorts, and a wide array of entertainment options, making it a favorite spot for both locals and tourists. Two key attractions are:
 
+![](/images/cable_car_2632487_1280.jpg)
+
 #### Universal Studios Singapore
 Universal Studios Singapore is a world-class theme park that brings to life popular movies and TV shows through an array of thrilling rides, captivating shows, and immersive attractions. The park is divided into seven themed zones—Hollywood, New York, Sci-Fi City, Ancient Egypt, The Lost World, Far Far Away, and Madagascar—each offering a unique experience. Key highlights include the adrenaline-pumping Battlestar Galactica, the exhilarating Transformers: The Ride, and the splashy Jurassic Park Rapids Adventure.
 
@@ -35,6 +39,8 @@ Nearest MRT station: Harbourfront Station on the North-East Line / Circle Line
 ## Singapore Botanic Gardens
 
 <a target="_blank" href="https://www.nparks.gov.sg/SBG">The Singapore Botanic Gardens</a> is a verdant oasis in the heart of the city, renowned for its rich history, beautiful landscapes, and diverse plant collections. Established in 1859, it is the only tropical garden to be honored as a UNESCO World Heritage Site. Some attractions are:
+
+![](/images/orchids_2137678_1280.jpg)
 
 #### National Orchid Garden
 The National Orchid Garden, the centerpiece of the Singapore Botanic Gardens, boasts the largest display of tropical orchids in the world. Visitors can marvel at over 1,000 species and 2,000 hybrids of orchids showcased across distinct color zones. The garden is thoughtfully divided into the “spring” zone with bright, vibrant shades, the “summer” zone featuring strong hues, the “autumn” zone with mature, rich colors, and the “winter” zone displaying elegant whites and cool tones, offering a stunning array of floral beauty throughout the year.
@@ -51,6 +57,8 @@ Nearest MRT station: Botanic Gardens Station on the Circle Line / Downtown Line
 ## Singapore Zoo and Night Safari
 
 <a target="_blank" href="https://www.mandai.com/en/singapore-zoo.html">The Singapore Zoo</a> and <a target="_blank" href="https://www.mandai.com/en/night-safari.html">Night Safari</a> are two of Singapore's premier wildlife attractions, each offering unique and immersive experiences with a wide variety of animals in naturalistic settings.
+
+![](/images/tiger_1203468_1280.jpg)
 
 #### Singapore Zoo
 At the renowned Singapore Zoo, visitors are treated to an immersive experience thanks to its innovative "open concept" design. This unique approach allows visitors to observe animals in habitats that closely mimic their natural environments, making each encounter feel both authentic and captivating.
