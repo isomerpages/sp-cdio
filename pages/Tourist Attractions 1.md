@@ -8,6 +8,8 @@ description: ""
 
 <a target="_blank" href="https://www.gardensbythebay.com.sg">Gardens by the Bay</a> is a premier horticultural attraction in Singapore, showcasing innovative design and sustainability. It covers 101 hectares of reclaimed land in central Singapore and is divided into three waterfront gardens: Bay South, Bay East, and Bay Central. Two key features of Gardens by the Bay are:
 
+![](/images/singapore_1896764_1280.jpg)
+
 ### Flower Dome
 
 *   **Description**: The largest glass greenhouse in the world, as listed in the 2015 Guinness World Records.
@@ -25,6 +27,8 @@ Nearest MRT Stations: Bayfront MRT Station (CE1/DT16) or Gardens by the Bay MRT 
 
 <a target="_blank" href="https://www.sentosa.com.sg">Sentosa Island</a> is a popular resort destination in Singapore, offering a diverse range of attractions and activities. It is known for its sandy beaches, luxurious resorts, and a wide array of entertainment options, making it a favorite spot for both locals and tourists. Two key attractions are:
 
+![](/images/cable_car_2632487_1280.jpg)
+
 ### Universal Studios Singapore
 
 *   **Description**: A world-class theme park with rides, shows, and attractions based on popular movies and TV shows.
@@ -41,6 +45,8 @@ Nearest MRT Station: Harbourfront MRT Station (NE1/CC29)
 # Singapore Botanic Gardens
 
 <a target="_blank" href="https://www.nparks.gov.sg/SBG">The Singapore Botanic Gardens</a> is a verdant oasis in the heart of the city, renowned for its rich history, beautiful landscapes, and diverse plant collections. Established in 1859, it is the only tropical garden to be honored as a UNESCO World Heritage Site. Some attractions are:
+
+![](/images/singapore_1131849_1280.jpg)
 
 ### National Orchid Garden
 
@@ -63,6 +69,8 @@ Nearest MRT Station: Botanic Gardens MRT Station (CC19/DT9)
 # Singapore Zoo and Night Safari
 
 The Singapore Zoo and Night Safari are two of Singapore's premier wildlife attractions, each offering unique and immersive experiences with a wide variety of animals in naturalistic settings.
+
+![](/images/tiger_1203468_1280.jpg)
 
 ### Singapore Zoo
 
