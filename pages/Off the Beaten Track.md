@@ -29,7 +29,7 @@ Nearest MRT station: Bugis station on the East-West Line / Downtown Line
 
 ## Little India
 
-![](/images/singapore_stock_photos_usOURgpEYPI_unsplash.jpg)
+![](/images/diwali_new.jpg)
 
 <a target="_blank" href="https://www.mysingaporepass.com/little-india">Little India</a> is a vibrant and culturally rich neighborhood in the heart of Singapore. Visitors exploring its colorful streets will encounter a lively blend of traditional shops, aromatic spice markets, and stunning temples, including the iconic Sri Veeramakaliamman Temple. This bustling enclave offers a sensory feast of sights, sounds, and smells, reflecting its deep-rooted Indian heritage. Tourists can enjoy authentic Indian cuisine at local restaurants, shop for unique souvenirs, and immerse themselves in the lively atmosphere. Little India promises an unforgettable experience that showcases the rich cultural tapestry of Singapore.
 
