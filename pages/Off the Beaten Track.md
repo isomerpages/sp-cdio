@@ -7,6 +7,9 @@ description: ""
 # Discover Singapore's hidden gems and explore sights off the beaten track
 
 ## New Bahru
+
+![](/images/WhatsApp_Image_2024_07_22_at_11_53_22_AM1.jpg)
+
 <a target="_blank" href="https://www.newbahru.com/">New Bahru</a> on Kim Yam Road is a culturally rich and historically significant area, captivating visitors with its colonial-era architecture and heritage buildings. This vibrant district gathers a delightful array of Singaporean brands, spanning F&amp;B, retail, wellness, and education, all under one roof.
 
 As a hub for arts and culture, New Bahru boasts numerous art galleries and creative spaces, regularly hosting exhibitions and performances. The area's dynamic dining and nightlife scene offers diverse culinary experiences and trendy establishments that cater to all tastes.
@@ -37,6 +40,9 @@ Nearest MRT station: Little India station on the North-East Line / Downtown Line
 
 
 ## MINT Museum of Toys
+
+![](/images/romain_huneau_fEgt5QRI_rA_unsplash.jpg)
+
 <a target="_blank" href="https://emint.com/">The MINT Museum of Toys</a> in Singapore is a captivating destination for both young and old. Located in the heart of the city, this unique museum houses one of the world’s most extensive collections of vintage toys and collectibles. With over 8,000 pieces from around the globe, visitors can explore a nostalgic journey through the history of play, discovering rare and iconic toys from different eras. The museum’s vibrant exhibits offer a delightful experience that showcases the evolution of toys and their cultural impact, making it a must-visit attraction for toy enthusiasts and curious travellers alike.
 
 Nearest MRT station: Dhoby Ghaut station on the Circle Line / North-East Line / North-South Line
@@ -73,7 +79,7 @@ Nearest MRT station: Beauty World station on the Downtown Line
 
 ## Sungei Buloh Wetland Reserve
 
-![](/images/jeremy_kwok_mZzRiBWlVqs_unsplash.jpg)
+![](/images/jeremy_kwok_mZzRiBWlVqs_unsplash_1.jpg)
 
 <a target="_blank" href="https://beta.nparks.gov.sg/visit/parks/park-detail/sungei-buloh-wetland-reserve">Sungei Buloh Wetland Reserve</a> 	is a must-visit for nature enthusiasts, offering a rich and diverse ecological haven. This stunning reserve boasts mangroves, mudflats, and forests that support an incredible variety of flora and fauna, including migratory birds and endangered species.
 
@@ -83,6 +89,9 @@ Nearest MRT station: Kranji Sation on the North-South Line
 
 
 ## Sembawang Hot Spring Park
+
+![](/images/WhatsApp_Image_2024_07_22_at_11_41_40_AM.jpg)
+
 <a target="_blank" href="https://beta.nparks.gov.sg/visit/parks/park-detail/sembawang-hot-spring-park">Sembawang Hot Spring Park</a> is a delightful retreat celebrated for its natural geothermal hot spring, where visitors can enjoy the soothing warmth of mineral-rich water that reaches up to 70°C. Known for its health benefits since the early 1900s, this unique park has become a cherished spot for relaxation and wellness.
 
 The park features convenient facilities like foot baths where visitors can soak their feet in the warm, healing water, and even egg-cooking stations for a fun and quirky experience. Visitors can stroll through beautifully landscaped gardens and explore educational displays that highlight the fascinating geological origins and cultural significance of the hot spring. Sembawang Hot Spring Park is the perfect destination for those seeking a serene escape, offering a blend of relaxation and learning about local traditions.
