@@ -142,6 +142,14 @@ Bus services include numbers 14, 74, 105, 106, 147, 166, 185
 ![](/images/sp_campus_map.jpg)
 
 
+## Tourist Attractions
+
+
+Discover Singapore's iconic sights and lesser-known wonders for a journey that captures the essence of the city.
+
+<a target="_blank" href="/tourist-attractions-2/">Singapore's Must-See Attractions</a>
+
+<a target="_blank" href="/off-the-beaten-track/">Off the Beaten Track Tourist Attractions</a>
 
 
 
