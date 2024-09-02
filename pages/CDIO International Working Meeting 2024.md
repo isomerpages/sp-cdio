@@ -48,11 +48,9 @@ The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP Interna
 
 ![](/images/1725257561743_907aed71_e22f_4371_9359_a7d0c2c8cbc0_2_B.jpg)
 
-Link to [ILF Events](https://isate2024.sp.edu.sg/programme/ ) 
+Link to <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">ILF Events</a>
 
-**IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)**
-
-<a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
+Link to <a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
 
 ## Accommodation
 
