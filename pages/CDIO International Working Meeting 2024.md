@@ -22,13 +22,9 @@ For the latest entry options to Singapore and corresponding health protocols, pl
 
 ## Price and Payment
 
-Early Bird:
-- Registration Fee = SGD $400 (approx. USD $300)
-- Registration Period is between 15 June 2024 to 23 August 2024.
-
 Normal: 
 - Registration Fee = SGD $450 
-- Registration Period is between 24 August 2024 to 15 September 2024.
+- Registration Period is between 1 September 2024 to 15 September 2024.
 
 Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all** IWM events (including the IWM Dinner, 2 tea breaks &amp; lunches for both days, as well as ILF events as shown in the programme below).
 
