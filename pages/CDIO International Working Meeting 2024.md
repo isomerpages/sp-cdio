@@ -40,29 +40,15 @@ Click below for the Registration Link:
 <a target="_blank" href="https://gateway.flywire.com/v1/transfers?provider=LFZ&amp;payment_destination=sp-cdio">Registration and Payment link for CDIO IWM 2024</a>
 
 
-## Programme (DRAFT as of June 7, 2024)
+## Programme (as of 31 August 2024)
 
 The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
-![](/images/legend_7_june_2024.png)
+![](/images/1725257561743_907aed71_e22f_4371_9359_a7d0c2c8cbc0_1_A.jpg)
 
-**ILF Day 1: September 24, 2024 (Tuesday)**
+![](/images/1725257561743_907aed71_e22f_4371_9359_a7d0c2c8cbc0_2_B.jpg)
 
-![](/images/24_Sep_2024.png)
-
-Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
-
-**ILF Day 2 (IWM Day 1): September 25, 2024 (Wednesday)**
-
-![](/images/25_Sep_2024.png)
-
-**ILF Day 3 (IWM Day 2): September 26, 2024 (Thursday)**
-
-![](/images/26_Sep_2024.png)
-
-**ILF Day 4: September 27, 2024 (Friday)**
-
-![](/images/ILF___Day_4.png)
+Link to [ILF Events](https://isate2024.sp.edu.sg/programme/ ) 
 
 **IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)**
 
