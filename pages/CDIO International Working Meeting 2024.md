@@ -22,13 +22,9 @@ For the latest entry options to Singapore and corresponding health protocols, pl
 
 ## Price and Payment
 
-Early Bird:
-- Registration Fee = SGD $400 (approx. USD $300)
-- Registration Period is between 15 June 2024 to 23 August 2024.
-
 Normal: 
 - Registration Fee = SGD $450 
-- Registration Period is between 24 August 2024 to 15 September 2024.
+- Registration Period is between 1 September 2024 to 15 September 2024.
 
 Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all** IWM events (including the IWM Dinner, 2 tea breaks &amp; lunches for both days, as well as ILF events as shown in the programme below).
 
@@ -44,33 +40,17 @@ Click below for the Registration Link:
 <a target="_blank" href="https://gateway.flywire.com/v1/transfers?provider=LFZ&amp;payment_destination=sp-cdio">Registration and Payment link for CDIO IWM 2024</a>
 
 
-## Programme (DRAFT as of June 7, 2024)
+## Programme (as of 31 August 2024)
 
 The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
-![](/images/legend_7_june_2024.png)
+![](/images/1725257561743_907aed71_e22f_4371_9359_a7d0c2c8cbc0_1_A.jpg)
 
-**ILF Day 1: September 24, 2024 (Tuesday)**
+![](/images/1725257561743_907aed71_e22f_4371_9359_a7d0c2c8cbc0_2_B.jpg)
 
-![](/images/24_Sep_2024.png)
+Link to <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">ILF Events</a>
 
-Parallel Tracks: see program at ISATE 2024 website at <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">https://isate2024.sp.edu.sg/programme/</a>.
-
-**ILF Day 2 (IWM Day 1): September 25, 2024 (Wednesday)**
-
-![](/images/25_Sep_2024.png)
-
-**ILF Day 3 (IWM Day 2): September 26, 2024 (Thursday)**
-
-![](/images/26_Sep_2024.png)
-
-**ILF Day 4: September 27, 2024 (Friday)**
-
-![](/images/ILF___Day_4.png)
-
-**IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)**
-
-<a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
+Link to <a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
 
 ## Accommodation
 
