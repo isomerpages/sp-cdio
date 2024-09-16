@@ -1,6 +1,6 @@
 ---
-title: CDIO International Working Meeting 2024
-permalink: /cdio-international-working-meeting-2024/
+title: CDIO International Working Meeting 2024 old
+permalink: /cdio-iwm-2024old/
 variant: markdown
 description: ""
 ---
@@ -20,10 +20,25 @@ The venue is at:
 
 For the latest entry options to Singapore and corresponding health protocols, please visit <a target="_blank" href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">https://www.ica.gov.sg/enter-transit-depart/entering-singapore</a>
 
+## Price and Payment
+
+Normal: 
+- Registration Fee = SGD $450 
+- Registration Period is between 1 September 2024 to 15 September 2024.
+
+Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all** IWM events (including the IWM Dinner, 2 tea breaks &amp; lunches for both days, as well as ILF events as shown in the programme below).
 
 ## Registration
 
-Registration is now closed.
+Please be informed that at the Registration page, you are required to pre-select if you wanted to go on a Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration. Places are limited; allocation is on a first-come-first served basis.
+
+A list of the Learning Journeys and Workshops is available from this link:
+<a target="_blank" href="/files/IWM_2024___Detailed_Info_for_Learning_Journey_and_Workshop__June_7_.pdf">IWM 2024 - Detailed Info for Learning Journey and Workshop (updated June 7, 2024)</a>
+
+Click below for the Registration Link:
+
+<a target="_blank" href="https://gateway.flywire.com/v1/transfers?provider=LFZ&amp;payment_destination=sp-cdio">Registration and Payment link for CDIO IWM 2024</a>
+
 
 ## Programme (as of 16 September 2024)
 
