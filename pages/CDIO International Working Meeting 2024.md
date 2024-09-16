@@ -40,7 +40,7 @@ Click below for the Registration Link:
 <a target="_blank" href="https://gateway.flywire.com/v1/transfers?provider=LFZ&amp;payment_destination=sp-cdio">Registration and Payment link for CDIO IWM 2024</a>
 
 
-## Programme (as of 31 August 2024)
+## Programme (as of 16 September 2024)
 
 The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
