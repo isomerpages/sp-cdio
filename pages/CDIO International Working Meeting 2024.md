@@ -4,7 +4,7 @@ permalink: /cdio-international-working-meeting-2024/
 variant: markdown
 description: ""
 ---
-## Introduction
+## Introduction 11
 
 SP is part of the CDIO (Conceive, Design, Implement and Operate) Worldwide Initiative comprising of more than 200 universities/institutions from all over the world as collaborators. The purpose of the CDIO Worldwide Initiative is to promote collaboration in innovative curriculum design and teaching and learning practices. As part of the International Learning Festival 2024 (ILF) and SP’s 70th Anniversary celebrations, SP will be hosting the 2024 CDIO International Working Meeting (IWM).
 
