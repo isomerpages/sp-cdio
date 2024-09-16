@@ -29,8 +29,8 @@ Registration is now closed.
 
 The 2024 IWM at Singapore Polytechnic is held in conjunction with the SP International Learning Festival (ILF) that runs from September 24 to 27, 2024. Registered IWM Participants can also take part in ILF programmes as shown below.
 
-
-
+![](/images/FINAL_IWM_Program___Sep_16_Page_1.jpg)
+![](/images/FINAL_IWM_Program___Sep_16_Page_2.jpg)
 Link to <a target="_blank" href="https://isate2024.sp.edu.sg/programme/">ILF Events</a>
 
 
