@@ -29,8 +29,8 @@ list below shows our more-recent involvements:</p>
 <p>September 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hosted the 2024 International Working Meeting.</p>
-<p>Contributed to the action plans for CDIO moving forward</p>
+<p>Hosted the 2024 International Working Meeting. Contributed to the action
+plans for CDIO moving forward</p>
 </td>
 </tr>
 <tr>
@@ -39,10 +39,8 @@ list below shows our more-recent involvements:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Attended 2024 International CDIO Conference, hosted by ESPRIT in Tunis,
-Tunisia.</p>
-<p>Besides paper presentations, also facilitated various Working Groups,
-and a Roundtable.</p>
-<p></p>
+Tunisia. Besides paper presentations, also facilitated various Working
+Groups, and a Roundtable.</p>
 </td>
 </tr>
 <tr>
@@ -51,8 +49,7 @@ and a Roundtable.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Attended 2023 International Working Meeting, hosted by Aarhus University,
-Denmark.</p>
-<p>Contributed to the action plans for CDIO moving forward</p>
+Denmark. Contributed to the action plans for CDIO moving forward</p>
 </td>
 </tr>
 <tr>
