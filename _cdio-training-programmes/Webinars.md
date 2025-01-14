@@ -95,14 +95,6 @@ the entire duration of study. It is suitable for the entire program development
 team, tasked with CDIO adoption for a given program.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Integration of Self-Directed Learning into Curriculum</p>
@@ -118,8 +110,7 @@ participants unpack the underpinning skills and attitudes needed to support
 SDL and via the use of the CDIO Syllabus. It illustrates the process using
 the example of chemical engineering, explaining how relevant CDIO Standards
 - from Integrated Curriculum to Integrated Learning Experiences - are used
-to support the integration process.</p>
-<p>This webinar provides the background understanding that is built upon
+to support the integration process. This webinar provides the background understanding that is built upon
 by a workshop on SDL (WS1).</p>
 </td>
 </tr>
@@ -194,14 +185,6 @@ used to support active learning, with special emphasis on educational technologi
 will also be discussed.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Reflective Practice for Faculty Professional Development</p>
