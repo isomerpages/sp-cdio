@@ -38,152 +38,44 @@ Conference which will be held in Norway. For more details visit <a href="https:/
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Event</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2004</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SP becomes a CDIO member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2008</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Large-scale roll-out of CDIO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2009</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SP hosted the 5th CDIO International Conference, the first institution
-outside North America and Europe</p>
+<p>Pilot Run for Peer-to-Peer Support, focusing on Education for Sustainable
+Development</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2011</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SP elected as Co-Leader for CDIO Asia Region</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2012</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SP becomes one of 20 institutions worldwide with highly regarded programmes
-of educational change in Engineering</p>
+<p>SP retained the Role of Co-Leader, Asia Region</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2013</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CDIO Asian Regional Meeting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2013</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>World Engineers Summit (1st Prize, National Level)</p>
+<p>Completed Peer-to-Peer Support Initiative along with other Collaborators</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2015</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Winners of CDIO Academy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TVET CDIO Conference</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>World’s first pharmacy automation system</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SkillsFuture Course Review</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>World Solar Car Challenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SP elected as Co-Director for CDIO International Council</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SP becomes one of 15 institutions worldwide to be considered as leaders
-in Engineering Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Joint No. 2 in CDIO Paper Publications since 2005</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Twin Events: CDIO International Working Meeting &amp; TF-CDIO Forum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Online Asian Regional Meeting &amp; CDIO Workshop</p>
+<p>Introduced CDIO for Technicians Framework</p>
 </td>
 </tr>
 <tr>
@@ -213,68 +105,141 @@ adopting SP Common Core Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SP retained the Role of Co-Leader, Asia Region</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Completed Peer-to-Peer Support Initiative along with other Collaborators</p>
+<p>First Online Asian Regional Meeting &amp; CDIO Workshop</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Introduced CDIO for Technicians Framework</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pilot Run for Peer-to-Peer Support, focusing on Education for Sustainable
-Development</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Joint No. 2 in CDIO Paper Publications since 2005</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Twin Events: CDIO International Working Meeting &amp; TF-CDIO Forum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP elected as Co-Director for CDIO International Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP becomes one of 15 institutions worldwide to be considered as leaders
+in Engineering Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SkillsFuture Course Review</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Solar Car Challenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World’s first pharmacy automation system</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winners of CDIO Academy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TVET CDIO Conference</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CDIO Asian Regional Meeting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Engineers Summit (1st Prize, National Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP becomes one of 20 institutions worldwide with highly regarded programmes
+of educational change in Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP elected as Co-Leader for CDIO Asia Region</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2009</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP hosted the 5th CDIO International Conference, the first institution
+outside North America and Europe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2008</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Large-scale roll-out of CDIO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2004</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP becomes a CDIO member</p>
 </td>
 </tr>
 </tbody>
