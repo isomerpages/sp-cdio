@@ -30,3 +30,12 @@ the SP@70 International Learning Festival in September.</p>
 <p>In addition, a tour of SP library and Fab Lab as well as visits to SP
 Centre of Excellence for Maritime Safety and Singapore Maritime Academy
 were organized.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2_1.jpg">
+</div>
+<p></p>
