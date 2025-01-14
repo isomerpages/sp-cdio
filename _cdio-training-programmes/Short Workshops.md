@@ -89,7 +89,6 @@ one’s own program in particular; and explore plausible approaches to address
 any challenges.</p>
 </td>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Designing CDIO-type Integrated Curriculum</p>
@@ -263,11 +262,8 @@ integrated into one’s own program.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Other topics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Will be added when available</p>
+<td rowspan="1" colspan="2">
+<p>Other topics will be added when available</p>
 </td>
 </tr>
 </tbody>
