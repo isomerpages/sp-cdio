@@ -90,8 +90,7 @@ for participants: workshops, sharing sessions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July</p>
-<p>2024</p>
+<p>July 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Conducted a seminar on CDIO for Non-Engineering Program for a university
@@ -102,8 +101,7 @@ CDIO.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May</p>
-<p>2024</p>
+<p>May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Delivered a talk on Using CDIO to Support Accreditation to visitors from
@@ -112,8 +110,7 @@ the Technological Institute of the Philippines</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May</p>
-<p>2024</p>
+<p>May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Delivered an online presentation CDIO for Non-Engineering at the 2024
@@ -122,8 +119,7 @@ Education Summit organized by Bulacan State University from the Philippines</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May</p>
-<p>2024</p>
+<p>May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Delivered a Master Class “CDIO: Engineering for Sustainable Development”
@@ -134,8 +130,7 @@ University of the Philippines</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apr</p>
-<p>2024</p>
+<p>Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Conducted a 4-day CDIO Train-the-Trainer Program for faculty from Politeknik
@@ -145,8 +140,7 @@ in Indonesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Feb</p>
-<p>2024</p>
+<p>Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Conducted the CDIO Asia Co-Leaders’ Summit, hosted by Duy Tan University,
@@ -164,8 +158,7 @@ using CDIO to visitors from the PFT University, Vietnam</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec</p>
-<p>2023</p>
+<p>Dec 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Delivered a keynote speech “Education for Sustainable Development – Experience</p>
