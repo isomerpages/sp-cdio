@@ -49,6 +49,9 @@ more in-depth exploration of CDIO via other webinars or workshops.</p>
 <td rowspan="1" colspan="1">
 <p>Core Principles of Learning for Designing Learning Tasks</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar introduces participants to a set of core principles of learning,
@@ -64,6 +67,9 @@ several core principles within the same learning setting.</p>
 <td rowspan="1" colspan="1">
 <p>Pedagogy for Evidence-based Flipped Classroom using ICT</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar introduces participants to a recommended pedagogy in implementing
@@ -79,6 +85,9 @@ real time.</p>
 <td rowspan="1" colspan="1">
 <p>Integrated Curriculum for Progressive Development of Graduate Attributes</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar introduces participants to CDIO Standard 3 Integrated Curriculum,
@@ -105,6 +114,9 @@ team, tasked with CDIO adoption for a given program.</p>
 <td rowspan="1" colspan="1">
 <p>Integration of Self-Directed Learning into Curriculum</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar introduces participants specifically to the CDIO approach
@@ -122,6 +134,9 @@ by a workshop on SDL (WS1).</p>
 <td rowspan="1" colspan="1">
 <p>Integrating Ethical Reasoning into Curriculum</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar introduces participants specifically to the CDIO approach
@@ -137,6 +152,9 @@ discipline.</p>
 <td rowspan="1" colspan="1">
 <p>How to Use the CDIO Syllabus</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar introduces participants to the CDIO Syllabus, in terms of
@@ -151,6 +169,9 @@ and attitudes with key stakeholders.</p>
 <td rowspan="1" colspan="1">
 <p>Continual Improvement using CDIO Self-Evaluation (Diploma)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar provides participants with understanding of how to use CDIO
@@ -166,6 +187,9 @@ challenge of Industry 4.0.</p>
 <td rowspan="1" colspan="1">
 <p>Active Learning with Educational Technologies</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar provides participants with understanding of various active
@@ -193,6 +217,9 @@ will also be discussed.</p>
 <td rowspan="1" colspan="1">
 <p>Reflective Practice for Faculty Professional Development</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar provides participants firstly with clarification of the various
@@ -208,6 +235,9 @@ is used to help CDIO Self-Evaluation and curriculum redesign will be provided.</
 <td rowspan="1" colspan="1">
 <p>SP CDIO Implementation: Critical Success Factors and Best Practices</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture14.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar shares with participants key success factors and best practices
@@ -223,6 +253,9 @@ and best practices, which covers all aspects of teaching and learning.</p>
 <td rowspan="1" colspan="1">
 <p>Introduction to Education and Sustainable Development (ESD)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar provides participants with understanding of sustainability
@@ -239,6 +272,9 @@ a discourse to deliver the transformative learning needed.</p>
 <td rowspan="1" colspan="1">
 <p>Designing Education for Sustainable Development using CDIO Framework</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture17.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar provides participants with a broad understanding of how the
@@ -254,6 +290,9 @@ Development (ESD)”.</p>
 <td rowspan="1" colspan="1">
 <p>CDIO for Non-Engineering Program</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture16.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>This webinar introduced the CDIO Framework to participants from programs
