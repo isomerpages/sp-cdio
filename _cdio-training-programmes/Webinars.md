@@ -99,11 +99,6 @@ team, tasked with CDIO adoption for a given program.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -203,10 +198,6 @@ will also be discussed.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
