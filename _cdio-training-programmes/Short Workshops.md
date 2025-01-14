@@ -18,7 +18,6 @@ here can be arranged.</p>
 <p>Use the <a href="https://form.gov.sg/621d82477ef19c001210bd7a" rel="noopener nofollow" target="_blank">CONTACT FORM </a>to
 reach us for more discussions.</p>
 <p>Some of the available workshops are listed below:</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -51,6 +50,7 @@ Participants also get to use the model to learn various thinking approaches
 in the literature, e.g. strategic thinking, computational thinking, etc;
 by discerning the desired outcomes of such thinking process and unpack
 it to show the underpinning heuristics</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -69,6 +69,7 @@ a given job role or tasks, and identify the underpinning skills and attitudes
 using the CDIO Syllabus. It introduces participants to the “skills-to-build-skills”
 approach of progressively develop the desired competencies pegged to the
 correct proficiency levels.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -87,6 +88,7 @@ Several use cases will be shared. Participants will get the practice of
 identifying change drivers affecting one’s own institution in general and
 one’s own program in particular; and explore plausible approaches to address
 any challenges.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -108,6 +110,7 @@ of integration of any desired skill or attitude. Tools such as gap analysis
 and competency mapping will be introduced. A case study of chemical engineering
 spiral curriculum will be shared. Participants will get to conduct gap
 analysis and competency mapping for one’s own program.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,6 +131,7 @@ outcomes written using the CDIO Syllabus. The learners’ current SDL proficienc
 level will be taken into consideration and the desired proficiency level
 will also be ascertained.&nbsp; Participants will then design an integrated
 learning experience to develop the required SDL competency.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -147,6 +151,7 @@ The design principles will be gradually introduced, and participants will
 get to work on “extending” the given case, to deepen their understanding
 of how the process is carried out, using a generic graduate attribute of
 Global Mindset.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -166,6 +171,7 @@ of the attainment or otherwise of the requirements of each core standard
 in the context of ESD.</p>
 <p><u>Note</u>:&nbsp;&nbsp; The ‘optional’ CDIO Standard on Sustainable Development
 is <strong>not used</strong> in this workshop.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -187,6 +193,7 @@ experiences that delivers a "dual-impact" learning in that students can
 appreciate how the domain knowledge in their chosen field of study can
 be used for both professional roles and also contribute to sustainable
 development.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -222,6 +229,7 @@ worldwide audience of the CDIO Community will be highlighted, along with
 tips on do’s and don’ts. This session concludes with suggestion on how
 a faculty can embark on an action research and reflective practice to pave
 the way for writing CDIO papers in the future.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -242,6 +250,7 @@ in teaching and learning, and provide guidance on how the gaps identified
 <p>(<u>Note</u>: SP offers a range of professional development workshops
 on teaching and learning, not part of this list. Kindly contact us for
 more details)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -259,6 +268,7 @@ the Design Thinking methodology works and how it fits into the CDIO Framework.
 Each stage of the design thinking process in explained, and participants
 get to work on a min design thinking project; and explore how it can be
 integrated into one’s own program.</p>
+<p></p>
 </td>
 </tr>
 <tr>
