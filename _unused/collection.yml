@@ -2,5 +2,4 @@ collections:
   unused:
     output: true
     order:
-      - Webinars.md
       - test.md
