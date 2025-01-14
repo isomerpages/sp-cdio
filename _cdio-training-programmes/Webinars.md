@@ -11,6 +11,7 @@ of CDIO, some of which at the program-level and others at the course-level.&nbsp
 reach us, if you like one to be arranged for your institution. Other topics
 not listed here can be arranged. Again, use the <a href="https://form.gov.sg/621d82477ef19c001210bd7a" rel="noopener nofollow" target="_blank">CONTACT FORM </a>to
 submit your enquiry.&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,6 +43,7 @@ more about CDIO; what and how it can be used to guide curriculum redesign.
 It is also useful for any faculty tasked with using CDIO to redesign one’s
 course(s) in the form of a “crash course” of CDIO, before one embarks on
 more in-depth exploration of CDIO via other webinars or workshops.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -60,6 +62,7 @@ of various active learning strategies (CDIO Standard 8) in general. Examples
 are provided to illustrate how each core principle can be applied, and
 emphasis is placed on achieving the synergistic effect by creatively combining
 several core principles within the same learning setting.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -78,6 +81,7 @@ of learning (WB02) and the use of digital technologies (ICT tools) to engage
 students in learning. The latter serves to provide evidence of students
 or otherwise; and provide timely feedback to enhance learning, often in
 real time.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -94,6 +98,7 @@ and how it can be used to guide the development of desired graduate attributes
 to the desired level of proficiency, in a progressive manner throughout
 the entire duration of study. It is suitable for the entire program development
 team, tasked with CDIO adoption for a given program.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -113,6 +118,7 @@ the example of chemical engineering, explaining how relevant CDIO Standards
 - from Integrated Curriculum to Integrated Learning Experiences - are used
 to support the integration process. This webinar provides the background
 understanding that is built upon by a workshop on SDL (WS1).</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -131,6 +137,7 @@ review on the topic and outlines different approaches that had been reported.
 It then move on to demonstrate how the CDIO Framework can be used, using
 examples from chemical engineering. The approach can be used in any engineering
 discipline.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -148,6 +155,7 @@ syllabus is organized, and explains the “building blocks” approach in using
 the foundational skills and attitudes to develop higher order skills and
 attitudes. It also explains the needs for validation of a program’s skills
 and attitudes with key stakeholders.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -166,6 +174,7 @@ to techniques commonly used in the business world, namely external scanning
 and SWOT analysis. It also illustrates the process via 2 case studies from
 chemical engineering, one of which is on how the program responded to the
 challenge of Industry 4.0.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -184,6 +193,7 @@ thinking which is an important competency for chemical engineers. Pedagogies
 used to support active learning, with special emphasis on educational technologies
 (ICT tools), as well as considerations on synchronous vs asynchronous learning
 will also be discussed.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -202,6 +212,7 @@ call for using an evidence-based approach. To further enhance the process,
 a process using 3 metaphors of mirror, microscope and binoculars aligned
 to the CDIO Core Standards will be shared. Case studies on how this approach
 is used to help CDIO Self-Evaluation and curriculum redesign will be provided.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -220,6 +231,7 @@ how CDIO is used to redesign the curriculum in response to changes in the
 domain discipline, in national requirements, and in addressing changes
 to sustainable development. This is followed by critical success factors
 and best practices, which covers all aspects of teaching and learning.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -239,6 +251,7 @@ This represent the change in focus and approach arising from deficiencies
 in earlier attempts in engaging students. It also outlines the competencies
 needed for sustainable development and suggested using sustainability as
 a discourse to deliver the transformative learning needed.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -257,6 +270,7 @@ Core Curriculum (CCC) and selected program – namely chemical engineering
 – to provide the context of how the integration can be carried out. It
 complements the earlier webinar on “Introduction to Education for Sustainable
 Development (ESD)”.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -275,6 +289,7 @@ non-engineering programs. Specifically, it provides a detailed standard-by-stand
 analysis of each stage of the curriculum lifecycle adapted for a non-engineering
 program: from needs and outcomes, through to design and delivery, and evaluation
 of the curriculum.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
