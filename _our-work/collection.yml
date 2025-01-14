@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - CDIO Worldwide/CDIO International Working Meeting 2024.md
       - CDIO Worldwide/.keep
       - CDIO Worldwide/CDIO Worldwide.md
       - CDIO Worldwide/Co Director CDIO Council.md
