@@ -6,12 +6,10 @@ variant: tiptap
 ---
 <p>These are short, 45-60 minutes webinars currently available from Singapore
 Polytechnic. They are meant to be introduce participants to specific aspects
-of CDIO, some of which at the program-level and others at the course-level.</p>
-<p>&nbsp;</p>
+of CDIO, some of which at the program-level and others at the course-level.&nbsp;</p>
 <p>Use the CONTACT FORM to reach us, if you like one to be arranged for your
 institution. Other topics not listed here can be arranged. Again, use the
-CONTACT FORM to submit your enquiry.</p>
-<p>&nbsp;</p>
+CONTACT FORM to submit your enquiry.&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
