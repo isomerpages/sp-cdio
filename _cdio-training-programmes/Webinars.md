@@ -7,9 +7,10 @@ variant: tiptap
 <p>These are short, 45-60 minutes webinars currently available from Singapore
 Polytechnic. They are meant to be introduce participants to specific aspects
 of CDIO, some of which at the program-level and others at the course-level.&nbsp;</p>
-<p>Use the CONTACT FORM to reach us, if you like one to be arranged for your
-institution. Other topics not listed here can be arranged. Again, use the
-CONTACT FORM to submit your enquiry.&nbsp;</p>
+<p>Use the <a href="https://form.gov.sg/621d82477ef19c001210bd7a" rel="noopener nofollow" target="_blank">CONTACT FORM</a> to
+reach us, if you like one to be arranged for your institution. Other topics
+not listed here can be arranged. Again, use the <a href="https://form.gov.sg/621d82477ef19c001210bd7a" rel="noopener nofollow" target="_blank">CONTACT FORM </a>to
+submit your enquiry.&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -110,8 +111,8 @@ participants unpack the underpinning skills and attitudes needed to support
 SDL and via the use of the CDIO Syllabus. It illustrates the process using
 the example of chemical engineering, explaining how relevant CDIO Standards
 - from Integrated Curriculum to Integrated Learning Experiences - are used
-to support the integration process. This webinar provides the background understanding that is built upon
-by a workshop on SDL (WS1).</p>
+to support the integration process. This webinar provides the background
+understanding that is built upon by a workshop on SDL (WS1).</p>
 </td>
 </tr>
 <tr>
