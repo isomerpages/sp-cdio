@@ -4,25 +4,160 @@ permalink: /cdio-training-programmes/long-workshops/
 description: ""
 variant: tiptap
 ---
-**WORKSHOPS – LONG (ONLINE or HYBRID or ON-SITE)**
-
-These are 2 to 5 days; or longer events that equips participants with the knowledge and skills needed to execute a program-level CDIO implementation. It can be seen as using CDIO Core Standards 9 and 10, to prepare faculty in other aspects of CDIO, namely Core Standards 1 – 8, 11 and 12; as well as the CDIO Syllabus. Participants choose the workshop that best meet their current needs.
-
-Workshops WL1 (2 days) is meant to provide participants with short and concise introduction to the CDIO Framework, in particular the 12 core standards. It is recommended for all who are interested in using CDIO as the basis of curriculum redesign one’s program but wanted to know more about the scope and depth of such efforts in curricular changes. It is particularly useful for Head of Department / Faculty / School, Program Owners, or other equivalent job roles. This workshop can be conducted fully online.
-
-Workshop WL2 (18 days) provides a comprehensive faculty professional development in CDIO, covering in details how the CDIO Syllabus and each CDIO Core Standard are to be used to design or redesign any program. At the end of this workshop, participants can expect to have a working prototype of a program’s curriculum based on the CDIO Framework. The recommended audience are Program Head, Program Chair or other equivalent job roles, i.e. faculty tasked with leading the CDIO implementation in the institution. These workshops are also suitable for teaching and learning specialists who will assist other faculty in the implementation process. This workshop can be conducted in a hybrid method, whereby the face-to-face sessions comprised both on-site sessions at the host institution and workshops in Singapore Polytechnic.
-
-Workshop WL3 (5 days) are meant to provide participants with short and concise knowledge and skills to kick start a program for adopting the CDIO Framework. It is recommended for all who will be involved in the curriculum redesign process to acquire working know-how in using the CDIO Framework. The main emphasis is on carrying out a Self-Evaluation of one’s program. It can be conducted fully online or preferably on-site at the host institution.
-
-A consultancy fee will be charged for these workshops, which for on-site sessions, will also include air and land travel, meals and accommodation. For sessions to be conducted in SP, all expenses associated with travel, meals and accommodation will be borne by your institution.
-
-Use the [CONTACT FORM](https://www.form.gov.sg/#!/621d82477ef19c001210bd7a) to reach us, if you like one to be arranged for your institution. Other topics not listed here can be arranged. Again, use the [CONTACT FORM](https://www.form.gov.sg/#!/621d82477ef19c001210bd7a) to submit your enquiry.
-
-
-
-| S/N | Workshop Topic | Synopsis |
-| -------- | -------- | -------- |
-| WL1     | Basic CDIO Familiarization Program (2-day online)     | This program aims to provide participants with a quick start to CDIO. It provide participants with short and concise introduction to the CDIO Framework, notably the 12 core Standards, and henceforth an appreciation of the scope and depth of curriculum design and redesign effort. It also shares Singapore Polytechnic’s approach to the adoption of the Framework, learning points from the adoption process, and how SP further strengthen the process by augmenting the CDIO Framework with other initiatives such as Design Thinking, setting up of Fab Lab.     |
-| WL2     | Comprehensive CDIO Implementation Program (18-day, hybrid)     | This is a comprehensive 18-day full suite of professional development program in CDIO, which can be spread over 1 year. All the CDIO standards are inter-related, and the sequence proposed herein is based on SP’s experience in CDIO implementation that worked well for SP. It is henceforth recommended that participants complete the entire suite of workshops, with intervals between the different components to allow time for participants to apply methods learnt in earlier components. These workshops can be conducted in a hybrid format. It is also recommended that the time frame for completing all components A to G be limited to not more than 14 months. These workshops can also be conducted fully on-site at your institution (or other designated venue in the host country) for which the duration to complete the whole suite is less than 1 year, e.g. by combining several components into 3 to 4 training “blocks”, with each block consisting of several components.     |
-| WL3     | Understanding CDIO for Continual Improvement via Program Self-Evaluation (5-day online, or on-site)     | This workshop covers in 5 days all the essentials of the 12 CDIO Core Standards and CDIO Syllabus. It provide sufficient interpretation of each CDIO Standard, and how to use the CDIO Syllabus in the curriculum design or redesign process. It aims to equip participants with adequate understanding of the CDIO Framework to carry out a self-evaluation of one’s program for to aid planning for detailed curriculum changes later. The workshop also shares how the CDIO Standards are used to support continual improvement via alignment to Singapore Polytechnic’s Academic Quality Management System. Participants will be guided through the self-evaluation process of their respective programs standard-by-standard.    |
-|      | Other topics     | Will be added when available.    |
+<p></p>
+<p>These are comprehensive program that equips participants with the knowledge
+and skills needed to execute a program-level CDIO implementation. It can
+be seen as using CDIO Core Standards 9 and 10, to prepare faculty in other
+aspects of CDIO, namely Core Standards 1 – 8, 11 and 12; as well as the
+CDIO Syllabus. All the CDIO standards are inter-related, and the sequence
+proposed herein is based on SP’s experience in CDIO implementation that
+worked well for SP. It is henceforth recommended that participants complete
+the entire suite of workshops, with intervals between the different components
+to allow time for participants to apply methods learnt in earlier components.
+Notwithstanding that, it is also recommended that the maximum total duration
+for completing all components be limited to 1 year.</p>
+<p>&nbsp;</p>
+<p>The recommended audience are Program Head, Program Chair or other equivalent
+salutations, i.e. faculty tasked with leading the CDIO implementation in
+the institution. These workshops are also suitable for teaching and learning
+specialists who will assist other faculty in the implementation process.
+These workshops can also be conducted in a hybrid format or fully on-site
+at your institution (or other designated venue in the host country) for
+which the different elements can be combined into longer duration training
+that can be completed in less than 1 year.</p>
+<p>&nbsp;</p>
+<p>A consultancy fee will be charged for these workshops.</p>
+<p>&nbsp;</p>
+<p>Use the CONTACT FORM to reach us for more discussions.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Workshop Topic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CDIO – The Complete Package</p>
+<p>This is a comprehensive 18-day full suite of professional development
+program in CDIO, which can be spread out over 1 year.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Planning the Design: Context and Outcomes</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This 4-day session covers Standard 1 The Context and Standard 2 Learning
+Outcomes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Designing the Curriculum: Integrated Curriculum and Design-Implement Experiences</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This 5-day session covers Standard 3 Integrated Curriculum and Standard
+5 Design-Implement Experiences</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delivering the Curriculum: Integrated Learning Experiences and Active
+Learning</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This 4-day session covers Standard 7 Integrated Learning Experiences and
+Standard 8 Active Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Assessment</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This 2-day session covers Standard 11 Learning Assessment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Journey to SP – see <u>NOTE 1</u>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This is a 5 day session covering visits to selected facilities in SP,
+as part of Standard 6 Engineering Learning Workspaces as well as Standard
+9 Enhancement of Faculty Competence, and Standard 10 Enhancement of Faculty
+Teaching Competence</p>
+<p><u>NOTE 1</u>:&nbsp;&nbsp;&nbsp;&nbsp; Learning Journey to specific sites,
+for example, specific facility in a given school, can also be arranged.
+Interested participants can check out facilities in SP to help deciding
+which ones to visit. Go to <a rel="noopener noreferrer nofollow" target="_blank">https://www.sp.edu.sg/sp/about-sp/facilities/VirtualTour</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Continual Improvement</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This 3-day session covers Standard 12 Program Evaluation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XXX</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Other topics will be added when available.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
