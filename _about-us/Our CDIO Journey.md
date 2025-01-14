@@ -47,6 +47,50 @@ Conference which will be held in Norway. For more details visit <a href="https:/
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP@70 International Learning Festival: Hosted CDIO International Working
+Meeting along with other SP-wide events</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introduced CDIO for developing students’ sustainability mindset via ESD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finetuning the “Learning from Deliberate Failure” pedagogy after pilot
+run</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP is a member of the International Conference Programme Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introduced CDIO for new initiative “Learning from Deliberate Failure”
+pedagogy” in collaboration with Singapore University of Technology &amp;
+Design, at the International Conference in Trondheim, Norway</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
