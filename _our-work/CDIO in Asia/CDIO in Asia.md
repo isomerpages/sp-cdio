@@ -90,6 +90,101 @@ for participants: workshops, sharing sessions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>July</p>
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conducted a seminar on CDIO for Non-Engineering Program for a university
+in Taiwan; and also shared how SP integrates ESD into its program using
+Common Core Curriculum, guided by CDIO Framework for programs adopting
+CDIO.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May</p>
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delivered a talk on Using CDIO to Support Accreditation to visitors from
+the Technological Institute of the Philippines</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May</p>
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delivered an online presentation CDIO for Non-Engineering at the 2024
+Education Summit organized by Bulacan State University from the Philippines</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May</p>
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delivered a Master Class “CDIO: Engineering for Sustainable Development”
+in the 2024 International Conference on Innovations in Engineering Education
+(ICIEE) organized by Batangas State University, the National Engineering
+University of the Philippines</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr</p>
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conducted a 4-day CDIO Train-the-Trainer Program for faculty from Politeknik
+Negeri Batam, as part of joint-collaboration to bring CDIO to more IHLs
+in Indonesia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conducted the CDIO Asia Co-Leaders’ Summit, hosted by Duy Tan University,
+Vietnam.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delivered a talk on Integrating Sustainability Competency into a Program
+using CDIO to visitors from the PFT University, Vietnam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dec</p>
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delivered a keynote speech “Education for Sustainable Development – Experience</p>
+<p>from Singapore Polytechnic using the Common Core Curriculum and CDIO Framework”
+at the 2023 EduCamp organized by FPT University Vietnam in their Danang
+Campus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oct 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shared CDIO with visitors comprising education leaders from a group of
+state polytechnics in Indonesia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Oct 2023</p>
 </td>
 <td rowspan="1" colspan="1">
