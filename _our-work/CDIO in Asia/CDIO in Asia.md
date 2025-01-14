@@ -182,7 +182,9 @@ state polytechnics in Indonesia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Attended the CDIO Asia Regional Meeting hosted by Bulacan State University
-in the Philippines</p>
+in the Philippines. Oversee the conduction of Co-Leader Election, application
+to join CDIO Asia, and presentation to host ARM. Conducted activities for
+participants: workshops, sharing sessions</p>
 </td>
 </tr>
 <tr>
@@ -191,10 +193,7 @@ in the Philippines</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Visited Batangas State University in the Philippines to pilot the Peer-to-Peer
-Support on Education in Sustainable Development. Oversee the conduction
-of Co-Leader Election, application to join CDIO Asia, and presentation
-to host ARM. Conducted activities for participants: workshops, sharing
-sessions</p>
+Support on Education in Sustainable Development.</p>
 </td>
 </tr>
 <tr>
