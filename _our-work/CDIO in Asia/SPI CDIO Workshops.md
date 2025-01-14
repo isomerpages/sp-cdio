@@ -9,11 +9,8 @@ variant: tiptap
 <p>Workshops for CDIO are negotiated through and managed by SP International
 Office.</p>
 <p></p>
-<p>For more info on programs on CDIO, check out the tab <u>CDIO TRAINING PROGRAMMES </u>on
-this website (create a new window that opened when clicked on, based on
-the link below:</p>
-<p><a href="https://sp-cdio-centreforteaching.sp.edu.sg/cdio-training-programmes/webinars/" rel="noopener noreferrer nofollow" target="_blank">https://sp-cdio-centreforteaching.sp.edu.sg/cdio-training-programmes/webinars/</a>
-</p>
+<p>For more info on programs on CDIO, check out the tab <a href="https://sp-cdio-centreforteaching.sp.edu.sg/cdio-training-programmes/webinars/" rel="noopener nofollow" target="_blank">CDIO TRAINING PROGRAMMES</a><u> </u>on
+this website.</p>
 <p>These are workshops organized by SP International (SPI) over the years,
 jointly conducted by SP CDIO Experts and SPI Consultants. These workshops
 were conducted at-site at partner universities, with multiple components
