@@ -26,8 +26,7 @@ involvements:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec</p>
-<p>2024</p>
+<p>Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shared CDIO at a Conference “CHEDx 2024: Building Synergy” organized by
@@ -84,10 +83,9 @@ sharing sessions on CDIO Standards 7 and 8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Attended the CDIO Asia Regional Meeting hosted by Hokkaido Information
-University, Japan.</p>
-<p>Oversee the conduction of Co-Leader Election, application to join CDIO
-Asia, and presentation to host ARM; and also conducted activities for participants:
-workshops, sharing sessions</p>
+University, Japan. Oversee the conduction of Co-Leader Election, application
+to join CDIO Asia, and presentation to host ARM; and also conducted activities
+for participants: workshops, sharing sessions</p>
 </td>
 </tr>
 <tr>
@@ -107,8 +105,8 @@ in the Philippines</p>
 <p>Visited Batangas State University in the Philippines to pilot the Peer-to-Peer
 Support on Education in Sustainable Development. Oversee the conduction
 of Co-Leader Election, application to join CDIO Asia, and presentation
-to host ARM</p>
-<p>Conducted activities for participants: workshops, sharing sessions</p>
+to host ARM. Conducted activities for participants: workshops, sharing
+sessions</p>
 </td>
 </tr>
 <tr>
