@@ -50,7 +50,15 @@ program in CDIO, which can be spread out over 1 year.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Planning the Design: Context and Outcomes</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture41.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture42.jpg">
+</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +70,15 @@ Outcomes.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Designing the Curriculum: Integrated Curriculum and Design-Implement Experiences</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture43.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture44.jpg">
+</div>
+<p>&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -90,6 +106,15 @@ Outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>Delivering the Curriculum: Integrated Learning Experiences and Active
 Learning</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture45.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture46.jpg">
+</div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
@@ -106,6 +131,9 @@ Standard 8 Active Learning</p>
 <td rowspan="1" colspan="1">
 <p>Learning Assessment</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture47.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -121,6 +149,9 @@ Standard 8 Active Learning</p>
 <p>Learning Journey to SP – see <u>NOTE 1</u>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture48.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -143,6 +174,9 @@ which ones to visit. Go to <a rel="noopener noreferrer nofollow" target="_blank"
 <td rowspan="1" colspan="1">
 <p>Continual Improvement</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture49.jpg">
+</div>
 </td>
 </tr>
 <tr>
