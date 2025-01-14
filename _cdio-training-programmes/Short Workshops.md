@@ -89,18 +89,7 @@ one’s own program in particular; and explore plausible approaches to address
 any challenges.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Designing CDIO-type Integrated Curriculum</p>
@@ -180,18 +169,6 @@ in the context of ESD.</p>
 is <strong>not used</strong> in this workshop.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Integrating Sustainable Development into Curriculum</p>
