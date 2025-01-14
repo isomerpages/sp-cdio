@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: CDIO Centre for Innovative Teaching & Learning
-      background: /images/TIP_Visit_to_SP__May_2024__jpg.png
+      background: /images/Picture1.jpg
       variant: image
   - infobar:
       title: Welcome
