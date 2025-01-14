@@ -4,10 +4,8 @@ permalink: /cdio-training-programmes/short-workshops/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <p><strong>WORKSHOPS</strong>
 </p>
-<p>&nbsp;</p>
 <p>These are 1-3 days events meant for participants who had already acquired
 basic understanding of the CDIO Framework. It is most useful for faculty
 who wanted to introduce a given CDIO Skill or set of CDIO Skills into his/her
@@ -16,12 +14,9 @@ In general, topics covered in the Webinar can be elaborated upon with hands-on
 application in one’s specific program/course. 2 special topics of writing
 CDIO papers and accreditation are also included. Other topics not listed
 here can be arranged.</p>
-<p>A small fee will be charged for these workshops.</p>
-<p>&nbsp;</p>
-<p>Use the CONTACT FORM to reach us for more discussions.</p>
-<p>&nbsp;</p>
-<p>*****</p>
-<p>&nbsp;</p>
+<p>A small fee will be charged for these workshops.&nbsp;</p>
+<p>Use the <a href="https://form.gov.sg/621d82477ef19c001210bd7a" rel="noopener nofollow" target="_blank">CONTACT FORM </a>to
+reach us for more discussions.</p>
 <p>Some of the available workshops are listed below:</p>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
