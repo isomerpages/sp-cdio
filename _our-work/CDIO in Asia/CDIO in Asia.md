@@ -161,8 +161,8 @@ using CDIO to visitors from the PFT University, Vietnam</p>
 <p>Dec 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Delivered a keynote speech “Education for Sustainable Development – Experience</p>
-<p>from Singapore Polytechnic using the Common Core Curriculum and CDIO Framework”
+<p>Delivered a keynote speech “Education for Sustainable Development – Experience
+from Singapore Polytechnic using the Common Core Curriculum and CDIO Framework”
 at the 2023 EduCamp organized by FPT University Vietnam in their Danang
 Campus</p>
 </td>
