@@ -4,7 +4,9 @@ title: Singapore Polytechnic CDIO Centre for Innovative Teaching & Learning
 description: Singapore Polytechnic CDIO Centre for Innovative Teaching & Learning
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: CDIO Centre for Innovative Teaching & Learning
