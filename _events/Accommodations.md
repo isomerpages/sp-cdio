@@ -1,7 +1,10 @@
 ---
 title: Accommodations
 permalink: /events/accommodations/
-description: ""
+description: Singapore Polytechnic’s CDIO Centre enhances teaching and learning
+  through the CDIO framework, supporting innovative engineering education,
+  curriculum design, and faculty development.
+variant: tiptap
 ---
 The event will be happening in-person at Singapore Polytechnic in Singapore.
 

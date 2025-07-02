@@ -1,7 +1,10 @@
 ---
 title: SP CDIO ESD Self Evaluation
 permalink: /our-work/cdio-self-evaluation/
-description: ""
+description: Singapore Polytechnic’s CDIO Centre enhances teaching and learning
+  through the CDIO framework, supporting innovative engineering education,
+  curriculum design, and faculty development.
+variant: tiptap
 ---
 The following link is meant for SP Staff use only.
 

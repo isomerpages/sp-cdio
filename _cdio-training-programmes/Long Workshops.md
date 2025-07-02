@@ -120,9 +120,7 @@ as part of Standard 6 Engineering Learning Workspaces as well as Standard
 9 Enhancement of Faculty Competence, and Standard 10 Enhancement of Faculty
 Teaching Competence</p>
 <p><u>NOTE 1</u>: Learning Journey to specific sites, for example, specific
-facility in a given school, can also be arranged. Interested participants
-can check out facilities in SP to help deciding which ones to visit. Click
-<a href="https://www.sp.edu.sg/sp/about-sp/facilities/VirtualTour" rel="noopener nofollow" target="_blank">here</a>for more information.</p>
+facility in a given school, can also be arranged.</p>
 </td>
 </tr>
 <tr>
