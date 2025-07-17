@@ -9,5 +9,3 @@ variant: markdown
 
 For more information on SP Design Thinking 101, please visit 
 [here](https://www.sp.edu.sg/pace/courses/all-courses/course-details/design-thinking-101)
-
-https://www.sp.edu.sg/pace/courses/all-courses/course-details/design-thinking-101
