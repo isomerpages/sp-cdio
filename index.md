@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       title: CDIO Centre for Innovative Teaching & Learning
-      background: /images/Picture1d.jpg
+      background: /images/Team_photo4.jpg
       variant: image
   - infobar:
       title: Welcome
